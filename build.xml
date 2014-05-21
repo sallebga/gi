@@ -1,5 +1,7 @@
 <?xml version="1.0"?>
 <!-- gi@lasallebga.edu.co -->
+<!-- D:\download\ReplaceText\2.2 -->
+<!-- D:\dev\sallebga\gi -->
 <project name="gi" default="bak" basedir=".">
 
   <tstamp/>
