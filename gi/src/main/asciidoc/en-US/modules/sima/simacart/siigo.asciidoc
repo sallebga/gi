@@ -1,0 +1,37 @@
+[[simacart-siigo]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== SIIGO
+
+=== REQUERIMIENTOS
+
+* Sacar una copia seguridad antes de la actualización y guardarla para verificar informes para evitar cambios.
+
+* Actualizar el PLUSCART a la versión: XML214-02 en adelante.
+
+* Actualizar los extractos de todos los años.
+
+* Actualizar los conceptos de las transaciones.
+
+** Configurar el año del concepto del mes actual
+
+** Configurar el año del concepto otros meses año actual
+
+** Configurar el año del concepto abono mes actual
+
+** Configurar el año de los conceptos de los abonos.
+
+* Imprimir todos los extractos y verificar los años asignados a los conceptos de abonos, pensiones.
+
+* Cambiar el conceptos de abonos anteriores para que no lleve el año el sistema lo asigna. - Pendiente modificación.
+
+* Cambiar el código del concepto para las pensiones y abonos correspondiente a años direferentes al año actual
+
+* REPL ALL nCodigoCmv WITH XX FOR nCodigoCmv = XX .and. SUBS(cCodRefTra,7,2) == 'XX'

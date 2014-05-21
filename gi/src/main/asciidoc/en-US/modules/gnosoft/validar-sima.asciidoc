@@ -1,0 +1,73 @@
+[[gnosoft-validar-sima]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== GNOSOFT
+
+https://github.com/sallebga/gnosoft/tree/master/src/main/asciidoc/en-US/modules[LINK]
+
+
+=== [[VALIDAR SIMA vs GNOSOFT]]VALIDAR SIMA vs GNOSOFT ojo
+
+* Generar el reporte: *[Acad&#233;mico administrador][Consultas y reportes][Generar reportes][MATR&#205;CULA][Estudiantes Matriculados]*
+
+** Grabar el archivo con el nombre de: *gnosoft.csv*
+
+** Abrir el archivo con excel 2003 y eliminar todos campos excepto los siguientes:
+
+*** cCodigoGru
+
+*** cCodigoNiv
+
+*** cDocNitEst
+
+*** cApelliEst
+
+*** cNombreEst
+
+*** cCodigoEst
+
+** Ampliar los campos para ajustar las columnas y revisar todos los campos para que no queden truncados.
+
+** Agregar al principio un registro alfabetico puede ser la letra a para cada columna y grabar el archivo como una hoja de
+   excel con el mismo nombre de: *gnosoft.xls*
+
+** Convertir el archivo de excel en una tabla de Dbase III Plus:[Archivo][Guardar como:][Guardar como tipo: DBF 3(DBASE III(*.dbf))] archivo: *gnosoft.dbf*
+
+** Copiar los maestros de alumnos del sima en la misma carpeta donde se grabo el archivo: gnosoft.dbf, esto como una copia de seguridad.
+
+** Copiar los maestros del sima a la carpeta: ..[SIMATOOL][BASES] con le extensi&#243;n: .dbf
+
+** Copiar el archivo: *gnosoft.dbf* a la carpeta: ..[SIMATOOL][BASES]
+
+** Ir por la consola del D.O.S y ubicarse en la carpeta: [SIMATOOL][BASES]
+
+** Ejecutar el DBU.EXE y abrir el archivo maesoft.dat
+
+*** Borrar los registros escogiendo la opci&#243;n: *Zap*
+
+*** Appendizar los registros del archivo: *gnosoft.dbf*
+
+*** Verificar los registros agregados escogiendo la opci&#243;n: Browse
+
+** Ejecutar el DBU.EXE y abrir el archivo maesima.dat
+
+*** Borrar los registros escogiendo la opci&#243;n: *Zap*
+
+*** Appendizar los registros de los archivos de los maestros del sima con le extensi&#243;n: .dbf
+
+*** Verificar los registros agregados escogiendo la opci&#243;n: Browse
+
+** Ejecutar la opci&#243;n para encontrar las inconsistencias ingresando en SIMATOOL
+
+*** *[SISTEMA SIMATOOL][ACTUALIZAR][VALIDAR MAEA&#209;O EXTERNO]*
+
+** Copiar los archivos: maesoft.dat y maesima.dat que contiene las inconsistencias encontradas.
+
+

@@ -1,0 +1,100 @@
+[[simadata-configuracion]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== SIMADATA
+
+=== [[CONFIGURACIONES PARA GENERAR EL REPORTE DE DATACREDITO]]CONFIGURACIONES PARA GENERAR EL REPORTE DE DATACREDITO
+
+==== CONFIGURACIONES EN SIMADATA:
+
+* [UTILIDADES][CONFIGURACION][CONFIGURACION GENERAL]
+
+** *CODIGO DE LA EMPRESA* = Código Interno asociado al Colegio.
+
+** *NOMBRE DE LA EMPRESA* = Nombre del Colegio = 2.44 OFICINA DE RADICACION
+
+** *CIUDAD DE LA EMPRESA* =  Ciudad del Colegio =  2.45 CIUDAD DE RADICACION
+
+* [UTILIDADES][CONFIGURACION][CONFIGURACION SISTEMA]
+
+** *CLASE DE REPORTE* = Se debe asignar el número 1
+
+** *CAMPO 1.2 CODIGO DEL SUSCRIPTOR* =  El código asignado al Colegio por DataCrédito
+
+** *CAMPO 1.3 TIPO DE CUENTA* = 43 : Cartera Educación. Anexo No. 2.1
+
+** *CAMPO 2.9 TIPO OBLIGACION* = 4 :  Otro. Anexo No. 2.3
+
+** *CAMPO 2.14 PERIOCIDAD DE PAGO* = 1 : Mensual
+
+** *CAMPO 2.27 TIPO MONEDA* = 1 : Legal
+
+** *CAMPO 2.28 TIPO GARANTIA* = 1 : Admisible
+
+* [UTILIDADES][CONFIGURACION][CONFIGURACION AÑO]
+
+** *TOTAL COUTAS* = Se debe definir el total de cuotas. Corresponde al número total de cuotas para cancelar la totalidad de la obligación.
+
+** *CONTRATANTES A REPORTAR:* Definir el numero de contratantes a reportar.
+
+*** Una vez se haya definido el número de contratantes a reportar se debe tener presente que la variación debe ser de menor a mayor y no de mayor a menor.
+
+*** El sistema reporta el total de contratantes en orden secuencial desde el primer contratante sin tener en cuenta los contratantes no definidos.
+
+** *TIPO DE REPORTE* = Se debe definir el tipo de reporte. Los tipos de reportes son:
+
+*** 1 => El sistema de acuerdo al número de contratantes a reportar TIENE EN CUENTA los contratantes no definidos, es decir lo cuenta, mas no lo reporta.
+
+*** 2 => El sistema de acuerdo al número de contratantes a reportar NO TIENE EN CUENTA los contratantes no definidos, es decir NO lo suma y busca el siguiente contratante para reportarlo.
+
+** *VALIDAR CONTRATANTES:* Se debe definir el tipo de validación. Los tipos de validación son los siguientes:
+
+*** 1 al 4 = Valida la existencia de TODOS los contratantes en su orden secuencial, y verifica que todos los contratantes estén definidos
+
+*** 9 = No realiza ningún tipo de validación de los contratantes, permite que existan estudiantes sin ningún contratante definido y no lo tiene en cuenta para el reporte.
+
+** *VALIDAR REPORTE:* Campo Reservado para uso del sistema
+
+** *MESES DE PLAZO:* Son los meses de plazo que se establecen para generar el reporte.
+
+*** Para activar la modificacion del campo: [UTILIDADES][CONFIGURACION][CONFIGURACION SISTEMA] HABILITAR MODIFICACION
+
+* [UTILIDADES][MANTENIMIENTO][EMPRESAS]
+
+** En esta opción se registran todos los Colegios para que el sistema genere un solo archivo para DATACREDITO.
+   Si se va a genera localmente en cada colegio solo se debe registra un solo registro con el código y nombre del Colegio.
+
+** *CODIGO EMPRESA:* Código Interno asociado al Colegio.
+
+** *NOMBRE DE EMPRESA:* Nombre del Colegio
+
+* [UTILIDADES][MANTENIMIENTO][VALOR INICIAL]
+
+** Para cada grado de estudio se debe definir el valor inicial de la obligación que corresponde al total mensual de los costos 
+   educativos que se facturan en el recibo de la pensión.
+
+** Es importante resaltar que el sistema utiliza este total para calcular el valor del mes que se factura y asi 
+   calcular los meses pagados o en mora, y también sirve de base para calcular el tipo de novedad que se va a reportar.
+
+** Una guía es observar las cifras de cualquier año anterior para que sirva de base de como se deben definir las del año actual.
+
+==== CONFIGURACIONES EN SIMACART:
+
+* [UTILIDADES][CONFIGURACION][CONFIGURACION SISTEMA]
+
+** *AÑO INICIAL PARA REPORTAR* = Se debe definir el año inicial a reportar
+
+** *AÑO FINAL PARA REPORTAR* = Se debe definir el año inicial a reportar
+
+* [UTILIDADES][CONFIGURACION][CONFIGURACION DEL AÑO]
+
+** *MES INICIAL DE FACTURACION* = Se debe definir el primer mes de la facturación. En la mayoria de los casos 2 del mes de Febrero
+
+** *MES FINAL DE FACTURACION* = Se debe definir el último mes de facturación

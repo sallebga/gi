@@ -1,0 +1,576 @@
+[[gnosoft]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== GNOSOFTojo
+
+https://github.com/sallebga/gnosoft/tree/master/src/main/asciidoc/en-US/modules[LINK]
+
+////
+
+=== [[VALIDAR SIMA vs GNOSOFT]]VALIDAR SIMA vs GNOSOFT
+
+* Generar el reporte: *[Acad&#233;mico administrador][Consultas y reportes][Generar reportes][MATR&#205;CULA][Estudiantes Matriculados]*
+
+** Grabar el archivo con el nombre de: *gnosoft.csv*
+
+** Abrir el archivo con excel 2003 y eliminar todos campos excepto los siguientes:
+
+*** cCodigoGru
+
+*** cCodigoNiv
+
+*** cDocNitEst
+
+*** cApelliEst
+
+*** cNombreEst
+
+*** cCodigoEst
+
+** Ampliar los campos para ajustar las columnas y revisar todos los campos para que no queden truncados.
+
+** Agregar al principio un registro alfabetico puede ser la letra a para cada columna y grabar el archivo como una hoja de
+   excel con el mismo nombre de: *gnosoft.xls*
+
+** Convertir el archivo de excel en una tabla de Dbase III Plus:[Archivo][Guardar como:][Guardar como tipo: DBF 3(DBASE III(*.dbf))] archivo: *gnosoft.dbf*
+
+** Copiar los maestros de alumnos del sima en la misma carpeta donde se grabo el archivo: gnosoft.dbf, esto como una copia de seguridad.
+
+** Copiar los maestros del sima a la carpeta: ..[SIMATOOL][BASES] con le extensi&#243;n: .dbf
+
+** Copiar el archivo: *gnosoft.dbf* a la carpeta: ..[SIMATOOL][BASES]
+
+** Ir por la consola del D.O.S y ubicarse en la carpeta: [SIMATOOL][BASES]
+
+** Ejecutar el DBU.EXE y abrir el archivo maesoft.dat
+
+*** Borrar los registros escogiendo la opci&#243;n: *Zap*
+
+*** Appendizar los registros del archivo: *gnosoft.dbf*
+
+*** Verificar los registros agregados escogiendo la opci&#243;n: Browse
+
+** Ejecutar el DBU.EXE y abrir el archivo maesima.dat
+
+*** Borrar los registros escogiendo la opci&#243;n: *Zap*
+
+*** Appendizar los registros de los archivos de los maestros del sima con le extensi&#243;n: .dbf
+
+*** Verificar los registros agregados escogiendo la opci&#243;n: Browse
+
+** Ejecutar la opci&#243;n para encontrar las inconsistencias ingresando en SIMATOOL
+
+*** *[SISTEMA SIMATOOL][ACTUALIZAR][VALIDAR MAEA&#209;O EXTERNO]*
+
+** Copiar los archivos: maesoft.dat y maesima.dat que contiene las inconsistencias encontradas.
+
+////
+
+
+=== [[ASIGNACION DE CURSOS A LOS ESTUDIANTES]]ASIGNACION DE CURSOS A LOS ESTUDIANTES
+
+Pendiente
+
+=== PENDIENTE
+
+** Reemplazar los campos:
+
+*** gred_nombre = grado
+
+*** documento = xDocNit  NOTA: Garantizar que el primer registro sea caracter
+
+*** apellidos = xApelli
+
+*** nombres = xNombre
+
+*** codigo = xCodigo
+
+** Ampliar los campos para ajustar las columnas
+
+** Reemplazar los nombres de los grados:
+
+*** PREJARD&#237;N = PREJARDIN
+
+*** JARD&#237;N = JARDIN
+
+*** TRANSICI&#243;N = TRANSICION
+
+*** UND&#233;CIMO = UNDECIMO
+
+** Convertir el archivo a maesoft.dbf y renombrar a maesoft.dat
+
+** Agregar los campos en los campos equivalentes:
+
+*** cCodigoEst = Character(6)
+
+*** cCodigoGru = Character(6)
+
+*** cDocNitEst = Character(16)
+
+*** cApelliEst = Character(30)
+
+*** cNombreEst = Character(30)
+
+*** Observacio = Character(100)
+
+*** Tipo = Character(1) => Sima - Gnosoft
+
+* Crear una copia del archivo maesoft.dat
+
+** copy maesoft.dat maesima.dat e eliminar sus registros
+
+** appendizar los registros de todos los maestros del sima
+
+=== PASOS
+
+* DESCARGAR LOS ESTUDIANTES:[Academico administrador][Consultas y reportes][Generar reportes][Matricula][Estudiantes Matriculados]  este mismo archivo se puede utilizar para actualizar los datos.
+
+* CONVERTIR EL EXCEL A FORMATO DBF: Editar el excel adicionar los campos cCodigoEst,cCodigoGru,renombrar los campos de cApelliEst,cNombreEst,etc. eliminar los innecsarios
+
+* REEMPLAZAR el cCodigoGru: REPL ALL cCodigoGru WITH SUBS(CURSO,AT('-',curso)+1,4)
+
+* REEMPLAZAR EL cCodigoEst: REPL ALL cCodigoEst  WITH STR(codigo,6)
+
+* APPEND DE JAR: APPEND FROM MAE FOR VAL(SUBS(cCodigoGru,1,2)) > 11
+
+* APPEND DE PRI:  APPEND FROM  MAE FOR VAL(SUBS(cCodigoGru,1,2)) <= 5
+
+* APPEND DE BTO: APPEND FROM MAE FOR VAL(SUBS(cCodigoGru,1,2)) >= 6 .AND. VAL(SUBS(cCodigoGru,1,2)) <= 11
+
+* COPIA DE LOS MAESTROS DE ESTUDIANTES: Se deben borrar los indices
+
+* NOTA: Se creo el archivo migrar.prg y se grabo en \simaclip.v52\simacont\f para automatizar este proceso.
+
+=== CAMPOS DEL MAESTRO DE ALUMNOS
+
+* *cCodigoEst*=>Codigo del Estudiante
+
+* *cCodigoGru*=>Codigo del grupo
+
+* *grado*=>Grado
+
+* *cTipNitEst*=>Tipo de Documento
+
+* *cDocNitEst*=>Documento de Identidad
+
+* *cLugNitEst*=>Lugar del Documento de identidad
+
+* *cDepNitEst*=>Departamento del Documento de identidad
+
+* *cApelliEst*=>Apellido del Estudiante
+
+* *cNombreEst*=>Nombre del Estudiante
+
+* *cSexFemEst*=>Sexo Femenino o Masculino
+
+* *cFecNacEst*=>Fecha de nacimiento
+
+* *cCiuNacEst*=>Ciudad de nacimiento
+
+* *cDepNacEst*=>Departamento Nacimiento
+
+* *cDireccEst*=>Direccion de la casa
+
+* *cBarrioEst*=>Barrio de la direccion
+
+* *cCiudadEst*=>Ciudad del Estudiante
+
+* *cDepartEst*=>Departamento del Estudiante
+
+* *cTelefnEst*=>Telefono de la casa
+
+* *cTelCelEst*=>Telefono celular del Estudiante
+
+* *cMaiEstEst*=>E-MAIL del Estudiante
+
+* *cFecMatEst*=>Fecha de matricula
+
+* *cHorMatEst*=>Hora de matricula
+
+* *estado*=>Estado del Estudiante
+
+* *cRetiroEst*=>Retirado
+
+* *cFecRetEst*=>Fecha del retiro
+
+* *cEstratEst*=>Estatro del Estudiante
+
+* *cNomEpsEst*=>Nombre de la Eps del Estudiante
+
+* *cGrupRhEst*=>Grupo Sanguineo
+
+
+===  INFORMES SOLICITADOS PARA MIGRAR DATOS
+
+* [Academico administrador][Consultas y reportes][Generar reportes][ESTUDIANTE]Reporte Estudiantes Activos y Retirados
+
+** Este informe contiene cada uno de los estudiantes matriculados y retirados con su informaci&#243;n
+
+** Este informe sirve para verificar los estudiantes y actualizar la informaci&#243;n
+
+** Para efectos de migraci&#243;n este archivo se debe convertir a .DBF y nombrar el archivo con el nombre MAEALU.DAT,
+   SE DEBEN ampliar las columnas con el suficiente espacio para que no se trunque la infomaci&#243;n al convertir el archivo a DBF
+
+** Campo: Renombrar el campo de A&#241;O LECTIVO por ANO
+
+* [Academico administrador][Consultas y reportes][Generar reportes][ACUDIENTE]Reporte Acudientes, Contratantes y Codeudores
+
+** Este reporte contiene la informaci&#243;n de los acudientes, contratantes y coodeudores
+
+** Para efectos de migraci&#243;n este archvo se debe convertir a .DBF y nombrar el archivo con el nombre de MAEACU.DAT, SE DEBEN ampliar las columnas con el suficiente espacio para que no se trunque la infomaci&#243;n al convertir el archivo a DBF
+
+*** Campo: cCodigoEst
+
+**** Renombrar el campo cCodigoEst a CodEst porque es un campo n&#250;merico
+
+**** Agregar el campo cCodigoEst de tipo Caracter de longitud 6
+
+**** Igualar el campo cCodigoEst = STR(CodEst,6)
+
+*** Campo: cTelefnPer
+
+**** Garantizar que al convertirlo sea de tipo caracter esto se logra garantizando que el primer registro no sea todo n&#250;merico
+
+
+=== [[GRABACION DE LA ESTRUCTURA CURRICULAR]]GRABACION DE LA ESTRUCTURA CURRICULAR
+
+* *COPIAR DATOS:* [Acad&#233;mico administrador][Herramientas][Copiar Datos]
+
+** SELECIONAR: Se debe realizar la copia uno por uno.
+
+*** Periodos Acad&#233;micos = [Academico administrador][Estructura Curricular][Gestionar Periodo Acad&#233;mico]
+
+*** Asignaturas a Grado = [Academico administrador][Estructura Curricular][Gestionar Asignatura a Grado] - Verificar que no se copien las materias optativas por grado o por curso.
+
+*** Cursos = [Academico administrador][Estructura Curricular][Gestionar Curso]
+
+*** Tipos de Calificaci&#243;n = [Academico administrador][Estructura Curricular][Gestionar Tipo de Calificaci&#243;n]
+
+*** Asignaci&#243;n Docente Curso = [Academico administrador][Carga Acad&#233;mica][Asignar Docente a Curso]
+
+*** Escalas de Calificaci&#243;n = [Academico administrador][Calificaciones][Gestionar Escala de Calificaci&#243;n] - Verificar que sean las mismas escalas para el a&#241;o.
+
+** NO SELECCIONAR:
+
+*** Logros e Indicadores
+
+*** Documentos a Entregar
+
+*** Convocatorias
+
+*** Examen Convocatoria
+
+*** Entrevista Convocatoria
+
+* *NOTA:*
+
+Revisar en forma secuencial cada una de las opciones de la estructura curricular.
+
+
+
+* *GESTIONAR AREAS Y ASIGNATURAS:*
+
+** [Acad&#233;mico administrador][Estructura Curricular][Gestionar &#225;reas de Asignatura]
+
+** [Acad&#233;mico administrador][Estructura Curricular][Gestionar Asignatura]
+
+** *NOTA:* No se debe renombrar o eliminar ninguna &#225;rea y asignatura porque esta relacionada en a&#241;os anteriores.
+
+** *INFORMES:*
+
+*** [Acad&#233;mico administrador][Consultas y reportes][Estructura Curricular y F&#237;sica][Consultar Asignaturas de Grados Educativos]
+
+*** [Acad&#233;mico administrador][Consultas y reportes][Generar reportes][ESTRUCTURA CURRICULAR][&#225;reas y Asignaturas]
+
+** *NOTA:* Imprimer estos dos informes para detectar las modificaciones de las &#225;reas y asignaturas en los diferentes grados.
+  No se debe renombrar oeliminar ninguna &#225;rea y asignatura porque esta relacionada en a&#241;os anteriores.
+
+
+
+* *GESTIONAR PLAN DE ESTUDIOS:* [Acad&#233;mico administrador][Estructura Curricular][Gestionar Asignatura a Grado]
+
+** Eliminar las materias optativas por grado y por curso porque NO DEBEN figurar en las asignaturas a Grado.
+
+** Para cada grado revisar las asignaturas y sus &#225;reas para hacer las modificaciones correspondientes a cada grado. GI
+
+** Actualizar la Intensidad Horaria. GI
+
+
+
+* *GESTIONAR CURSOS:* [Acad&#233;mico administrador][Estructura Curricular][Gestionar Curso]
+
+** Actualizar los cursos acad&#233;micos del a&#241;o
+
+** Definir los titulares de curso
+
+** Actualizar los cursos de las materias selectivas.
+
+** *INFORMES:*
+
+*** [Acad&#233;mico administrador][Consultas y reportes][Generar reportes][ESTRUCTURA CURRICULAR][Listado de Cursos]
+
+
+
+* *GESTIONAR LAS ASIGNATURAS OPTATIVAS:* [Acad&#233;mico administrador][Estructura Curricular][Gestionar Asignatura a Curso]
+
+** Actualizar las asignaturas semestralizadas
+
+** Actualizar las asignaturas optativas por grado
+
+** Actualizar las asignaturas optativas por curso
+
+** Revisar las materias optativas: [Acad&#233;mico administrador][Consultas y reportes][Generar reportes][ESTRUCTURA CURRICULAR][Estructura Curricular]
+
+*** Se filtra por la materias optativas y se revisan las materias optativas por grado y por curso.
+
+* *ROL: ESTRUCTURA CURRICULAR:* SE PUEDE IMPLEMENTAR CON EL ROL DE GESTION EDUCATIVA
+
+** [Academico administrador][Estructura Curricular][Gestionar Asignatura a Grado]
+
+** [Academico administrador][Estructura Curricular][Gestionar Asignatura a Curso] Materias opcionales por grado
+
+** [Academico administrador][Carga Acad&#233;mica][Gestionar Asignaturas a Docente]
+
+** [Academico administrador][Carga Acad&#233;mica][Asignar Docente a Curso]
+
+** ROLES ASIGNADOS ASIGANDOS A ASESORIA ACADEMICA: AUXILIAR-GE-GESTION EDUCATIVA?
+
+*** DOCENTE
+
+*** ESTRUCTURA CURRICULAR
+
+**** [Carga Acad&#233;mica][Gestionar Asignaturas a Docente]
+
+**** [Carga Acad&#233;mica][Asignar Docente a Curso]
+
+*** GEDUCATIVA
+
+**** [Estructura Curricular][Asignar Estudiantes a Cursos]
+
+**** [Estructura Curricular][Gestionar competencias/desarrollo]
+
+**** [Estructura Curricular][Gestionar Est&#225;ndar]
+
+**** [Estructura Curricular][Gestionar Indicadores Generales]
+
+**** [Estructura Curricular][Gestionar Est&#225;ndar General]
+
+
+*** GENERAR REPORTES
+
+
+
+* *REVISION DE LA ESTRUCTURA CURRICULAR:* [Acad&#233;mico administrador][Consultas y reportes][Generar reportes][ESTRUCTURA CURRICULAR][Estructura Curricular] GE
+
+** Revisar las &#225;reas y asignaturas de cada grado.
+
+** Revisar la Intensidad horaria de cada grado
+
+** Revisar los cursos de las materias optativas de ingles
+
+** Revisar los cursos de las materias optativas de Artistica
+
+
+* *GRABACION DE LA ASIGNACION ACADEMICA DE CADA PROFESOR:* [Acad&#233;mico administrador][Carga acad&#233;mica]
+
+** *Gestionar asignatura a docente:*[Acad&#233;mico administrador][Carga acad&#233;mica][Gestionar asignatura a docente]
+
+** *NOTA*: NO SE DEBE ELIMINAR NINGUNA DE LAS QUE FIGURA PORQUE BORRA ASIGNACION DE LOS A&#241;OS ANTERIORES.
+
+** Asignar docente a curso:[Acad&#233;mico administrador][Carga acad&#233;mica][Asignar docente a curso]
+
+** Imprimir la asignaci&#243;n acad&#233;mica por curso:[Acad&#233;mico administrador][Consultas y reportes][Estructura Curricular y F&#237;sica][Consultar Asignaturas Por Curso]
+
+** Imprimir la asignaci&#243;n acad&#233;mica del profesor:[Acad&#233;mico administrador][Consultas y reportes][Docente][Consultar asignatura docente][Documento] o [Nombre][Buscar]Selecionar el profesor[Generar] se genera el pdf y se imprime
+
+** Hacer firmar la asignaci&#243;n acad&#233;mica de cada profesor.
+
+** Imprimir la asignacio&#243;n acad&#233;mica de todos los profesores:[Acad&#233;mico administrador][Consultas y reportes][Docente][Consultar Asignaci&#243;n de Docentes] este informe se debe guardar como soporte de la asignaci&#243;n acad&#233;mica.
+
+** *NOTA*: Se DEBE solo actualizar el A&#241;O ACTUAL
+
+* *ASIGNAR LOS COORDINADORES A CURSO:*
+
+** *Opci&#243;n:*[Academico administrador][Carga Acad&#233;mica][Asignar Coordinadores a Cursos]
+
+* *ENVIAR CORREOS A GESTION EDUCATIVA VALIDAR LA ESTRUCTURA CURRICULAR.*
+
+** Plan de Estudios.
+
+** Listado de Cursos - Pendiente por definir correos.
+
+* *CREAR validar-asignaturas-a&#241;o.html para los trabajos de ARS.*
+
+* *NOVEDADES DE LA ESTRUCTURA CURRICULAR 2014 RESPECTO AL 2013*
+
+** *AREAS Y ASIGNATURAS*
+
+*** No se modifica ninguna &#225;rea o asignatura
+
+** *ELIMINACION DE ASIGNATURAS DEL PLAN DE ESTUDIOS *
+
+*** Se elimina BIOLOGIA en DECIMO Y UNDECIMO.
+
+** *INCLUSION DE ASIGNATURAS EN EL PLAN DE ESTUDIOS*
+
+*** Ninguna
+
+** *INTENSIDAD HORARIA PLAN DE ESTUDIOS*
+
+*** PREJARDIN
+
+**** TECNOLOGIA E INFORMATICA 6H HORAS SE REDUJO 4H
+
+**** LUDUTECA 2H SE AUMENTO A 4H
+
+*** JARDIN
+
+**** TECNOLOGIA E INFORMATICA 6H HORAS SE REDUJO 4H
+
+**** LUDUTECA 2H SE AUMENTO A 4H
+
+*** TRANSCION
+
+**** ENTORNO NATURAL 3H SE AUMENTO A 4H
+
+**** INGLES 6H SE REDUJO 4H
+
+**** LUDOTECA 2H SE AUMENTO A 3H
+
+*** DECIMO
+
+**** TECNOLOGIA E INFORMATICA 1H SE AUMENTO 2H
+
+*** UNDECIMO
+
+**** TECNOLOGIA E INFORMATICA 1H SE AUMENTO 2H
+
+** MATERIAS OPTATIVAS PARA EL 2014
+
+*** QUINTO
+
+**** INGLES: B=0 I=1 A=1
+
+*** SEXTO
+
+**** INGLES: B=0 I=1 A=1
+
+*** SEPTIMO
+
+**** INGLES: B=1 I=1 A=1
+
+*** OCTAVO
+
+**** INGLES: B=1 I=1 A=1
+
+*** NOVENO
+
+**** INGLES: B=1 I=1 A=2
+
+**** ARTES,MUSICA,DIBUJO POR CURSOS
+
+*** DECIMO
+
+**** INGLES: B=1 I=2 A=1
+
+**** ARTES,MUSICA,DIBUJO POR CURSOS
+
+*** UNDECIMO
+
+**** INGLES: B=1 I=2 A=1
+
+**** ARTES,MUSICA,DIBUJO POR CURSOS
+
+** NOVEDADES DE PERSONAL
+
+*** 31 de enero de 2014, 16:45 - https://mail.google.com/mail/u/0/?shva=1#inbox/143ea43ca6f7c029[gi@lasallebga.edu.co] - NOVEDADES DE PERSONAL - GT
+
+*** 30 de enero de 2014, 16:37 - https://mail.google.com/mail/u/0/?shva=1#inbox/143e5161886b222d[gi@lasallebga.edu.co] - Docentes nuevos / Docentes para inactivar - GQ
+
+**** Docentes Nuevos
+
+91282772 - GALVIS DURAN ALEXANDER - DPTO SOCIALES - agalvis - sq63hs
+
+74380020 - PUENTES MORENO JHON JAIRO - PTO INFORMATICA
+
+91287965 - SANCHEZ HERRERA LUIS ADRIAN - DPTO INFORMATICA falta
+
+1098677033 - ARIZA ACOSTA ELKIN FABIAN - PSICOLO
+
+13872152 - TELLEZ HENRY HARLEY - DPTO SOCIALES
+
+1098727182 - LAYTON LAYTON KAREN JULIETH - INGLES
+
+1098645528 - DELGADO AGUILAR CARLOS - LICENCIA QUIMICA 3 MESES FALTA NO HACE FALTA
+
+Hno. Carlos Alberto Pinto C
+
+**** Administrativos nuevos
+
+63343503 - AMADO HERNANDEZ JANYEE - JEFE DE TALENTO HUMANO
+
+**** Servicios Generales nuevos
+
+79521245 - MU&#241;OS MIGUEL ANGEL - CHEF
+
+
+**** Retirados
+
+1098669337 - GOMEZ MARI&#241;O ANDRES JULIAN - DOCENTE
+
+1098646985 - RUEDA PUENTES MARISOL - DOCENTE
+
+37861636 - PAREDES SAAVEDRA NADIA JOHANNA - DOCENTE
+
+63310594 - ALENJADRINA GARCIA USEDA - COORDINADORA
+
+63531221 - PEINADO TORRES  DENNYS JOHANA - JEFE DE TALENTO HUMANO
+
+37745799 - COVELLI GOMEZ MONICA LIZETH - PSICOLOGA
+
+24372734 - OSORIO RAMIREZ ANA MARIA - AUX COCINA
+
+GQ:
+
+13747623 - MARTINEZ JANY JOHN JAIRO
+
+79628664 - BARBOSA PEREZ LUIS FERNANDO
+
+63552422 - PARRA RINCON MARIA CAROLINA
+
+80854441 - SILVA CAMELO HNO. OSCAR EDUARDO
+
+37861636 - PAREDES SAAVEDRA NADIA JOHANNA
+
+37745799 - COVELLI GOMEZ MONICA LIZETTE
+
+63310594 - GARCIA USEDA ALEJANDRINA
+
+63488659 - CAVANZO CUEVAS ROSA MARIA
+
+
+=== [[GRABACION DE LA ASIGNACION ACADEMICA]] GRABACION DE LA ASIGNACION ACADEMICA
+
+El objetivo de esta actividad, es grabar en el sistema la asignaci&#243;n acad&#233;mica de cada profersor.
+
+Los pasos que se deben seguir son los siguientes:
+
+* *Gestionar asignatura a docente:* [Acad&#233;mico administrador][Carga acad&#233;mica][Gestionar asignatura a docente]. *NOTA*: NO SE DEBE ELIMINAR NINGUNA DE LAS QUE FIGURA PORQUE BORRA ASIGNACION DE LOS A&#241;OS ANTERIORES.
+
+* *Asignar docente a curso:* [Acad&#233;mico administrador][Carga acad&#233;mica][Asignar docente a curso]
+
+* *Imprimir la asignacio&#243;n acad&#233;mica de todos los profesores:* [Acad&#233;mico administrador][Consultas y reportes][Docente][Consultar Asignaci&#243;n de Docentes] este informe se debe guardar como soporte de la asignaci&#243;n acad&#233;mica.
+
+* Hacer firmar la asignaci&#243;n acad&#233;mica de cada profesor.
+
+* Para verificar imprimir la asignaci&#243;n acad&#233;mica por curso:[Acad&#233;mico administrador][Consultas y reportes][Estructura Curricular y F&#237;sica][Consultar Asignaturas Por Curso]
+
+* *NOTA*: Se DEBE solo actualizar el A&#241;O ACTUAL, el a&#241;o anterior no se debe modificar.
+

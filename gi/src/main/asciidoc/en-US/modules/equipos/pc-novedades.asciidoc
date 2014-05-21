@@ -1,0 +1,54 @@
+[[pc-novedades]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== NOVEDADES PC
+
+ASIGNACION DE EQUIPOS OFICINA ...
+
+Cordial Saludo,
+
+El siguiente equipo se asignó a la oficina ...:
+
+-
+
+-
+
+La anterior información para la actualización del inventario.
+
+=== ASIGNACION DE EQUIPOS
+
+* 27 de marzo de 2014, 12:01 - GESTION DE LA INFORMACION - https://mail.google.com/mail/u/0/?shva=1#sent/145047d662ef0e16[gi@lasallebga.edu.co]
+
+** HP Compac Pro 4300 SFF PC, Intel Core I5, RAM 4GB, DD 500GB SERIAL:MXL3200LYX
+
+** Monitor LCD HP LV1911 de 19' SERIAL:6CM31004TB
+
+* 27 de marzo de 2014, 11:56 - DEPARTAMENTO DE ARTES - https://mail.google.com/mail/u/0/?shva=1#sent/145047902de53f12[gi@lasallebga.edu.co]
+
+** HP Compac Pro 4300 SFF PC, Intel Core I5, RAM 4GB, DD 500GB SERIAL:MXL3200LY9
+
+** Monitor LCD HP LV1911 de 19' SERIAL:6CM3081JRD
+
+* 27 de marzo de 2014, 11:47 - https://mail.google.com/mail/u/0/?shva=1#sent/1450470bd782f4a5[gi@lasallebga.edu.co]
+
+** Oficina del CHEF:
+
+** HP Compaq dc5800 SFF PC, Intel Core 2 Quad Q8400, RAM 4GB, DD 300GB SERIAL:MXJ003047Y INVENTARIO:21502822.
+
+** Monitor LCD HP L1710 de 17' SERIAL:3CQ9325SDR INVENTARIO:21502823
+
+* 11 de febrero de 2014, 9:56 - EQUIPO PARA CHEF DEL RESTAURANTE TEMPORALMENTE - https://mail.google.com/mail/u/0/?shva=1#sent/1442173226bff347[gi@lasallebga.edu.co]
+
+* 16 de enero de 2013, 11:13 - https://mail.google.com/mail/u/0/?shva=1#apps/gc%40lasallebga.edu.co/13c44234dcfa3c3b[gi@lasallebga.edu.co]
+
+** La Impresora HP LaserJet M1212nf MFP Serial: CNG9DBD0JB se asignó a la oficina de la Rectoria.
+
+
+

@@ -1,0 +1,11 @@
+= PREPRACION DE LA AUDITORIA
+
+include::modules/horizonte.asciidoc[]
+include::modules/LMR.asciidoc[]
+include::modules/P-GI-01.asciidoc[]
+include::modules/PR-GI-01.asciidoc[]
+include::modules/M-GI-01.asciidoc[]
+include::modules/I-GI-01.asciidoc[]
+include::modules/acpm.asciidoc[]
+
+

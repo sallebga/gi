@@ -1,0 +1,1346 @@
+[[items-racks]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== RACKS
+
+=== RACK No.1: CENTRO DE DATOS EDIFICIO NUEVO
+
+.SWICHE HP A5500-48G
+[options="header"]
+|=========================
+|PUERTOS  |UBICACION     |
+|R1-SW1-01|              |
+|R1-SW1-02|              |
+|R1-SW1-03|              |
+|R1-SW1-04|              |
+|R1-SW1-05|              |
+|R1-SW1-06|              |
+|R1-SW1-07|              |
+|R1-SW1-08|              |
+|R1-SW1-09|              |
+|R1-SW1-10|              |
+|R1-SW1-11|              |
+|R1-SW1-12|              |
+|R1-SW1-13|              |
+|R1-SW1-14|              |
+|R1-SW1-15|              |
+|R1-SW1-16|              |
+|R1-SW1-17|              |
+|R1-SW1-18|              |
+|R1-SW1-19|              |
+|R1-SW1-20|              |
+|R1-SW1-21|              |
+|R1-SW1-22|              |
+|R1-SW1-23|              |
+|R1-SW1-24|              |
+|R1-SW1-25|              |
+|R1-SW1-26|              |
+|R1-SW1-27|              |
+|R1-SW1-28|              |
+|R1-SW1-29|              |
+|R1-SW1-30|              |
+|R1-SW1-31|              |
+|R1-SW1-32|              |
+|R1-SW1-33|              |
+|R1-SW1-34|              |
+|R1-SW1-35|              |
+|R1-SW1-36|              |
+|R1-SW1-37|              |
+|R1-SW1-38|              |
+|R1-SW1-39|              |
+|R1-SW1-40|              |
+|R1-SW1-41|              |
+|R1-SW1-42|              |
+|R1-SW1-43|              |
+|R1-SW1-44|              |
+|R1-SW1-45|              |
+|R1-SW1-46|              |
+|R1-SW1-47|R2PP2-24-SW-48|SALA No.2
+|R1-SW1-48|R3PP2-24-SW-48|SALA No.3
+|R1-SW1-49|F.O-          |ADM?
+|R1-SW1-50|F.O-          |PREESCOLAR
+|R1-SW1-51|F.O-          |GE
+|R1-SW1-52|F.O-          |SEGUNDA COORDINACION
+|=========================
+
+.PATCH PANEL No.1 SIEMON
+[options="header"]
+|==============================
+|MARQUILLA     |UBICACION     |
+|R1PP1-01-SW-XX|MESA No.00    |FALTAN 17 PATCH CORD
+|R1PP1-02-SW-XX|MESA No.01    |
+|R1PP1-03-SW-XX|MESA No.02    |
+|R1PP1-04-SW-XX|MESA No.03    |
+|R1PP1-05-SW-XX|MESA No.04    |
+|R1PP1-06-SW-XX|MESA No.05    |
+|R1PP1-07-SW-XX|MESA No.06    |
+|R1PP1-08-SW-XX|MESA No.07    |
+|R1PP1-09-SW-XX|MESA No.08    |
+|R1PP1-10-SW-XX|MESA No.09    |
+|R1PP1-11-SW-XX|MESA No.10    |
+|R1PP1-12-SW-XX|FOTOCOPIA     |
+|R1PP1-13-SW-XX|BIBLIOTECA    |
+|R1PP1-14-SW-XX|VOZ           |
+|R1PP1-15-SW-XX|AUX-PC        |
+|R1PP1-16-SW-XX|              |
+|R1PP1-17-SW-XX|              |
+|R1PP1-18-SW-XX|              |
+|R1PP1-19-SW-XX|              |
+|R1PP1-20-SW-XX|              |
+|R1PP1-21-SW-XX|SISTEMAS-1    |
+|R1PP1-22-SW-XX|SISTEMAS-2    |
+|R1PP1-23-SW-47|R2PP2-24-SW-48|SALA No.2
+|R1PP1-24-SW-48|R3PP2-24-SW-48|SALA No.3
+|==============================
+
+
+.PATCH PANEL No.2 SIEMON
+[options="header"]
+|============================
+|MARQUILLA     |UBICACION   |
+|R1PP2-01-SW-XX|            |
+|R1PP2-02-SW-XX|            |
+|R1PP2-03-SW-XX|            |
+|R1PP2-04-SW-XX|            |
+|R1PP2-05-SW-XX|            |
+|R1PP2-06-SW-XX|            |
+|R1PP2-07-SW-XX|            |
+|R1PP2-08-SW-XX|            |
+|R1PP2-09-SW-XX|            |
+|R1PP2-10-SW-XX|            |
+|R1PP2-11-SW-XX|            |
+|R1PP2-12-SW-XX|            |
+|R1PP2-13-SW-XX|            |
+|R1PP2-14-SW-XX|            |
+|R1PP2-15-SW-XX|            |
+|R1PP2-16-SW-XX|            |
+|R1PP2-17-SW-XX|            |
+|R1PP2-18-SW-XX|            |
+|R1PP2-19-SW-XX|            |
+|R1PP2-20-SW-XX|            |
+|R1PP2-21-SW-XX|            |
+|R1PP2-22-SW-XX|            |
+|R1PP2-23-SW-XX|            |
+|R1PP2-24-SW-XX|            |
+|============================
+
+.PATCH PANEL No.3 LEVITON
+[options="header"]
+|============================
+|MARQUILLA     |UBICACION   |
+|R1PP3-01-SW-XX|            |
+|R1PP3-02-SW-XX|            |
+|R1PP3-03-SW-XX|            |
+|R1PP3-04-SW-XX|            |
+|R1PP3-05-SW-XX|            |
+|R1PP3-06-SW-XX|            |
+|R1PP3-07-SW-XX|            |
+|R1PP3-08-SW-XX|            |
+|R1PP3-09-SW-XX|            |
+|R1PP3-10-SW-XX|            |
+|R1PP3-11-SW-XX|            |
+|R1PP3-12-SW-XX|            |
+|R1PP3-13-SW-XX|            |
+|R1PP3-14-SW-XX|            |
+|R1PP3-15-SW-XX|            |
+|R1PP3-16-SW-XX|            |
+|R1PP3-17-SW-XX|            |
+|R1PP3-18-SW-XX|            |
+|R1PP3-19-SW-XX|            |
+|R1PP3-20-SW-XX|            |
+|R1PP3-21-SW-XX|            |
+|R1PP3-22-SW-XX|            |
+|R1PP3-23-SW-XX|            |
+|R1PP3-24-SW-XX|            |
+|============================
+
+
+=== RACK No.2: SALA INFORMATICA No.2
+
+.SWICHE HP 2530-48G
+[options="header"]
+|=========================
+|PUERTOS  |UBICACION     |
+|R2-SW1-01|MESA No.35    |DATOS
+|R2-SW1-02|MESA No.36    |
+|R2-SW1-03|MESA No.37    |
+|R2-SW1-04|MESA No.38    |
+|R2-SW1-05|MESA No.39    |
+|R2-SW1-06|MESA No.40    |
+|R2-SW1-07|MESA No.41    |
+|R2-SW1-08|MESA No.42    |
+|R2-SW1-09|MESA No.43    |
+|R2-SW1-10|MESA No.44    |
+|R2-SW1-11|MESA No.45    |
+|R2-SW1-12|MESA No.46    |
+|R2-SW1-13|MESA No.47    |
+|R2-SW1-14|MESA No.48    |
+|R2-SW1-15|MESA No.49    |
+|R2-SW1-16|MESA No.50    |
+|R2-SW1-17|MESA No.51    |
+|R2-SW1-18|MESA No.52    |
+|R2-SW1-19|MESA No.53    |
+|R2-SW1-20|MESA No.54    |
+|R2-SW1-21|MESA No.55    |
+|R2-SW1-22|MESA No.56    |
+|R2-SW1-23|MESA No.57    |
+|R2-SW1-24|MESA No.58    |
+|R2-SW1-25|MESA No.59    |
+|R2-SW1-26|MESA No.60    |
+|R2-SW1-27|MESA No.61    |
+|R2-SW1-28|MESA No.62    |
+|R2-SW1-29|MESA No.63    |
+|R2-SW1-30|MESA No.64    |
+|R2-SW1-31|MESA No.65    |
+|R2-SW1-32|    LIBRE     |
+|R2-SW1-33|    LIBRE     |
+|R2-SW1-34|    LIBRE     |
+|R2-SW1-35|    LIBRE     |
+|R2-SW1-36|    LIBRE     |
+|R2-SW1-37|    LIBRE     |
+|R2-SW1-38|    LIBRE     |
+|R2-SW1-39|    LIBRE     |
+|R2-SW1-40|    LIBRE     |
+|R2-SW1-41|    LIBRE     |
+|R2-SW1-42|    LIBRE     |
+|R2-SW1-43|    LIBRE     |
+|R2-SW1-44|    LIBRE     |
+|R2-SW1-45|    LIBRE     |
+|R2-SW1-46|    LIBRE     |
+|R2-SW1-47|MESA No.35    |VOZ
+|R2-SW1-48|R2PP2-24-SW-XX|CENTRO DE DATOS
+|R2-SW1-49|F.O-LIBRE     |
+|R2-SW1-50|F.O-LIBRE     |
+|R2-SW1-51|F.O-LIBRE     |
+|R2-SW1-52|F.O-LIBRE     |
+|=========================
+
+
+.PATCH PANEL No.1 SIEMON
+[options="header"]
+|============================
+|MARQUILLA     |UBICACION   |
+|R2PP1-01-SW-01|PROF No.01  |PROF-DATOS
+|R2PP1-02-SW-02|MESA No.36  |
+|R2PP1-03-SW-03|MESA No.37  |
+|R2PP1-04-SW-04|MESA No.38  |
+|R2PP1-05-SW-05|MESA No.39  |
+|R2PP1-06-SW-06|MESA No.40  |
+|R2PP1-07-SW-07|MESA No.41  |
+|R2PP1-08-SW-08|MESA No.42  |
+|R2PP1-09-SW-09|MESA No.43  |
+|R2PP1-10-SW-10|MESA No.44  |
+|R2PP1-11-SW-11|MESA No.45  |
+|R2PP1-12-SW-12|MESA No.46  |
+|R2PP1-13-SW-13|MESA No.47  |
+|R2PP1-14-SW-14|MESA No.48  |
+|R2PP1-15-SW-15|MESA No.49  |
+|R2PP1-16-SW-16|MESA No.50  |
+|R2PP1-17-SW-17|MESA No.51  |
+|R2PP1-18-SW-18|MESA No.52  |
+|R2PP1-19-SW-19|MESA No.53  |
+|R2PP1-20-SW-20|MESA No.54  |
+|R2PP1-21-SW-21|MESA No.55  |
+|R2PP1-22-SW-22|MESA No.56  |
+|R2PP1-23-SW-23|MESA No.57  |
+|R2PP1-24-SW-24|MESA No.58  |
+|============================
+
+.PATCH PANEL No.2 SIEMON
+[options="header"]
+|==============================
+|MARQUILLA     |UBICACION     |
+|R2PP2-01-SW-25|MESA No.59    |
+|R2PP2-02-SW-26|MESA No.60    |
+|R2PP2-03-SW-27|MESA No.61    |
+|R2PP2-04-SW-28|MESA No.62    |
+|R2PP2-05-SW-29|MESA No.63    |
+|R2PP2-06-SW-30|MESA No.64    |
+|R2PP2-07-SW-31|MESA No.65    |
+|R2PP2-08-SW-XX|    VACIO     |
+|R2PP2-09-SW-XX|    VACIO     |
+|R2PP2-10-SW-XX|    VACIO     |
+|R2PP2-11-SW-XX|    VACIO     |
+|R2PP2-12-SW-XX|    VACIO     |
+|R2PP2-13-SW-XX|    VACIO     |
+|R2PP2-14-SW-XX|    VACIO     |
+|R2PP2-15-SW-XX|    VACIO     |
+|R2PP2-16-SW-XX|    VACIO     |
+|R2PP2-17-SW-XX|    VACIO     |
+|R2PP2-18-SW-XX|    VACIO     |
+|R2PP2-19-SW-XX|    VACIO     |
+|R2PP2-20-SW-XX|    VACIO     |
+|R2PP2-21-SW-XX|    VACIO     |
+|R2PP2-22-SW-XX|    VACIO     |
+|R2PP2-23-SW-47|MESA No.35    |PROF-VOZ
+|R2PP2-24-SW-48|R2PP2-24-SW-XX|CENTRO DE DATOS
+|==============================
+
+=== RACK No.3: SALA INFORMATICA No.3
+
+.SWICHE HP 2530-48G
+[options="header"]
+|=========================
+|PUERTOS  |UBICACION     |
+|R3-SW1-01|MESA No.66    |PROF-DATOS
+|R3-SW1-02|MESA No.66    |PROF-VOZ
+|R3-SW1-03|MESA No.67    |
+|R3-SW1-04|MESA No.68    |
+|R3-SW1-05|MESA No.69    |
+|R3-SW1-06|MESA No.70    |
+|R3-SW1-07|MESA No.71    |
+|R3-SW1-08|MESA No.72    |
+|R3-SW1-09|MESA No.73    |
+|R3-SW1-10|MESA No.74    |
+|R3-SW1-11|MESA No.75    |
+|R3-SW1-12|MESA No.86    |
+|R3-SW1-13|MESA No.76    |
+|R3-SW1-14|MESA No.77    |
+|R3-SW1-15|MESA No.78    |
+|R3-SW1-16|MESA No.79    |
+|R3-SW1-17|MESA No.80    |
+|R3-SW1-18|MESA No.81    |
+|R3-SW1-19|MESA No.82    |
+|R3-SW1-20|MESA No.83    |
+|R3-SW1-21|MESA No.88    |
+|R3-SW1-22|MESA No.85    |
+|R3-SW1-23|MESA No.84    |
+|R3-SW1-24|MESA No.90    |
+|R3-SW1-25|MESA No.87    |
+|R3-SW1-26|MESA No.89    |
+|R3-SW1-27|MESA No.91    |
+|R3-SW1-28|MESA No.92    |
+|R3-SW1-29|MESA No.93    |
+|R3-SW1-30|MESA No.94    |
+|R3-SW1-31|MESA No.95    |
+|R3-SW1-32|MESA No.96    |
+|R3-SW1-33|    LIBRE     |
+|R3-SW1-34|    LIBRE     |
+|R3-SW1-35|    LIBRE     |
+|R3-SW1-36|    LIBRE     |
+|R3-SW1-37|    LIBRE     |
+|R3-SW1-38|    LIBRE     |
+|R3-SW1-39|    LIBRE     |
+|R3-SW1-40|    LIBRE     |
+|R3-SW1-41|    LIBRE     |
+|R3-SW1-42|    LIBRE     |
+|R3-SW1-43|    LIBRE     |
+|R3-SW1-44|    LIBRE     |
+|R3-SW1-45|    LIBRE     |
+|R3-SW1-46|    LIBRE     |
+|R3-SW1-47|    LIBRE     |
+|R3-SW1-48|R1PP1-24-SW-XX|CENTRO DE DATOS
+|R3-SW1-49|F.O-  LIBRE   |
+|R3-SW1-50|F.O-  LIBRE   |
+|R3-SW1-51|F.O-  LIBRE   |
+|R3-SW1-52|F.O-  LIBRE   |
+|=========================
+
+.PATCH PANEL No.1 SIEMON
+[options="header"]
+|============================
+|MARQUILLA     |UBICACION   |
+|R3PP1-01-SW-01|MESA No.66  |PROF-DATOS
+|R3PP1-02-SW-02|MESA No.66  |PROF-VOZ
+|R3PP1-03-SW-03|MESA No.67  |
+|R3PP1-04-SW-04|MESA No.68  |
+|R3PP1-05-SW-05|MESA No.69  |
+|R3PP1-06-SW-06|MESA No.70  |
+|R3PP1-07-SW-07|MESA No.71  |
+|R3PP1-08-SW-08|MESA No.72  |
+|R3PP1-09-SW-09|MESA No.73  |
+|R3PP1-10-SW-10|MESA No.74  |
+|R3PP1-11-SW-11|MESA No.75  |
+|R3PP1-12-SW-12|MESA No.86  |
+|R3PP1-13-SW-13|MESA No.76  |
+|R3PP1-14-SW-14|MESA No.77  |
+|R3PP1-15-SW-15|MESA No.78  |
+|R3PP1-16-SW-16|MESA No.79  |
+|R3PP1-17-SW-17|MESA No.80  |
+|R3PP1-18-SW-18|MESA No.81  |
+|R3PP1-19-SW-19|MESA No.82  |
+|R3PP1-20-SW-20|MESA No.83  |
+|R3PP1-21-SW-21|MESA No.88  |
+|R3PP1-22-SW-22|MESA No.85  |
+|R3PP1-23-SW-23|MESA No.84  |
+|R3PP1-24-SW-24|MESA No.90  |
+|============================
+
+.PATCH PANEL No.2 SIEMON
+[options="header"]
+|==============================
+|MARQUILLA     |UBICACION     |
+|R3PP2-01-SW-25|MESA No.87    |
+|R3PP2-02-SW-26|MESA No.89    |
+|R3PP2-03-SW-27|MESA No.91    |
+|R3PP2-04-SW-28|MESA No.92    |
+|R3PP2-05-SW-29|MESA No.93    |
+|R3PP2-06-SW-30|MESA No.94    |
+|R3PP2-07-SW-31|MESA No.95    |
+|R3PP2-08-SW-32|MESA No.96    |
+|R3PP2-09-SW-XX|    VACIO     |
+|R3PP2-10-SW-XX|    VACIO     |
+|R3PP2-11-SW-XX|    VACIO     |
+|R3PP2-12-SW-XX|    VACIO     |
+|R3PP2-13-SW-XX|    VACIO     |
+|R3PP2-14-SW-XX|    VACIO     |
+|R3PP2-15-SW-XX|    VACIO     |
+|R3PP2-16-SW-XX|    VACIO     |
+|R3PP2-17-SW-XX|    VACIO     |
+|R3PP2-18-SW-XX|    VACIO     |
+|R3PP2-19-SW-XX|    VACIO     |
+|R3PP2-20-SW-XX|    VACIO     |
+|R3PP2-21-SW-XX|    VACIO     |
+|R3PP2-22-SW-XX|    VACIO     |
+|R3PP2-23-SW-XX|    VACIO     |
+|R3PP2-24-SW-48|R1PP1-24-SW-XX|CENTRO DE DATOS
+|==============================
+
+=== RACK No.4: OFICINA SEGUNDA COORDINACION
+
+.SWICHE HP 2530-24G
+[options="header"]
+|=========================
+|PUERTOS  |UBICACION     |
+|R1-SW1-01|              |
+|R1-SW1-02|              |
+|R1-SW1-03|              |
+|R1-SW1-04|              |
+|R1-SW1-05|              |
+|R1-SW1-06|              |
+|R1-SW1-07|              |
+|R1-SW1-08|              |
+|R1-SW1-09|              |
+|R1-SW1-10|              |
+|R1-SW1-11|              |
+|R1-SW1-12|              |
+|R1-SW1-13|              |
+|R1-SW1-14|              |
+|R1-SW1-15|              |
+|R1-SW1-16|              |
+|R1-SW1-17|              |
+|R1-SW1-18|              |
+|R1-SW1-19|              |
+|R1-SW1-20|              |
+|R1-SW1-21|              |
+|R1-SW1-22|              |
+|R1-SW1-23|              |
+|R1-SW1-24|              |
+|R1-SW1-25|F.O-          |
+|R1-SW1-26|F.O-          |
+|R1-SW1-27|F.O-          |
+|R1-SW1-28|F.O-          |
+|=========================
+
+.PATCH PANEL No.1 SIEMON
+[options="header"]
+|============================
+|MARQUILLA     |UBICACION   |
+|R4PP1-01-SW-XX|DATOS       |
+|R4PP1-02-SW-XX|DATOS       |
+|R4PP1-03-SW-XX|DATOS       |
+|R4PP1-04-SW-XX|DATOS       |
+|R4PP1-05-SW-XX|            |
+|R4PP1-06-SW-XX|            |
+|R4PP1-07-SW-XX|            |
+|R4PP1-08-SW-XX|            |
+|R4PP1-09-SW-XX|            |
+|R4PP1-10-SW-XX|            |
+|R4PP1-11-SW-XX|            |
+|R4PP1-12-SW-XX|            |
+|R4PP1-13-SW-XX|            |
+|R4PP1-14-SW-XX|            |
+|R4PP1-15-SW-XX|            |
+|R4PP1-16-SW-XX|            |
+|R4PP1-17-SW-XX|            |
+|R4PP1-18-SW-XX|            |
+|R4PP1-19-SW-XX|            |
+|R4PP1-20-SW-XX|            |
+|R4PP1-21-SW-XX|VOZ         |
+|R4PP1-22-SW-XX|VOZ         |
+|R4PP1-23-SW-XX|VOZ         |
+|R4PP1-24-SW-XX|VOZ         |
+|============================
+
+=== RACK No.5: OFICINA GESTION EDUCATIVA
+
+.SWICHE HP 2530-24G
+[options="header"]
+|=========================
+|PUERTOS  |UBICACION     |
+|R1-SW1-01|              |
+|R1-SW1-02|              |
+|R1-SW1-03|              |
+|R1-SW1-04|              |
+|R1-SW1-05|              |
+|R1-SW1-06|              |
+|R1-SW1-07|              |
+|R1-SW1-08|              |
+|R1-SW1-09|              |
+|R1-SW1-10|              |
+|R1-SW1-11|              |
+|R1-SW1-12|              |
+|R1-SW1-13|              |
+|R1-SW1-14|              |
+|R1-SW1-15|              |
+|R1-SW1-16|              |
+|R1-SW1-17|              |
+|R1-SW1-18|              |
+|R1-SW1-19|              |
+|R1-SW1-20|              |
+|R1-SW1-21|              |
+|R1-SW1-22|              |
+|R1-SW1-23|              |
+|R1-SW1-24|              |
+|R1-SW1-25|F.O-          |
+|R1-SW1-26|F.O-          |
+|R1-SW1-27|F.O-          |
+|R1-SW1-28|F.O-          |
+|=========================
+
+.PATCH PANEL No.1 SIEMON
+[options="header"]
+|============================
+|MARQUILLA     |UBICACION   |
+|R5PP1-01-SW-XX|DATOS       |
+|R5PP1-02-SW-XX|DATOS       |
+|R5PP1-03-SW-XX|DATOS       |
+|R5PP1-04-SW-XX|DATOS       |
+|R5PP1-05-SW-XX|DATOS       |
+|R5PP1-06-SW-XX|DATOS       |
+|R5PP1-07-SW-XX|DATOS       |
+|R5PP1-08-SW-XX|PSICOLOGIA  |FALTA JACK NEGRO PACT CORD
+|R5PP1-09-SW-XX|            |
+|R5PP1-10-SW-XX|            |
+|R5PP1-11-SW-XX|            |
+|R5PP1-12-SW-XX|            |
+|R5PP1-13-SW-XX|            |
+|R5PP1-14-SW-XX|            |
+|R5PP1-15-SW-XX|            |
+|R5PP1-16-SW-XX|            |
+|R5PP1-17-SW-XX|            |
+|R5PP1-18-SW-XX|            |
+|R5PP1-19-SW-XX|            |
+|R5PP1-20-SW-XX|            |
+|R5PP1-21-SW-XX|VOZ         |
+|R5PP1-22-SW-XX|VOZ         |
+|R5PP1-23-SW-XX|VOZ         |
+|R5PP1-24-SW-XX|VOZ         |FALTAN 3 PATC CORD
+|============================
+
+=== RACK No.6 PREESCOLAR
+
+.SWICHE HP 2530-24G
+[options="header"]
+|=========================
+|PUERTOS  |UBICACION     |
+|R1-SW1-01|              |
+|R1-SW1-02|              |
+|R1-SW1-03|              |
+|R1-SW1-04|              |
+|R1-SW1-05|              |
+|R1-SW1-06|              |
+|R1-SW1-07|              |
+|R1-SW1-08|              |
+|R1-SW1-09|              |
+|R1-SW1-10|              |
+|R1-SW1-11|              |
+|R1-SW1-12|              |
+|R1-SW1-13|              |
+|R1-SW1-14|              |
+|R1-SW1-15|              |
+|R1-SW1-16|              |
+|R1-SW1-17|              |
+|R1-SW1-18|              |
+|R1-SW1-19|              |
+|R1-SW1-20|              |
+|R1-SW1-21|              |
+|R1-SW1-22|              |
+|R1-SW1-23|              |
+|R1-SW1-24|              |
+|R1-SW1-25|F.O-          |
+|R1-SW1-26|F.O-          |
+|R1-SW1-27|F.O-          |
+|R1-SW1-28|F.O-          |
+|=========================
+
+.PATCH PANEL No.1 SIEMON
+[options="header"]
+|============================
+|MARQUILLA     |UBICACION   |
+|R6PP1-01-SW-XX|DATOS       |
+|R6PP1-02-SW-XX|DATOS       |
+|R6PP1-03-SW-XX|DATOS       |
+|R6PP1-04-SW-XX|DATOS       |
+|R6PP1-05-SW-XX|DATOS       |
+|R6PP1-06-SW-XX|DATOS       |
+|R6PP1-07-SW-XX|            |
+|R6PP1-08-SW-XX|            |
+|R6PP1-09-SW-XX|            |
+|R6PP1-10-SW-XX|            |
+|R6PP1-11-SW-XX|            |
+|R6PP1-12-SW-XX|            |
+|R6PP1-13-SW-XX|            |
+|R6PP1-14-SW-XX|            |
+|R6PP1-15-SW-XX|            |
+|R6PP1-16-SW-XX|            |
+|R6PP1-17-SW-XX|            |
+|R6PP1-18-SW-XX|            |
+|R6PP1-19-SW-XX|            |
+|R6PP1-20-SW-XX|            |
+|R6PP1-21-SW-XX|            |
+|R6PP1-22-SW-XX|            |
+|R6PP1-23-SW-XX|VOZ         |FALTA PACT CORD
+|R6PP1-24-SW-XX|VOZ         |
+|============================
+
+=== RACK No.7 LUDOTECA
+
+.SWICHE HP 2530-24G
+[options="header"]
+|=========================
+|PUERTOS  |UBICACION     |
+|R1-SW1-01|              |
+|R1-SW1-02|              |
+|R1-SW1-03|              |
+|R1-SW1-04|              |
+|R1-SW1-05|              |
+|R1-SW1-06|              |
+|R1-SW1-07|              |
+|R1-SW1-08|              |
+|R1-SW1-09|              |
+|R1-SW1-10|              |
+|R1-SW1-11|              |
+|R1-SW1-12|              |
+|R1-SW1-13|              |
+|R1-SW1-14|              |
+|R1-SW1-15|              |
+|R1-SW1-16|              |
+|R1-SW1-17|              |
+|R1-SW1-18|              |
+|R1-SW1-19|              |
+|R1-SW1-20|              |
+|R1-SW1-21|              |
+|R1-SW1-22|              |
+|R1-SW1-23|              |
+|R1-SW1-24|              |
+|R1-SW1-25|F.O-          |
+|R1-SW1-26|F.O-          |
+|R1-SW1-27|F.O-          |
+|R1-SW1-28|F.O-          |
+|=========================
+
+.PATCH PANEL No.1 SIEMON
+[options="header"]
+|============================
+|MARQUILLA     |UBICACION   |
+|R7PP1-01-SW-XX|DATOS       |
+|R7PP1-02-SW-XX|            |
+|R7PP1-03-SW-XX|            |
+|R7PP1-04-SW-XX|            |
+|R7PP1-05-SW-XX|            |
+|R7PP1-06-SW-XX|            |
+|R7PP1-07-SW-XX|            |
+|R7PP1-08-SW-XX|            |
+|R7PP1-09-SW-XX|            |
+|R7PP1-10-SW-XX|            |
+|R7PP1-11-SW-XX|            |
+|R7PP1-12-SW-XX|            |
+|R7PP1-13-SW-XX|            |
+|R7PP1-14-SW-XX|            |
+|R7PP1-15-SW-XX|            |
+|R7PP1-16-SW-XX|            |
+|R7PP1-17-SW-XX|            |
+|R7PP1-18-SW-XX|            |
+|R7PP1-19-SW-XX|            |
+|R7PP1-20-SW-XX|            |
+|R7PP1-21-SW-XX|            |
+|R7PP1-22-SW-XX|            |
+|R7PP1-23-SW-XX|            |
+|R7PP1-24-SW-XX|            |
+|============================
+
+=== RACK No.8 AUDIOVISUALES
+
+.SWICHE HP 2530-24G
+[options="header"]
+|=========================
+|PUERTOS  |UBICACION     |
+|R1-SW1-01|              |
+|R1-SW1-02|              |
+|R1-SW1-03|              |
+|R1-SW1-04|              |
+|R1-SW1-05|              |
+|R1-SW1-06|              |
+|R1-SW1-07|              |
+|R1-SW1-08|              |
+|R1-SW1-09|              |
+|R1-SW1-10|              |
+|R1-SW1-11|              |
+|R1-SW1-12|              |
+|R1-SW1-13|              |
+|R1-SW1-14|              |
+|R1-SW1-15|              |
+|R1-SW1-16|              |
+|R1-SW1-17|              |
+|R1-SW1-18|              |
+|R1-SW1-19|              |
+|R1-SW1-20|              |
+|R1-SW1-21|              |
+|R1-SW1-22|              |
+|R1-SW1-23|              |
+|R1-SW1-24|              |
+|R1-SW1-25|F.O-          |
+|R1-SW1-26|F.O-          |
+|R1-SW1-27|F.O-          |
+|R1-SW1-28|F.O-          |
+|=========================
+
+.PATCH PANEL No.1 SIEMON
+[options="header"]
+|================================
+|MARQUILLA|UBICACION            |
+|R8PP1-01-SW-01|DLINK           |
+|R8PP1-02-SW-02|EQ-AUDIOVISUALES|
+|R8PP1-03-SW-03|EQ-AUDIOVISUALES|FALTA UN PATCH CORD
+|R8PP1-04-SW-04|                |
+|R8PP1-05-SW-05|                |
+|R8PP1-06-SW-06|                |
+|R8PP1-07-SW-07|                |
+|R8PP1-08-SW-08|                |
+|R8PP1-09-SW-09|                |
+|R8PP1-10-SW-10|                |
+|R8PP1-11-SW-11|                |
+|R8PP1-12-SW-12|                |
+|R8PP1-13-SW-13|                |
+|R8PP1-14-SW-14|                |
+|R8PP1-15-SW-15|                |
+|R8PP1-16-SW-16|                |
+|R8PP1-17-SW-17|                |
+|R8PP1-18-SW-18|                |MICROTIC
+|R8PP1-19-SW-19|R9PP1-23-SW-XX  |GI
+|R8PP1-20-SW-20|R9PP1-24-SW-XX  |GI
+|R8PP1-21-SW-21|R10PP1-01-SW-XX |DPTOS
+|R8PP1-22-SW-22|R11PP2-24-SW-XX |BTO
+|R8PP1-23-SW-23|ACCESS POINT    |
+|R8PP1-24-SW-24|ACCESS POINT    |
+|================================
+
+=== RACK No.9 GI
+
+.SWICHE HP 2530-24G
+[options="header"]
+|=========================
+|PUERTOS  |UBICACION     |
+|R9-SW1-01|              |
+|R9-SW1-02|              |
+|R9-SW1-03|              |
+|R9-SW1-04|              |
+|R9-SW1-05|              |
+|R9-SW1-06|              |
+|R9-SW1-07|              |
+|R9-SW1-08|              |
+|R9-SW1-09|              |
+|R9-SW1-10|              |
+|R9-SW1-11|              |
+|R9-SW1-12|              |
+|R9-SW1-13|              |
+|R9-SW1-14|              |
+|R9-SW1-15|              |
+|R9-SW1-16|              |
+|R9-SW1-17|              |
+|R9-SW1-18|              |
+|R9-SW1-19|              |
+|R9-SW1-20|              |
+|R9-SW1-21|              |
+|R9-SW1-22|              |
+|R9-SW1-23|              |
+|R9-SW1-24|              |
+|R9-SW1-25|F.O-          |
+|R9-SW1-26|F.O-          |
+|R9-SW1-27|F.O-          |
+|R9-SW1-28|F.O-          |
+|=========================
+
+.PATCH PANEL No.1 SIEMON
+[options="header"]
+|==============================
+|MARQUILLA     |UBICACION     |
+|R9PP1-01-SW-XX|DATOS         | FALTAN 5 PACT CORD
+|R9PP1-02-SW-XX|VOZ           |
+|R9PP1-03-SW-XX|DATOS         |
+|R9PP1-04-SW-XX|DATOS         |
+|R9PP1-05-SW-XX|              |
+|R9PP1-06-SW-XX|              |
+|R9PP1-07-SW-XX|              |
+|R9PP1-08-SW-XX|              |
+|R9PP1-09-SW-XX|              |
+|R9PP1-10-SW-XX|              |
+|R9PP1-11-SW-XX|              |
+|R9PP1-12-SW-XX|              |
+|R9PP1-13-SW-XX|              |
+|R9PP1-14-SW-XX|              |
+|R9PP1-15-SW-XX|              |
+|R9PP1-16-SW-XX|              |
+|R9PP1-17-SW-XX|              |
+|R9PP1-18-SW-XX|              |
+|R9PP1-19-SW-XX|              |
+|R9PP1-20-SW-XX|              |
+|R9PP1-21-SW-XX|              |
+|R9PP1-22-SW-XX|              |
+|R9PP1-23-SW-XX|R8PP1-19-SW-19|AUDIOVISUALES
+|R9PP1-24-SW-XX|R8PP1-20-SW-20|AUDIOVISUALES
+|==============================
+
+.CABLES SUELTOS
+[options="header"]
+|================================
+|MARQUILLA     |UBICACION       |
+|Cable No.2    |SALA PSICOLOGIA |
+|Cable No.3    |PASTORAL        |
+|Cable No.4    |INGLES SW-11    |
+|Cable No.5    |PSICOLOGIA SW-12|
+|Cable No.6    |                |
+|Cable No.7    |COORDIANCION    |
+|Cable No.8    |                |
+|Cable No.X    |                |
+|================================
+
+=== RACK No.10 DPTOS ACADEMICOS
+
+.SWICHE HP 2530-24G
+[options="header"]
+|==========================
+|PUERTOS   |UBICACION     |
+|R10-SW1-01|              |
+|R10-SW1-02|              |
+|R10-SW1-03|              |
+|R10-SW1-04|              |
+|R10-SW1-05|              |
+|R10-SW1-06|              |
+|R10-SW1-07|              |
+|R10-SW1-08|              |
+|R10-SW1-09|              |
+|R10-SW1-10|              |
+|R10-SW1-11|              |
+|R10-SW1-12|              |
+|R10-SW1-13|              |
+|R10-SW1-14|              |
+|R10-SW1-15|              |
+|R10-SW1-16|              |
+|R10-SW1-17|              |
+|R10-SW1-18|              |
+|R10-SW1-19|              |
+|R10-SW1-20|              |
+|R10-SW1-21|              |
+|R10-SW1-22|              |
+|R10-SW1-23|              |
+|R10-SW1-24|              |
+|R10-SW1-25|F.O-          |
+|R10-SW1-26|F.O-          |
+|R10-SW1-27|F.O-          |
+|R10-SW1-28|F.O-          |
+|==========================
+
+.PATCH PANEL No.1  SIEMON
+[options="header"]
+|===============================
+|MARQUILLA      |UBICACION     |
+|R10PP1-01-SW-XX|R8PP1-21-SW-21|AUDIOVISUALES
+|R10PP1-02-SW-XX|              |
+|R10PP1-03-SW-XX|              |
+|R10PP1-04-SW-XX|              |
+|R10PP1-05-SW-XX|              |
+|R10PP1-06-SW-XX|              |
+|R10PP1-07-SW-XX|              |
+|R10PP1-08-SW-XX|              |
+|R10PP1-09-SW-XX|              |
+|R10PP1-10-SW-XX|              |
+|R10PP1-11-SW-XX|              |
+|R10PP1-12-SW-XX|              |
+|R10PP1-13-SW-XX|              |
+|R10PP1-14-SW-XX|              |
+|R10PP1-15-SW-XX|              |
+|R10PP1-16-SW-XX|              |
+|R10PP1-17-SW-XX|              |
+|R10PP1-18-SW-XX|              |
+|R10PP1-19-SW-XX|              |
+|R10PP1-20-SW-XX|              |
+|R10PP1-21-SW-XX|              |
+|R10PP1-22-SW-XX|              |
+|R10PP1-23-SW-XX|              |
+|R10PP1-24-SW-XX|              |
+|===============================
+
+.PATCH PANEL No.2 21501563
+[options="header"]
+|=============================
+|MARQUILLA      |UBICACION   |
+|R10PP2-01-SW-XX|Puesto No.1 |
+|R10PP2-02-SW-XX|Puesto No.2 |
+|R10PP2-03-SW-XX|Puesto No.3 |
+|R10PP2-04-SW-XX|Puesto No.4 |
+|R10PP2-05-SW-XX|Puesto No.5 |
+|R10PP2-06-SW-XX|Puesto No.6 |
+|R10PP2-07-SW-XX|CIENCIAS    |
+|R10PP2-08-SW-XX|MATEMATICAS |
+|R10PP2-09-SW-XX|SOCIALES    |
+|R10PP2-10-SW-XX|ESPAÑOL     |
+|R10PP2-11-SW-XX|            |
+|R10PP2-12-SW-XX|EDUFISICA   |
+|R10PP2-13-SW-XX|ARTES1      |
+|R10PP2-14-SW-XX|ARTES2      |
+|R10PP2-15-SW-XX|COMPRAS     |
+|R10PP2-16-SW-XX|            |
+|=============================
+
+.PATCH PANEL No.3 21501562
+[options="header"]
+|==============================
+|MARQUILLA      |UBICACION    |
+|R10PP3-01-SW-XX|             |
+|R10PP3-02-SW-XX|AUDIOVISUALES|
+|R10PP3-03-SW-XX|BTO          |
+|R10PP3-04-SW-XX|             |
+|R10PP3-05-SW-XX|             |
+|R10PP3-06-SW-XX|             |
+|R10PP3-07-SW-XX|             |
+|R10PP3-08-SW-XX|             |
+|R10PP3-09-SW-XX|             |
+|R10PP3-10-SW-XX|             |
+|R10PP3-11-SW-XX|             |
+|R10PP3-12-SW-XX|             |
+|R10PP3-13-SW-XX|             |
+|R10PP3-14-SW-XX|             |
+|R10PP3-15-SW-XX|             |
+|R10PP3-16-SW-XX|             |
+|==============================
+
+=== RACK No.R11: SALA INFORMATICA No.1
+
+.SWICHE HP 2530-48G
+[options="header"]
+|==========================
+|PUERTOS   |UBICACION     |
+|R11-SW1-01|              |
+|R11-SW1-02|              |
+|R11-SW1-03|              |
+|R11-SW1-04|              |
+|R11-SW1-05|              |
+|R11-SW1-06|              |
+|R11-SW1-07|              |
+|R11-SW1-08|              |
+|R11-SW1-09|              |
+|R11-SW1-10|              |
+|R11-SW1-11|              |
+|R11-SW1-12|              |
+|R11-SW1-13|              |
+|R11-SW1-14|              |
+|R11-SW1-15|              |
+|R11-SW1-16|              |
+|R11-SW1-17|              |
+|R11-SW1-18|              |
+|R11-SW1-19|              |
+|R11-SW1-20|              |
+|R11-SW1-21|              |
+|R11-SW1-22|              |
+|R11-SW1-23|              |
+|R11-SW1-24|              |
+|R11-SW1-25|              |
+|R11-SW1-26|              |
+|R11-SW1-27|              |
+|R11-SW1-28|              |
+|R11-SW1-29|              |
+|R11-SW1-30|              |
+|R11-SW1-31|              |
+|R11-SW1-32|              |
+|R11-SW1-33|              |
+|R11-SW1-34|              |
+|R11-SW1-35|              |
+|R11-SW1-36|              |
+|R11-SW1-37|              |
+|R11-SW1-38|              |
+|R11-SW1-39|              |
+|R11-SW1-40|              |
+|R11-SW1-41|              |
+|R11-SW1-42|              |
+|R11-SW1-43|              |
+|R11-SW1-44|              |
+|R11-SW1-45|              |
+|R11-SW1-46|              |
+|R11-SW1-47|              |
+|R11-SW1-48|              |
+|R11-SW1-49|F.O-          |
+|R11-SW1-50|F.O-          |
+|R11-SW1-51|F.O-          |
+|R11-SW1-52|F.O-          |
+|=========================
+
+.PATCH PANEL No.1 SIEMON
+[options="header"]
+|=============================
+|MARQUILLA      |UBICACION   |
+|R11PP1-01-SW-XX|            |
+|R11PP1-02-SW-XX|            |
+|R11PP1-03-SW-XX|            |
+|R11PP1-04-SW-XX|            |
+|R11PP1-05-SW-XX|            |
+|R11PP1-06-SW-XX|            |
+|R11PP1-07-SW-XX|            |
+|R11PP1-08-SW-XX|            |
+|R11PP1-09-SW-XX|            |
+|R11PP1-10-SW-XX|            |
+|R11PP1-11-SW-XX|            |
+|R11PP1-12-SW-XX|            |
+|R11PP1-13-SW-XX|            |
+|R11PP1-14-SW-XX|            |
+|R11PP1-15-SW-XX|            |
+|R11PP1-16-SW-XX|            |
+|R11PP1-17-SW-XX|            |
+|R11PP1-18-SW-XX|            |
+|R11PP1-19-SW-XX|            |
+|R11PP1-20-SW-XX|            |
+|R11PP1-21-SW-XX|            |
+|R11PP1-22-SW-XX|            |
+|R11PP1-23-SW-XX|            |
+|R11PP1-24-SW-XX|            |
+|=============================
+
+.PATCH PANEL No.2 SIEMON
+[options="header"]
+|===============================
+|MARQUILLA      |UBICACION     |
+|R11PP2-01-SW-XX|              |
+|R11PP2-02-SW-XX|              |
+|R11PP2-03-SW-XX|              |
+|R11PP2-04-SW-XX|              |
+|R11PP2-05-SW-XX|              |
+|R11PP2-06-SW-XX|              |
+|R11PP2-07-SW-XX|              |
+|R11PP2-08-SW-XX|              |
+|R11PP2-09-SW-XX|              |
+|R11PP2-10-SW-XX|              |
+|R11PP2-11-SW-XX|              |
+|R11PP2-12-SW-XX|              |
+|R11PP2-13-SW-XX|              |
+|R11PP2-14-SW-XX|              |
+|R11PP2-15-SW-XX|              |
+|R11PP2-16-SW-XX|              |
+|R11PP2-17-SW-XX|              |
+|R11PP2-18-SW-XX|              |
+|R11PP2-19-SW-XX|              |
+|R11PP2-20-SW-XX|              |
+|R11PP2-21-SW-XX|              |
+|R11PP2-22-SW-XX|              |
+|R11PP2-23-SW-XX|              |
+|R11PP2-24-SW-XX|R8PP1-22-SW-22|AUDIOVISUALES
+|===============================
+
+.PATCH PANEL No.3 QPCOM:21500385
+[options="header"]
+|=================================
+|MARQUILLA      |UBICACION       |
+|R11PP3-01-SW-XX|MESA No.01      |
+|R11PP3-02-SW-XX|MESA No.02      |
+|R11PP3-03-SW-XX|MESA No.03      |
+|R11PP3-04-SW-XX|MESA No.04      |
+|R11PP3-05-SW-XX|MESA No.05      |
+|R11PP3-06-SW-XX|MESA No.06      |
+|R11PP3-07-SW-XX|MESA No.07      |
+|R11PP3-08-SW-XX|MESA No.08      |
+|R11PP3-09-SW-XX|MESA No.09      |
+|R11PP3-10-SW-XX|MESA No.10      |
+|R11PP3-11-SW-XX|MESA No.11      |
+|R11PP3-12-SW-XX|MESA No.12      |
+|R11PP3-13-SW-XX|MESA No.13      |
+|R11PP3-14-SW-XX|MESA No.14      |
+|R11PP3-15-SW-XX|MESA No.15      |
+|R11PP3-16-SW-XX|MESA No.16      |
+|R11PP3-17-SW-XX|MESA No.17      |
+|R11PP3-18-SW-XX|MESA No.18      |
+|R11PP3-19-SW-XX|MESA No.19      |
+|R11PP3-20-SW-XX|MESA No.20      |
+|R11PP3-21-SW-XX|MESA No.21      |
+|R11PP3-22-SW-XX|MESA No.22      |
+|R11PP3-23-SW-XX|MESA No.23      |
+|R11PP3-24-SW-XX|MESA No.24      |
+|R11PP3-25-SW-XX|MESA No.25      |
+|R11PP3-26-SW-XX|MESA No.26      |
+|R11PP3-27-SW-XX|                |
+|R11PP3-28-SW-XX|PADRES          |
+|R11PP3-29-SW-XX|R10PP2-03 DPTOS |
+|R11PP3-30-SW-XX|                |
+|R11PP3-31-SW-XX|                |
+|R11PP3-32-SW-XX|                |
+|R11PP3-33-SW-XX|                |
+|R11PP3-34-SW-XX|                |
+|R11PP3-35-SW-XX|                |
+|R11PP3-36-SW-XX|                |
+|R11PP3-36-SW-XX|                |
+|R11PP3-38-SW-XX|                |
+|R11PP3-39-SW-XX|                |
+|R11PP3-40-SW-XX|                |
+|R11PP3-41-SW-XX|                |
+|R11PP3-42-SW-XX|                |
+|R11PP3-43-SW-XX|                |
+|R11PP3-44-SW-XX|                |
+|R11PP3-45-SW-XX|                |
+|R11PP3-46-SW-XX|                |
+|R11PP3-47-SW-XX|                |
+|R11PP3-48-SW-XX|                |
+|=================================
+
+=== RACK No.12 ATENCION A PADRES
+
+.SWICHE HP 2530-24G
+[options="header"]
+|==========================
+|PUERTOS   |UBICACION     |
+|R12-SW1-01|              |
+|R12-SW1-02|              |
+|R12-SW1-03|              |
+|R12-SW1-04|              |
+|R12-SW1-05|              |
+|R12-SW1-06|              |
+|R12-SW1-07|              |
+|R12-SW1-08|              |
+|R12-SW1-09|              |
+|R12-SW1-10|              |
+|R12-SW1-11|              |
+|R12-SW1-12|              |
+|R12-SW1-13|              |
+|R12-SW1-14|              |
+|R12-SW1-15|              |
+|R12-SW1-16|              |
+|R12-SW1-17|              |
+|R12-SW1-18|              |
+|R12-SW1-19|              |
+|R12-SW1-20|              |
+|R12-SW1-21|              |
+|R12-SW1-22|              |
+|R12-SW1-23|              |
+|R12-SW1-24|              |
+|R12-SW1-25|F.O-          |
+|R12-SW1-26|F.O-          |
+|R12-SW1-27|F.O-          |
+|R12-SW1-28|F.O-          |
+|==========================
+
+.PATCH PANEL No.1  SIEMON
+[options="header"]
+|=============================
+|MARQUILLA      |UBICACION   |
+|R12PP1-01-SW-XX|            |GE
+|R12PP1-02-SW-XX|            |
+|R12PP1-03-SW-XX|            |
+|R12PP1-04-SW-XX|            |
+|R12PP1-05-SW-XX|            |
+|R12PP1-06-SW-XX|            |
+|R12PP1-07-SW-XX|            |
+|R12PP1-08-SW-XX|            |
+|R12PP1-09-SW-XX|            |
+|R12PP1-10-SW-XX|            |
+|R12PP1-11-SW-XX|            |
+|R12PP1-12-SW-XX|            |
+|R12PP1-13-SW-XX|            |
+|R12PP1-14-SW-XX|            |
+|R12PP1-15-SW-XX|            |
+|R12PP1-16-SW-XX|            |
+|R12PP1-17-SW-XX|            |
+|R12PP1-18-SW-XX|            |
+|R12PP1-19-SW-XX|            |
+|R12PP1-20-SW-XX|            |
+|R12PP1-21-SW-XX|            |
+|R12PP1-22-SW-XX|            |
+|R12PP1-23-SW-XX|            |
+|R12PP1-24-SW-XX|            |
+|=============================
+
+.PATCH PANEL QPCOM 5E
+[options="header"]
+|==============================
+|MARQUILLA      |UBICACION    |
+|R12PP2-01-SW-XX|             |
+|R12PP2-02-SW-XX|AUDIOVISUALES|
+|R12PP2-03-SW-XX|BTO          |
+|R12PP2-04-SW-XX|             |
+|R12PP2-05-SW-XX|             |
+|R12PP2-06-SW-XX|             |
+|R12PP2-07-SW-XX|             |
+|R12PP2-08-SW-XX|             |
+|R12PP2-09-SW-XX|             |
+|R12PP2-10-SW-XX|             |
+|R12PP2-11-SW-XX|             |
+|R12PP2-12-SW-XX|             |
+|R12PP2-13-SW-XX|             |
+|R12PP2-14-SW-XX|             |
+|R12PP2-15-SW-XX|             |
+|R12PP2-16-SW-XX|             |
+|==============================
+
+.CABLES SUELTOS
+[options="header"]
+|================================
+|MARQUILLA     |UBICACION       |
+|Cable No.1    |AA-SW-XX        |
+|Cable No.2    |SC-SW-XX        |
+|Cable No.3    |SG-SW-XX        |
+|Cable No.4    |GQ-SW-XX        |
+|Cable No.5    |IMPRESORA       |
+|================================
+
+
+=== RACK No.13 ADMINISTRACION
+
+.SWICHE HP 2530-24G
+[options="header"]
+|==========================
+|PUERTOS   |UBICACION     |
+|R13-SW1-01|              |
+|R13-SW1-02|              |
+|R13-SW1-03|              |
+|R13-SW1-04|              |
+|R13-SW1-05|              |
+|R13-SW1-06|              |
+|R13-SW1-07|              |
+|R13-SW1-08|              |
+|R13-SW1-09|              |
+|R13-SW1-10|              |
+|R13-SW1-11|              |
+|R13-SW1-12|              |
+|R13-SW1-13|              |
+|R13-SW1-14|              |
+|R13-SW1-15|              |
+|R13-SW1-16|              |
+|R13-SW1-17|              |
+|R13-SW1-18|              |
+|R13-SW1-19|              |
+|R13-SW1-20|              |
+|R13-SW1-21|              |
+|R13-SW1-22|              |
+|R13-SW1-23|              |
+|R13-SW1-24|              |
+|R13-SW1-25|F.O-          |
+|R13-SW1-26|F.O-          |
+|R13-SW1-27|F.O-          |
+|R13-SW1-28|F.O-          |
+|==========================
+
+.PATCH PANEL No.1
+[options="header"]
+|=============================
+|MARQUILLA      |UBICACION   |
+|R13PP1-01-SW-XX|            |
+|R13PP1-02-SW-XX|            |
+|R13PP1-03-SW-XX|            |
+|R13PP1-04-SW-XX|            |
+|R13PP1-05-SW-XX|            |
+|R13PP1-06-SW-XX|            |
+|R13PP1-07-SW-XX|            |
+|R13PP1-08-SW-XX|            |
+|R13PP1-09-SW-XX|            |
+|R13PP1-10-SW-XX|            |
+|R13PP1-11-SW-XX|            |
+|R13PP1-12-SW-XX|            |
+|R13PP1-13-SW-XX|            |
+|R13PP1-14-SW-XX|            |
+|R13PP1-15-SW-XX|            |
+|R13PP1-16-SW-XX|            |
+|R13PP1-17-SW-XX|            |
+|R13PP1-18-SW-XX|            |
+|R13PP1-19-SW-XX|            |
+|R13PP1-20-SW-XX|            |
+|R13PP1-21-SW-XX|            |
+|R13PP1-22-SW-XX|            |
+|R13PP1-23-SW-XX|            |
+|R13PP1-24-SW-XX|            |
+|=============================
+
+
+=== FALTANTES
+
+* RACK No.1: CENTRO DE DATOS EDIFICIO NUEVO
+
+** Faltan 17 Patch Cord de 1 Mt
+
+** Falta instalar Patch Panel
+
+** Falta instalar la controladora
+
+** Falta organizar y reeplazar uno Pathc Cord de 1 Mt
+
+** Falta identificar los puntos del Patch Panel No.3 Leviton del Cableado 6A anterior
+
+* RACK No.2: SALA INFORMATICA No.2
+
+** OK
+
+* RACK No.3: SALA INFORMATICA No.3
+
+** OK
+
+* RACK No.4: OFICINA SEGUNDA COORDINACION
+
+** OK
+
+** RACK No.5: OFICINA GESTION EDUCATIVA
+
+** Faltan 4 Patch Cord de 1 Mt
+
+** Falta identificar puntos GE
+
+* RACK No.6 PREESCOLAR
+
+** Faltan 1 Patch Cord de 1 Mt
+
+** Falta identificar los 6 primeros puntos
+
+* RACK No.7 LUDOTECA
+
+** OK
+
+* RACK No.8 AUDIOVISUALES
+
+** Faltan 1 Patch Cord de 1 Mt
+
+* RACK No.9 GI
+
+** Faltan 5 Patch Cord de 1 Mt
+
+** Falta identificar los cables sueltos
+
+* RACK No.10 DPTOS ACADEMICOS
+
+* Patch Cord OK
+
+* Falta identificar los puntos del Patch Panel de 5E
+
+* RACK No.11: SALA INFORMATICA No.1
+
+** OK
+
+* RACK No.12 ATENCION A PADRES
+
+* Patch Cord OK
+
+* Identificar cables
+
+* Falta identificar los puntos del Patch Panel de 5E
+
+
+* RACK No.13 ADMINISTRACION
+
+** Pendiente
+
+=== TOTAL FALTANTES
+
+* Falta 27 Patch Cord de 1 Mt (17CD,4GE,1PR,5GI)
+
+* 1 Jack Negro para psicologia.

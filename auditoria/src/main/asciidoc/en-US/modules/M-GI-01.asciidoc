@@ -1,0 +1,47 @@
+[[m-gi-01]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== M-GI-01 - MANUAL DE COMUNICACI&#211;N
+
+=== OBJETIVO:
+
+Define las *directrices generales* para la *adecuada comunicaci&#243;n.*
+
+* P&#225;gina web del Colegio.
+
+* El sistema de Mensajer&#237;a de Gnosoft.
+
+* Boletines.
+
+* Los definidos en la matriz de comunicaci&#243;n: Cartas, Circulares, Actas, Gu&#237;as,...
+
+=== MATRIZ DE COMUNICACI&#211;N
+
+.MATRIZ DE COMUNICACI&#211;N
+[options="header"]
+|=========================================================================================================================================================================================================================================================================================================
+|INFORMACION	                                   |RESPONSABLE                           |MEDIO                                                                                |DESTINATARIO                             |OBSERVACION                                                                   |
+|Directrices del SGC                               |GD-Gestion Directiva                  |Cartas,resoluciones,informativos,manuales,procedimientos,instructivos, actas,visitas.|Comunidad Educativa                      |Cartas, Nombramientos, Actas del Comite de Calidad.                           |
+|Informes de gestion por Procesos                  |GD-Instituciones Educativas           |Informe                                                                              |Alta Direccion                           |Informes De Gesti&#243;n Para La Revisi&#243;n Por La Direcci&#243;n de cada proceso.        |
+|Horizonte Institucional                           |GD-Alta Direccion                     |Carteleras, cartilla, capacitaciones, video institucional, actas.                    |Comunidad Educativa                      |Cartelera en cada dependencia.                                                |
+|Organigrama                                       |GD-Rector                             |Cartelera y cartilla                                                                 |Comunidad Educativa                      |Cartelera de la Entrada                                                       |
+|Directrices para la  Gestion de cada proceso      |GD-Rector                             |Actas                                                                                |Jefes de proceso                         |Actas del Comit&#233; de Calidad.                                                  |
+|Capacitacion                                      |GT-Responsable de la capacitacion     |Circulares, guias, material informativo                                              |Comunidad Educativa                      |Material Informativo y Circulares.                                            |
+|Novedades en la documentacion externa             |GD-Rector y Coordinadores             |Actas, circulares, copias de documentacion                                           |Comunidad Educativa                      |Copias de la documentaci&#243;n que estan en las caracterizaciones de cada proceso.|
+|Directrices de Rectoria                           |GD-Rector                             |Actas, resoluciones, memorandos                                                      |Comunidad Educativa                      |Actas Comite de Coordinaci&#243;n, Resoluciones de Rector&#237;a.                       |
+|Directrices de Coordinacion                       |GE-Coordinadores                      |Actas, circular interna, memorandos                                                  |Docentes, Estudiantes y padres de familia|Circulares                                                                    |
+|Temas por Area o departamento                     |GE-Jefe de Area o departamento        |Actas                                                                                |Docentes                                 |Actas de Departamento.                                                        |
+|Temas Consejo de Directivo                        |GD-Consejo Directivo                  |Actas                                                                                |Miembros Consejo Directivo               |Actas del Consejo Directivo.                                                  |
+|Temas Consejo de Estudiantes                      |GD-Rector o Delegado                  |Actas                                                                                |Miembros Consejo de Estudiantes          |Actas del Consejo Estudiantil                                                 |
+|Rendimiento Academico y Comportamental            |GE-Docentes, Tibulares y Coordinadores|Actas, Informes de de evaluacion, boletines                                          |Padres de Familia y estudiantes          |Boletines.                                                                    |
+|Evaluacion y Promocion                            |GE-Comision de Evaluacion y Promocion |Actas                                                                                |Padres de Familia y estudiantes          |Actas de Comisi&#243;n de Evaluaci&#243;n y promoci&#243;n.                                  |
+|Informacion solicitada por la Comunidad Educativa |GE-Secretaria                         |Certificados, copia de informes de evaluacion, Actas de grado, constancias y otros   |Comunidad Educativa                      |Certificados,Actas de Grado, Constancias.                                     |
+|Informacion requerida por otras partes interesadas|GD-Secretaria                         |Informes, cartas                                                                     |Partes interesadas                       |Cartas.                                                                       |
+|=========================================================================================================================================================================================================================================================================================================

@@ -1,0 +1,353 @@
+[[p-gi-01]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== P-GI-01 - CARACTERIZACI&#211;N DEL PROCESO GESTI&#211;N DE LA INFORMACI&#211;N
+
+=== OBJETIVO:
+
+Mantener y controlar adecuadamente la informaci&#243;n documentada y las bases de datos de la Instituci&#243;n garantizando su f&#225;cil identificaci&#243;n, consulta y recuperaci&#243;n.
+
+=== ALCANCE:
+
+Inicia con la recopilaci&#243;n de la informaci&#243;n y termina con el aseguramiento de su organizaci&#243;n, fiabilidad y accesibilidad
+
+=== ACTIVIDADES DEL PLANEAR
+
+* Establecer las pol&#237;ticas para la gesti&#243;n y administraci&#243;n de la documentaci&#243;n.
+
+* Definir los mecanismos y estrategias de conservaci&#243;n y aseguramiento de la informaci&#243;n.
+
+* Programar tiempos y actividades necesarias para el desarrollo del proceso.
+
+=== ACTIVIDADES DEL HACER
+
+* Recopilar y organizar la informaci&#243;n documentada y las bases de datos.
+
+* Asegurar y conservar la informaci&#243;n.
+
+* Mantener actualizada la informaci&#243;n de manera permanente
+
+* Emitir informes o registros necesarios.
+
+=== ACTIVIDADES DEL VERIFICAR
+
+* Evaluar la actualizaci&#243;n y organizaci&#243;n de la informaci&#243;n.
+
+* Verificar la accesibilidad y la fiabilidad de la informaci&#243;n.
+
+* Evaluar la adecuaci&#243;n y la conveniencia de las estrategias implementadas en el proceso.
+
+=== ACTIVIDADES DEL ACTUAR
+
+* Dise&#241;ar e implementar acciones correctivas, preventivas y de mejora del proceso.
+
+=== ENTRADAS Y SALIDAS
+
+* Solicitud de documentos -> Reportes,certificados,constancias y documentos requeridos - Estudiantes, padres de familia o acudientes.
+
+* *GD:* Directrices para la gesti&#243;n del proceso -> Informe sobre el desempe&#241;o del proceso.
+
+* *GQ:* Informe sobre evaluaci&#243;n evaluaci&#243;n y seguimiento del proceso. ->Informe sobre el estado de acciones correctivas y preventivas y de mejora
+
+* *GT:* Personal competente y necesario para el proceso.
+
+* *TODOS:* Informaci&#243;n -> Registros y acceso a la informaci&#243;n
+
+=== GLOSARIO
+
+*FIABILIDAD = CONFIABILIDAD = CONFIANZA*::
+  Esta relacionada con el buen funcionamiento, la calidad de los servidores los cuales garantiza su funcionamientos, Respaldo Electrico UPS.
+
+*ACCESIBILIDAD*::
+  Esta relacionada al facil acceso a la informaci&#243;n. Organizaci&#243;n del archivo para facilitar la b&#250;squda de Informaci&#243;n.
+
+*DOCUMENTOS CONFIDENCIALES*::
+  Todos aquellos que identifican el proceso personal del estudiante y del personal que labora en la Instituci&#243;n; Estos tienen acceso restingido
+
+*CONFIDENCIALIDAD*::
+  Confidencialidad es la propiedad de la informaci&#243;n, por la cual se garantiza que solo las personas autorizadas pueden tener acceso a dicha informaci&#243;n
+
+*IEI - *Eficacia en la entrega de la Informaci&#243;n*::
+
+   Corresponde al promedio del tiempo que tarda el proceso desde el momento en que recibe una una solicitud externa de informaci&#243;n y la emsi&#243;n del registro
+   o informe listo para su entrega.
+
+=== REQUISITOS DE LEY
+
+* Ley 594 del 2000 - Ley General de Archivos
+
+=== REQUISITOS DEL CLIENTE
+
+* Seguridad, confidencialidad, confiabilidad y oportunidad en el manejo y uso de la informaci&#243;n y la documentaci&#243;n.
+
+=== REQUISITOS DE LA INSTITUCION
+
+* Cumplimiento de las directrices del Manual de comunicaci&#243;n
+
+=== REQUISITOS DE LA NORMA ISO 9001:2008
+
+Espec&#237;ficos: 4.2.3,7.5.4
+
+Generales: 4.1,4.2.1,4.2.3,5.6,7.3.7,8.1,8.4,8.5
+
+* *4.2.3 Control de los documentos*
+
+Los documentos requeridos por el sistema de gesti&#243;n de la calidad deben controlarse. Los registros son un tipo especial de documento y deben controlarse
+de acuerdo con los requisitos citados en el apartado 4.2.4
+
+Debe establecerse un procedimiento documentado que defina los controles necesarios para:
+
+a) aprobar los documentos en cuanto a su adecuaci&#243;n antes de su emisi&#243;n,
+
+b) revisar y actualizar los documentos cuando sea necesario y aprobarlos nuevamente,
+
+c) asegurarse de que se identifican los cambios y el estado de la versi&#243;n vigente de los documentos,
+
+d) asegurarse de que las versiones pertinentes de los documentos aplicables se encuentran disponibles en los puntos de uso,
+
+e) asegurarse de que los documentos permanecen legibles y f&#225;cilmente identificables,
+
+f) asegurarse de que los documentos de origen externo, que la organizaci&#243;n determina que son necesarios para la planificaci&#243;n del sistema de gesti&#243;n de la
+   calidad, se identifican y que se controla su distribuci&#243;n y
+
+g) prevenir e uso no intencionado de documentos obsoletos, y aplicarles una identificaci&#243;n adecuada en el caso de que se mantengan por cualquier raz&#243;n.
+
+* *4.2.4 Control de registros*
+
+Los registros establecidos para proporcionar evidencia de la conformidad con los requisitos as&#237; como de la operaci&#243;n eficaz del sistema de gesti&#243;n
+de la calidad deben controlarse.
+
+La organizaci&#243;n debe establecer un procedimiento documentado para definir los controles necesarios para la identificaci&#243;n, el almacenamiento, la protecci&#243;n,
+la recuperaci&#243;n, la retenci&#243;n y la disposici&#243;n de los registros.
+
+Los registros deben permanecer legibles, f&#225;cilmente identificables y recuperables.
+
+* *7.5.4 *Propiedad del Cliente*
+
+La organizaci&#243;n debe cuidar los bienes que son propidade del cliente mientras est&#233;n bajo el control de la organizaci&#243;n o est&#233;n siendo utilizados por la
+misma. La organizaci&#243;n debe identificar, verificar, proteger y salvaguardar los bienes que son propidad del cliente suministrados para su utilizaci&#243;n
+o incorporaci&#243;n dentro del producto. Si cualquier bien que sea propiedad del cliente se pierde, deteriora o de alg&#250;n otro modo se considera inadecuado
+para su uso, la organizaci&#243;n debe informar de ello al cliente y mantener registros. (vease 4.2.4)
+
+NOTA::
+  La propiedad del cliente puede incluir la propiedad intelectual y los datos personales.
+
+=== AUDITORIA INTERNA
+
+* 4.2 REQUISITOS DE LA DOCUMENTACION
+
+* 5.5.3 Comunicaci&#243;n Interna - Matriz de la comunicaci&#243;n
+
+* 7.2.3 Comunicaci&#243;n con el Cliente - Atenci&#243;n de solicitudes.
+
+* 7.5.4 Propiedad del Cliente - Manejo de la documentaci&#243;n.
+
+* Seguridad y confidencialidad de la Informaci&#243;n. (copias de seguridad)
+
+* Depuraci&#243;n del archivo.
+
+=== INDICADOR DE GESTION
+
+* M-GQ-01 - MANUAL DE GESTION DE INDICADORES DEL S.G.C
+
+6.2.2 Indicadores de Gesti&#243;n - Indicador No.03 - *Eficiencia en la entrega de la informaci&#243;n:*::
+  Correponde al promedio de tiempo que tarda el proceso desde el momento en que recibe una solicitud externa de informaci&#243;n y la emisi&#243;n del registro o
+  informe listo para su entrega.
+
+=== NORMA ISO 9001:2008
+
+* 4. SISTEMA DE GESTI&#211;N DE LA CALIDAD
+
+* 4.1 *REQUISITOS GENERALES*
+
+* 4.2 REQUISITOS DE LA DOCUMENTACI&#211;N
+
+* 4.2.1 *Generalidades*
+
+* 4.2.2 Manual de la Calidad
+
+* 4.2.3 *Control de los documentos*
+
+* 4.2.4 Control de los registros
+
+* 5. RESPONSABILIDAD DE LA DIRECCI&#211;N
+
+* 5.1 COMPROMISO DE LA DIRECCI&#211;N
+
+* 5.2 ENFOQUE AL CLIENTE
+
+* 5.3 POL&#205;TICA DE LA CALIDAD
+
+* 5.4 PLANIFICACI&#211;N
+
+* 5.4.1 Objetivos de la calidad
+
+* 5.4.2 Planificaci&#243;n del sistema de gesti&#243;n de la calidad
+
+* 5.5 RESPONSABILIDAD, AUTORIDAD Y COMUNICACI&#211;N
+
+* 5.5.1 Responsabilidad y autoridad
+
+* 5.5.2 Representante de la direcci&#243;n
+
+* 5.5.3 Comunicaci&#243;n interna
+
+* 5.6 *REVISION POR LA DIRECCI&#211;N*
+
+* 5.6.1 Generalidades
+
+* 5.6.2 Informaci&#243;n de entrada para la revisi&#243;n
+
+* 5.6.3 Resultados de la revisi&#243;n.
+
+* 6. GESTI&#211;N DE LOS RECURSOS
+
+* 6.1 PROVISI&#211;N DE RECURSOS
+
+* 6.2 RECURSOS HUMANOS
+
+* 6.2.1 Generalidades
+
+* 6.2.2 Competencia, formaci&#243;n y *toma de conciencia*
+
+* 6.3 INFRAESTRUCTURA
+
+* 6.4 AMBIENTE DE TRABAJO
+
+* 7. REALIZACI&#211;N DEL PRODUCTO
+
+* 7.1 PLANIFICACION DE LA REALIZACI&#211;N DEL PRODUCTO
+
+* 7.2 PROCESOS RELACIONADOS CON EL CLIENTE
+
+* 7.2.1 Determinaci&#243;n de los requisitos relacionados con el producto
+
+* 7.2.2 Revisi&#243;n de los requisistos relacionados con el producto
+
+* 7.2.3 Comunicaci&#243;n con el cliente
+
+* 7.3 DISE&#209;O Y DESARROLLO
+
+* 7.3.1 Planficaci&#243;n del dise&#241;o y desarrollo
+
+* 7.3.2 Elementos de entrada para el dise&#241;o y desarrollo
+
+* 7.3.3 Resultados del dise&#241;o y desarrollo
+
+* 7.3.4 Revisi&#243;n del dise&#241;o y desarrollo
+
+* 7.3.5 Verificaci&#243;n del dise&#241;o y desarrollo
+
+* 7.3.6 Validaci&#243;n del dise&#241;o y desarrollo
+
+* 7.3.7 *Control de los cambios del dise&#241;o y desarrollo*
+
+* 7.4 COMPRAS
+
+* 7.4.1 Proceso de compras
+
+* 7.4.2 Informaci&#243;n de las compras
+
+* 7.4.3 Verficaci&#243;n de los productos comprados
+
+* 7.5 PRODUCCION Y PRESTACI&#211;N DEL SERVICIO
+
+* 7.5.1 Control de la producci&#243;n y de la prestaci&#243;n del servicio
+
+* 7.5.2 Validaci&#243;n de los procesos de la producci&#243;n y de la prestaci&#243;n del servicio
+
+* 7.5.3 Identificaci&#243;n y trazabilidad
+
+* 7.5.4 *Propiedad del Cliente*
+
+* 7.5.5 Preservaci&#243;n del producto
+
+* 7.6 CONTROL DE LOS EQUIPOS DE SEGUIMIENTO Y DE MEDICION
+
+* 8. MEDICI&#211;N, AN&#193;LISIS Y MEJORA
+
+* *8.1 GENERALIDADES*
+
+* 8.2. SEGUIMIENTO Y MEDICI&#211;N
+
+* 8.2.1 Satisfacci&#243;n del cliente
+
+* 8.2.2 Auditor&#237;a interna
+
+* 8.2.3 Seguimiento y medici&#243;n de los procesos
+
+* 8.2.4 Seguimiento y medici&#243;n del producto
+
+* 8.3 CONTROL DEL PRODUCTO NO CONFORME
+
+* 8.4 *ANALISIS DE DATOS*
+
+* 8.5 *MEJORA*
+
+* 8.5.1 Mejora continua
+
+* 8.5.2 Acci&#243;n correctiva
+
+* 8.5.3 Acci&#243;n preventiva
+
+=== SEGUIMIENTO DEL PROCESO
+
+* INFORME DE RESULTADO DE REVISI&#211;N POR LA DIRECCI&#211;N
+
+* EVALUACION INSTITUCIONAL
+
+* ENCUESTA DE SATISFACION
+
+* BUZON DE FELICITACIONES, SUGERENCIAS Y QUEJAS
+
+* AUDITORIA ICONTEC
+
+* AUDITORIA INTERNA
+
+* INDICE DE CUMPLIMIENTO
+
+* MATRIZ DE INDICADORES
+
+* ACPM
+
+=== LEYES QUE PUEDEN AFECTAR EL PROCESO
+
+LEY 906 de 2004 PRINCIPIOS RECTORES Y GARANTIAS PROCESALES::
+
+ *Art&#237;culo 246:* Regla general. Las actividades que adelante la polic&#237;a judicial, en desarrollo del programa metodol&#243;gico de la investigaci&#243;n,
+ diferentes a las previstas en el cap&#237;tulo anterior y que impliquen afectaci&#243;n de derechos y garant&#237;as fundamentales, &#250;nicamente se podr&#225;n 
+ realizar con autorizaci&#243;n previa proferida por el juez de control de garant&#237;as, a petici&#243;n del fiscal correspondiente.
+ La polic&#237;a judicial podr&#225; requerir autorizaci&#243;n previa directamente al juez, cuando se presenten circunstancias excepcionales que ameriten
+ extrema urgencia, en cuyo caso el fiscal deber&#225; ser informado de ello inmediatamente.
+ 
+ *Este art&#237;culo aplica cuando se solicit&#225; informaci&#243;n relacionada con n&#250;meros de ip teniendo en cuenta que esta informaci&#243;n es de caracter reservado, 
+ y s&#243;lo pueden ser suministrada mediante autorizaci&#243;n judicial competente, de acuerdo a lo ordenado por el art&#237;culo 246 de la ley 906 del 2004.*
+ 
+=== PROCESO DE APOYO
+
+* *APOYO A LA ESTRUCTURA ACAD&#201;MICA:*
+
+** GE -> Software acad&#233;mico
+
+** AM -> Software de admisiones
+
+** DOCENTES -> Soporte
+
+* *APOYO A LA ESTRUCUTURA TECNOL&#211;GICA*
+
+** Gestionar la plataforma Tecnol&#243;gica: Equipos, Software, Redes.
+
+* *PROPIAS DEL PROCESO*
+
+** Comuniaci&#243;n: Interna, Gesti&#243;n de la p&#225;gina Web del Colegio.
+
+** Gesti&#243;n del Archivo Central
+
+** Control de registros, seg&#250;n el manual de la Calidad.

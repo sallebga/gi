@@ -1,0 +1,63 @@
+Version 2.2
+	 file_start 	
+tildes
+D:\dev\gi\auditoria\src\main\asciidoc\en-US\modules\ (*.*)
+1
+*.*
+
+0
+D:\dev\gi\auditoria\src\main\asciidoc\en-US\modules\
+1
+1
+D:\dev\gi\auditoria\src\main\asciidoc\en-US\modules\
+1
+0
+backup
+0
+1
+D:\dev\gi\auditoria\src\main\asciidoc\en-US\modules\
+1
+
+	 begin_group_backup 	
+	 group_start 	
+A Sample Replace Group
+Right-click me and choose "Advanced Edit"
+<--- That text will be replaced with this text
+These replacements all apply to "Sample Replace Group"...
+...and all the files associated with it
+For an example of a File Set, open "Sample.bkr"
+(choose Open from the File menu)
+
+
+	 group_start 	
+Programming Replace Group
+
+
+	 group_start 	
+tildes
+á
+&#225;
+é
+&#233;
+í
+&#237;
+ó
+&#243;
+ú
+&#250;
+Á
+&#193;
+É
+&#201;
+Í
+&#205;
+Ó
+&#211;
+Ú
+&#218;
+ñ
+&#241;
+Ñ
+&#209;
+
+

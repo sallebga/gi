@@ -1,0 +1,43 @@
+[[i-gi-01]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== I-GI-01 - INSTRUCTIVO PARA MANEJO DE COPIAS DE SEGURIDAD DE ARCHIVOS INFORMATICOS
+
+=== OBJETIVO:
+
+Establecer los lineamientos b&#225;sicos para el almacenaje y manejo adecuado de las copias de seguridad de los archivos
+inform&#225;ticos en las Instituciones Educativas.
+
+=== COPIAS DE SEGURIDAD MENSUAL
+
+Cada dependencia de la instituci&#243;n genera, 1 vez al mes, una copia de seguridad de sus archivos inform&#225;ticos en
+cualquier medio externo de almacenamiento digital los cuales son conservados hasta que se realice la siguiente
+copia de seguridad.
+
+=== COPIAS DE SEGURIDAD ANUALES
+
+Esta copias de seguiridad se realizan espec&#237;ficamente a la base de datos del software acad&#233;mico y financiero utilizado
+en la instituci&#243;n.
+
+Se deben generar dos copias de seguridad en un medio de almacenamiento digital externo el cual debe estar debidamente
+organizado e identificado.
+
+Una copia de seguridad con su registro respectivo debe almacenarse en el archivo institucional y la otra debe enviarse
+a la oficina de la Secretar&#237;a de Educaci&#243;n del Distrito Lasallista de Bogot&#225;.
+
+*Registros:*
+
+* Medio de almacenamiento externo
+
+* Registro de Entrada de Documentos al Archivo Central
+
+* Constancia de entrega de archivo inform&#225;tico institucional.
+
+

@@ -1,0 +1,53 @@
+[[swiches]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== IPS
+
+.PENDIENTE
+[options="header"]
+|======================================
+|     IP         |OBSERVACION         |
+|192.168.1.1:4443|SoniWall -          |
+|192.168.1.84    |SAN - manage !manage|
+|192.168.1.248   |root - Vmware01     |
+|======================================
+
+=== SALA No.1
+
+=== SALA No.2
+
+=== SALA No.3
+
+=== CENTRO DE DATOS EDIFICIO NUEVO
+
+=== OFICINA SEGUNDA COORDINACION
+
+=== OFICINA GESTION EDUCATIVA
+
+=== PREESCOLAR
+
+=== LUDOTECA
+
+=== AUDIOVISUALES
+
+=== GI
+
+=== SWICHE No.10 DPTOS ACADEMICOS
+
+=== SWICHE No.11: SALA INFORMATICA No.1
+
+=== SWICHE No.12 ATENCION A PADRES
+
+=== SWICHE No.13 ADMINISTRACION
+
+
+148
+
+manage !manage

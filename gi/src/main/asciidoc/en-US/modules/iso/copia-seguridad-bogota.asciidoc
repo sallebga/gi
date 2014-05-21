@@ -1,0 +1,207 @@
+[[iso-copia-seguridad-bogota]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== VERIFICACIÓN COPIA DE SEGURIDAD ANUAL QUE SE ENVIA A LA SECRETARIA DE EDUCACION
+
+* 21 de mayo de 2013 14:29 - COLEGIO LA SALLE BUCARAMANGA - DVD COPIA DE SEGURIDAD DEL 2012 - https://mail.google.com/mail/u/0/?shva=1#sent/13ec891b91488483[gi@lasallebga.edu.co]
+
+* 4 de julio de 2012 11:23 - COLEGIO LA SALLE BUCARAMANGA - DVD COPIA DE SEGURIDAD DEL 2011 - https://mail.google.com/mail/u/0/?shva=1#apps/calidadsed%40lasalle.org.co/13852cd9049d2490[gi@lasallebga.edu.co] -
+
+
+== VERIFICACIÓN COPIAS DE SEGURIDAD POR DEPENDENCIAS
+
+* 3 de junio de 2013 11:08 - COPIA DE SEGURIDAD DE CADA ÁREA HASTA EL SEGUNDO PERIODO DEL AÑO -  Enviada por Asesoría Académica. - https://mail.google.com/mail/ca/u/0/?shva=1#inbox/13f3e4b2ad14c1e4[gi@lasallebga.edu.co]
+
+
+== COPIA DE SEGURIDAD BOGOTA
+
+* Directorio: BACKUP-SALLEBGA
+
+* sima
+
+Conexión a Escritorio remoto: Server2
+E:\simabak\2014
+Archivo comprimido mas reciente
+
+* mspc
+
+** Conexión a Escritorio remoto: servschool
+
+** Copia de la Base de datos - SQL Server Management Studio
+
+General:
+ Base de datos:mspc
+ [Click][Derecho][Tareas][Copia de Seguridad]
+ [Agregar]
+ D:\BackupMspc\año\mspc.bak
+
+Opciones:
+[Aceptar] - Realiza la copia de seguridad.
+
+Copiar la copia de la base de datos: mspc.bak al directorio de la copia
+
+** Copia de la aplicación Web
+
+Directorio: C:\Program Files\Apache Software Foundation\Tomcat 5.5\webapps\mspc.war
+Copiar al directorio de la copia: D:\BackupMspc\año
+Recoger la copia
+
+Copia del directorio de las imagenes de la aplicación
+Directorio: C:\Program Files\Apache Software Foundation\Tomcat 5.5\webapps\mspc\userfiles
+Copiar al directorio de la copia: D:\BackupMspc\año
+Recoger la copia
+
+gnosoft
+
+
+
+==== SOBRE MEDIA CARTA
+
+                                                                  REMITE
+                                                                  COLEGIO LA SALLE
+                                                                  CALLE 67 # 24-24
+                                                                  BUCARAMANGA
+                                                                  GESTÓN DE LA INFORMACIÓN
+
+
+SECRETARIA DE EDUCACION
+DIAGONAL 46 # 19-28
+BOGOTÁ D.C
+GLORIA E ROZO GALVIS
+Asistente Gestión de la Calidad
+SECRETARIA DE EDUCACIÓN
+
+=== INTRANET
+
+* ISO
+
+** http://192.168.1.93:8088/iso-rc1/home.java[Local]
+
+** pendiente[Web]
+
+* http://192.168.1.93:8080/gi/archivo/index.html - Directrices
+
+** \\servschool\C:\Program Files\Apache Software Foundation\Tomcat 5.5\webapps\gi\archivo
+
+=== INVENTARIO DOCUMENTAL
+
+* D:\GI\procesos\09-GI\2012\ARCHIVO\INVENTARIO\Inventario-2012.xls
+
+=== ACTIVIDADES PARA CADA PROCESO
+
+* LMR - Directorio: D:\GI\procesos\10-GQ\LMR\LMR2012-descargado-20-11-2012
+
+** Tipo: Seleccionar todo
+
+** Institución: Colegio, N.A
+
+** Proceso: Todos y un proceso.
+
+** Imprimir el LMR del proceso.
+
+* Validar los LMR del año anterior vs LMR el año actual - D:\GI\procesos\proceso\año\ARCHIVO\validar
+
+** Encontrar diferencias - LMR2012-descargado-20-11-2012.xls - LMRExcel.xls
+
+** Actualizar el sistema ISO - naif
+
+* GE - Relación de los todos los registros y la forma como se deben ordenar. GE-FORMATOS-ORDENACION.xls
+
+* Diligenciar el formato F-GI-04
+
+** http://192.168.1.93:8088/iso-rc1/ProcesosList.java
+
+=== MAIL CON LAS DIRECTRICES PARA LA ENTREGA DE DOCUMENTOS AL ARCHIVO CENTRAL.
+
+ASUNTO: GESTION EDUCATIVA - ENTREGA DE DOCUMENTOS AL ARCHIVO CENTRAL 2012
+
+Cordial Saludo.
+
+En el siguiente link puede consultar http://192.168.1.93:8080/gi/archivo/inactivo/F-GI-04_directrices.html
+las DIRECTRICES PARA LA ENTREGA DE DOCUMENTOS AL ARCHIVO CENTRAL.
+
+Para facilitar dicha entrega anexo los siguientes archivos:
+
+* F-GI-04-GE-2012.doc: Con la relación de documentos a entregar al archivo central, en el cual se deben completar las columnas que
+  faltan  de acuerdo al número de carpetas que se vayan a entregar de cada documento.
+
+* ROTULOS-GE-2012.txt: Con los rótulos que se deben utilizar para marcar las carpetas, igualmente falta
+  completar las fechas extremas, el número de carpetas y número de folios de acuerdo al número de carpetas que se vayan a entregar de cada documento.
+
+* ROTULOS-BLANCO.doc: Un archivo en word que sirve como plantilla para elaborar los rótulos, de acuerdo
+  al archivo ROTULOS-GE-2012.txt del cual se debe copiar y pegar en dicha plantilla el rótulo(s) correspondiente.
+
+* GE-FORMATOS-ORDENACION-2012.xls: Un archivo en el excel con la relación de todos los formatos y la forma
+  como se deben ordenar para organizarlos en las carpetas.
+
+Es importante confrontar los documentos de acuerdo la listado maestro de registros.
+
+=== MAIL ENVIADOS DEL 2013
+
+*  20 de noviembre de 2013, 9:58 - LMR SEGUN GQ https://mail.google.com/mail/u/0/?shva=1#sent/14276056cc6b39c8[gi@lasallebga.edu.co]
+
+** ENTREGA DE DOCUMENTOS AL ARCHIVO CENTRAL 2013
+
+*** GD - https://mail.google.com/mail/u/0/?shva=1#sent/1427ba6b1312ac49[gi@lasallebga.edu.co]
+
+*** AM - https://mail.google.com/mail/u/0/?shva=1#sent/1427ba79786e4b19[gi@lasallebga.edu.co]
+
+*** GE - https://mail.google.com/mail/u/0/?shva=1#sent/1427ba4749eafb2c[gi@lasallebga.edu.co]
+
+*** GT - https://mail.google.com/mail/u/0/?shva=1#sent/1427ba83378aa4f0[gi@lasallebga.edu.co]
+
+*** GF - https://mail.google.com/mail/u/0/?shva=1#sent/1427ba8b31654312[gi@lasallebga.edu.co]
+
+*** GC - https://mail.google.com/mail/u/0/?shva=1#sent/1427ba941f7a74d3[gi@lasallebga.edu.co]
+
+*** SG - https://mail.google.com/mail/u/0/?shva=1#sent/1427ba9c757a0b73[gi@lasallebga.edu.co]
+
+*** SC - https://mail.google.com/mail/u/0/?shva=1#sent/1427baa40ad3be0e[gi@lasallebga.edu.co]
+
+*** GI - https://mail.google.com/mail/u/0/?shva=1#sent/1427bab1cd6bad90[gi@lasallebga.edu.co]
+
+*** GQ - https://mail.google.com/mail/u/0/?shva=1#sent/1427baabc482dc65[gi@lasallebga.edu.co]
+
+** ENTREGA DE DOCUMENTOS AL ARCHIVO CENTRAL 2012
+
+*** GD - https://mail.google.com/mail/u/0/?shva=1#sent/13b943b4aeee9efa[gi@lasallebga.edu.co]
+
+*** AM - https://mail.google.com/mail/u/0/?shva=1#sent/13baeac563d5293d[gi@lasallebga.edu.co]
+
+*** GE - https://mail.google.com/mail/u/0/?shva=1#sent/13b3e1b8bbcea4d6[gi@lasallebga.edu.co]
+
+*** GT - https://mail.google.com/mail/u/0/?shva=1#sent/13b8b66eaaac62e0[gi@lasallebga.edu.co]
+
+*** GF - https://mail.google.com/mail/u/0/?shva=1#sent/13bae8f015c09995[gi@lasallebga.edu.co]
+
+*** GC - https://mail.google.com/mail/u/0/?shva=1#sent/13baeafc87d8b36e[gi@lasallebga.edu.co]
+
+*** SG - https://mail.google.com/mail/u/0/?shva=1#sent/13baeb816feca0dc[gi@lasallebga.edu.co]
+
+*** SC - https://mail.google.com/mail/u/0/?shva=1#apps/GESTION+DE+SERVICIOS+COMPLEMENTARIOS+-+ENTREGA+DE+DOCUMENTOS+AL+ARCHIVO+CENTRAL+2013/13baebc75a182321[gi@lasallebga.edu.co]
+
+*** GI - [gi@lasallebga.edu.co]
+
+*** GQ - https://mail.google.com/mail/u/0/?shva=1#sent/13c71af5ea8f21b5[gi@lasallebga.edu.co]
+
+=== PENDIENTES
+
+* Definir y actualizar la estructura directorios para cada proceso para almacenar todos los documentos.
+
+* Exalumnos revisar la organización.
+
+
+
+
+
+
+
+
+

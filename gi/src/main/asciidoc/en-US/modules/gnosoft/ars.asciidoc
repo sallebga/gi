@@ -1,0 +1,54 @@
+[[gnosoft-ars]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== PUBLICACIÓN WEB DE LOS TRABAJOS DE REFUERZO Y SUPERACIÓN - ARS
+
+=== RECURSOS
+
+* AÑO: 2014 - D:\GI\procesos\03-GE\2014\ARS - http://lasallebga.edu.co/2014/ge/ars/
+
+* AÑO: 2013 - D:\GI\procesos\03-GE\2013\ARS - http://lasallebga.edu.co/2013/ge/ars/
+
+* http://www.lasallebga.edu.co/web/images/nico/NicoGilberto.zip
+
+=== ACTIVIDADES
+
+* Descargar los archivos enviados por correo de los planes de trabajo
+
+* Ubicarse en el directorio de los archivos
+
+* Enviar la estructura de directorios con sus archivos a un archivo plano: dir *.* /s >z.txt
+
+* Copiar el archivo para la validación de las asignaturas del año: validar-asignaturas-año.html - https://mail.google.com/mail/ca/u/0/?shva=1#inbox/13f5216bc970e4ad[gi@lasallebga.edu.co]
+
+* Sacar una copia del archivo: validar-asignaturas-año.html  con el nombre: validar-año-Pn.html
+
+* Abrir los archivos: z.txt y validar-año-Pn.html y revisar materia por materia.
+
+* Sacar una copia del archivo: validar-año-Pn.html con el nombre: validar-año-Pn-web.html
+
+* Validar el periodo de la publicación
+
+=== 2014
+
+* [PRIMER PERIODO] Buscar en la página: PLANES DE TRABAJO DEL 2014. PRIMER PERIODO
+
+=== 2013
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/325-planes-de-trabajo-del-2013-cuarto-periodo[CUARTA PERIODO]
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/311-planes-de-trabajo-del-2013-tercer-periodo[TERCER PERIODO]
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/290-planes-de-trabajo-del-2013-segundo-periodo[SEGUNDO PERIODO]
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/270-planes-de-trabajo-del-2013-primer-periodo[PRIMER PERIODO]
+
+
+

@@ -1,0 +1,87 @@
+[[acpm]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== ACCIONES DE CORRECTIVAS, PREVENTIVAS Y DE MEJORA
+
+=== ACCION DE MEJORA No.263
+
+Descripci&#243;n::
+
+Crear un sitio Web con las directrices para la entrega de la documentaci&#243;n al archivo central, para garantizar su disponibilidad virtual.
+
+Causa ra&#237;z::
+
+No est&#225;n centralizadas y en l&#237;nea las directrices para la entrega de la documentaci&#243;n al archivo central
+
+=== ACCION DE MEJORA No.264
+
+Descripci&#243;n::
+
+Se precisa de una continua revisi&#243;n de equipos y soluci&#243;n pronta y efectiva de las situaciones que se presentan en las salas de
+bilingüismo, sala interactiva y sala de inform&#225;tica, con el Software educativo de aplicaci&#243;n en el &#225;rea correspondiente.
+
+Causa ra&#237;z::
+
+Falta fortalecer la revisi&#243;n peri&#243;dica de los equipos y el seguimiento a las acciones realizadas en las salas de inform&#225;tica.
+
+=== ACCION DE MEJORA No.277
+
+Descripci&#243;n::
+
+Realizar las elecciones del Gobierno Estudiantil por Internet.
+
+Causa ra&#237;z::
+
+La elecciones del Gobierno Estudiantil se estaban realizando con un sistema de no web, y se desea realizar las elecciones a trav&#233;s del uso
+del Internet.
+
+=== ACCION DE MEJORA No.278
+
+Descripci&#243;n::
+
+Implementar el software para el control del ingreso de los estudiantes y personal del colegio al restaurante.
+
+Causa ra&#237;z::
+
+No existe un control sistematizado del ingreso al restaurante.
+
+=== ACCION DE MEJORA No.296
+
+Descripci&#243;n::
+
+* Fortalecer la apropiacion de la informacion relacionada con el Manual de Comunicacion, ello facilitara su socializado con los jefes de
+  los demas procesos. De igual forma apersonarse de la identificacion de los documentos confidenciales.
+
+* EL (F-GI-02) Formato de radicacion de correspondencia enviada, solo registra las cartas externas que son elaboradas desde GD, seria
+  pertinente que alli se registraran las cartas de todos los procesos.
+
+* Mantener comunicacion con la Secretaria de Educacion del Distrito Lasallista de Bogota para solicitar la constancia de la entrega del
+  archivo informatico institucional, cuando esta se realice.
+
+* Promover la estrategia de divulgacion del instructivo para manejo de copias de seguridad de archivos informaticos, con cada jefe de
+  dependencia.
+
+* Acordar con GD, en manejo de una copia de seguridad y prevencion ante cualquier eventualidad.
+
+Causa ra&#237;z::
+
+La comunicaci&#243;n interna no es asertiva por desconocimiento de la documentaci&#243;n que se encuentra divulgada en la p&#225;gina Web.
+
+=== ACCION DE MEJORA No.297
+
+Descripci&#243;n::
+
+Permitir el cobro a los estudiantes en los recibos de pago por los da&#241;os que realice durante la permanencia en la instituci&#243;n.
+
+Causa ra&#237;z::
+
+No existe en el sistema de facturaci&#243;n la posibilidad de cobrar conceptos relacionados con da&#241;os realizados por los estudiantes de una
+forma descriptiva.
+

@@ -1,0 +1,98 @@
+[[p-gi-01]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== PR-GI-01 - PROCEDIMIENTO DE CONTROL DE CORRESPONDENCIA Y GESTI&#211;N DE ARCHIVO
+
+=== OBJETIVO:
+
+Establecer el procedimiento mediante el cual *se organiza y administra el archivo central* en las Instituciones Educativas del Distrito Lasallista de Bogot&#225;
+
+=== ALCANCE:
+
+Inicia con la recepci&#243;n de registros y finaliza con la depuraci&#243;n de archivos
+
+=== GLOSARIO
+
+*DOCUMENTO*::
+  Informaci&#243;n y su medio de transporte.
+
+*DOCUMENTOS CONFIDENCIALES*::
+   Todos aquellos que identifican el proceso personal del estudiante y del personal que la labora en la Instituci&#243;n;
+   &#233;stos tienen accesso restringido.
+
+*DOCUMENTOS DE INFORMACI&#211;N GENERAL*::
+   Todos aquellos dirigidos a la Comunidad Educativa con el fin de mantener comunicaci&#243;n permanente y oportuna.
+
+*ARCHIVO*::
+  Conjunto de documentos producidos y recibidos por una persona o entidad en raz&#243;n de sus funciones o de la actividad
+  que desempe&#241;e, los cuales deben estar organizados respetando un orden l&#243;gico.
+
+*ARCHIVO DE GESTI&#211;N*::
+   Comprende toda la documentaci&#243;n que es sometida a continua utilizaci&#243;n y consulta, y est&#225; bajo la responsabilidad
+   de cada dependencia. Tambi&#233;n llamado "Archivo Activo"
+
+*ARCHIVO CENTRAL:*::
+   Es el archivo en el que se agrupan documentos transferidos a los distintos archivos de gesti&#243;n de las dependencias,
+   cuya consulta no esta frecuente pero que siguen teniendo vigencia.
+
+=== TRAMITE CORRESPONDENCIA RECIBIDA
+
+1- *Recepci&#243;n*::
+
+Se recibe toda la correspondencia, la radica y garantiza su oportuna distribuci&#243;n.
+
+2- *Distribucci&#243;n*::
+
+Posteriormente debe entregar la correspondencia radicada al destinatario solicitando la firma de recibido.
+
+3- *Verificaci&#243;n*::
+
+Se debe verificar que toda la correspondencia recibida se haya distribuido oportunamente.
+
+=== TRAMITE CORRESPONDENCIA ENVIADA:
+
+1- *Planeaci&#243;n de env&#237;o de correspondencia:*::
+
+Los empleados de la instituci&#243;n que necesiten enviar correspondencia deben entregarla a la recepcionista quien programar&#225; su despacho.
+
+2- *Radicaci&#243;n:*::
+
+Toda la correspondencia enviada se debe radicar en el registro correspondiente, la recepcionista debe organizarla
+teniendo en cuenta: Prioridad de envi&#243;, Forma de env&#237;o(Mensajero, empresa de mensajer&#237;a), destinatario,Ciudad.
+
+3- *Verificaci&#243;n del env&#237;o:*::
+
+En todo caso se debe registrar el env&#237;o, bien sea con la firma del mensajero o con el n&#250;mero de gu&#237;a para el caso de de las empresas de mensajer&#237;a.
+Para los documentos enviados con copia, la recepcionista debe verificar que el mensajero la regrese con el radicado del receptor y archivarla o
+entregarla a quien corresponda.
+
+=== ADMINISTRACION DEL ARCHIVO:
+
+1- http://192.168.1.201/sallebga/gi/archivo/[*Entrega de documentos*]::
+
+Una vez cumplido el tiempo de retenci&#243;n en el &#225;rea debe ser entregado al archivo central.
+
+2- *Almacenamiento*::
+
+Una vez recibidos los documentos se clasifican y almacena de acuerdo a los criterio establecidos.
+
+3- *Consulta*::
+
+Cuando se solicite tener acceso a los registros, se suministra la informaci&#243;n sin que esta pueda ser retirada
+del lugar del archivo.
+
+4- *Copia de la Informaci&#243;n*::
+
+En caso de ser necesaria una copia de la informaci&#243;n almacenada se debe realizar una solicitud escrita al Rector.
+
+5- *Depuraci&#243;n de Archivo*::
+
+Anualmente se revisa el archivo central y se realiza su depuraci&#243;n.
+

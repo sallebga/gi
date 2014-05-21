@@ -1,0 +1,10 @@
+= ENTREGA DE LOS DOCUMENTOS AL ARCHIVO CENTRAL DEL SGC
+
+include::modules/carpetas.asciidoc[]
+
+include::modules/documentos.asciidoc[]
+
+include::modules/archivo.asciidoc[]
+
+include::modules/glosario.asciidoc[]
+

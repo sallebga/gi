@@ -1,0 +1,351 @@
+[[simadata-maetro-cartera]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== [[REPORTE A DATACREDITO - MAESTRO DE CARTERA v1-5-GA-1-0-3]]REPORTE A DATACREDITO - MAESTRO DE CARTERA v1-5-GA-1-0-3
+
+* http://www.ecertlms.com/datacredito/experto/media/documentos/MANUAL_MAESTRO_DE_CARTERA.pdf
+
+=== A - REGISTRO DE CONTROL - FUNCIONS\FUNCSTXT.PRG=>OTRTXT011()
+
+* *1.1 INDICADOR DE REGISTRO INICIAL*
+
+** REPL('H',18)
+
+* *1.2 CODIGO DEL SUSCRIPTOR*
+
+** [UTILIDADES][CONFIGURACION][CONFIGURACION SISTEMA] CAMPO 1.3 CODIGO DEL SUSCRIPTOR
+
+* *1.3 TIPO DE CUENTA*
+
+** [UTILIDADES][CONFIGURACION][CONFIGURACION SISTEMA] CAMPO 1.3 TIPO DE CUENTA
+
+* *1.4 FECHA DE CORTE*
+
+** Corresponde a la fecha en que se reporta a DataCrédito los estados de cuenta.
+
+** Se toma la fecha de fin de mes de acuerdo al año(cAnoUsr), mes(cMesIni) y el sistema calcula el día de fin del mes
+
+* *1.5 AMPLIACION MILENIO*
+
+** Constante: M: Indica que el año de las fechas viene reportado en cuatro digitos.
+
+* *1.6 INDICADOR DE VALORES EN MILES*
+
+** Constante: SPACE(01): Si se reporta M indica que los valores vienen en formato de miles de pesos, en cualquier otro caso viene el valor normal
+
+* *1.7 TIPO DE ENTREGA*
+
+** Constante: T : Si el maestro es completo y corresponde a la actualización total del mes debe venir codificada una T
+
+* *1.8 FECHA DE INICIO REPORTE*
+
+** Constante: 00000000 : Solo aplica para el tipo de entrega diferente de T
+
+* *1.9 FECHA DE FIN REPORTE*
+
+** Constante: 00000000 : Solo aplica para el tipo de entrega diferente de T
+
+* *1.10 INDICADOR DE PARTIR*
+
+** Constante: N
+
+* *1.11 FILLER* - REPL(' ',746)
+
+=== B - REGISTROS CON INFORMACION DE CLIENTES - FUNCIONS\OTRTXT011.PRG
+
+* *2.1 TIPO DE IDENTIFICACION*
+
+** cTipNitTre
+
+* *2.2 NUMERO DE IDENTIFICACION*
+
+** cDocNitTre
+
+* *2.3 NUMERO DE CUENTA U OBLIGACION*
+
+** IF i == 1 : cCodigoTre := REPL('0',5)+STR(nAnoIni,4)+SCO->cCodEmpCon+CLI->cCodigoEst
+
+** ELSE       cCodigoTre := REPL('0',3)+STR(nAnoIni,4)+SCO->cCodEmpCon+CLI->cCodigoEst+'C'+STR(i-1,1)
+
+* *2.4 NOMBRE COMPLETO*
+
+** cNombreTre
+
+* *2.5 SITUACION DEL TITULAR*
+
+** CONSTANTE: 0=Normal
+
+* *2.6 FECHA DE APERTURA*
+
+** Se toma el mes inicial del primer recibo facturado
+
+** Se toma el año del reporte
+
+** Se toma como constante el día 01 del mes
+
+* *2.7 FECHA DE VENCIMIENTO*
+
+** Se toma el mes final de la facturacion: SimaCart:[UTILIDADES][CONFIGURACION DEL AÑO]MES FINAL DE FACTURACION
+
+** Se toma el año del reporte
+
+** Se toma como constante el día 30 del mes
+
+* *2.8 RESPONSABLE O CALIDAD DE DEUDOR*
+
+** IF('C' $ REP->cCodigoRep,'01','00') : 00: Principal  01: Codeudor
+
+* *2.9 TIPO DE OBLIGACION*
+
+** [UTILIDADES][CONFIGURACION][CONFIGURACION SISTEMA] Anexo 2.3
+
+* *2.10 SUBSIDIO HIPOTECARIO*
+
+** CONSTANTE: 0=NO
+
+* *2.11 FECHA DE SUBSIDIO*
+
+** CONSTANTE: 00000000 : cFecSub := REPL('0',8)
+
+* *2.12 TERMINO DEL CONTRATO QUE GENERA LA OBLIGACION*
+
+** CONSTANTE: 1=Definido
+
+* *2.13 FORMA DE PAGO*
+
+** REP->cForPagRep
+
+* *2.14 PERIOCIDAD DE PAGO*
+
+** [UTILIDADES][CONFIGURACION][CONFIGURACION SISTEMA]
+
+* *2.15 NOVEDAD*
+
+** REP->cNovedaRep
+
+* *2.16 ESTADO ORIGEN DE LA CUENTA*
+
+** CONSTANTE: 0=Normal
+
+* *2.17 FECHA ESTADO ORIGEN. "FECHA DE APERTURA"*
+
+** REP->cFecApeRep+'01'
+
+* *2.18 ESTADO DE LA CUENTA*
+
+** REP->cNovedaRep == '01' => 01 Al día
+
+** REP->cNovedaRep == '05' => 03 Pago Total
+
+** OTHERWISE                       => 02 En Mora
+
+* *2.19 FECHA ESTADO DE LA CUENTA*
+
+** cFecPrn = Fecha de Corte
+
+* *2.20 ESTADO DEL PLASTICO*
+
+** Constante: 0 : Aplica sólo para tarjeta de crédito
+
+* *2.21 FECHA ESTADO DEL PLASTICO*
+
+** Constante: 00000000 : Aplica sólo para tarjeta de crédito
+
+* *2.22 ADJECTIVO*
+
+** Constante: 0 : No hay adjetivo reportado. Anexo 2.8
+
+* *2.23 FECHA ADJETIVO*
+
+** Constante: 00000000 : Si no se reporta adjetivo el campo debe venir en ceros
+
+* *2.24 CLASE TARJETA*
+
+** Constante: 0 : Aplica sólo para tarjeta de crédito
+
+* *2.25 FRANQUICIA*
+
+** Constante: 0 : Aplica sólo para tarjeta de crédito
+
+* *2.26 NOMBRE MARCA PRIVADA*
+
+** REPL(' ',30) : Sólo aplica si el campo de Franquicia se reportó la codificación
+
+* *2.27 TIPO DE MONEDA*
+
+** [UTILIDADES][CONFIGURACION][CONFIGURACION SISTEMA]
+
+* *2.28 TIPO DE GARANTIA*
+
+** [UTILIDADES][CONFIGURACION][CONFIGURACION SISTEMA]
+
+* *2.29 CALIFICACION*
+
+** Se reporta: A,B,C,D de acuerdo a la función novedad(..)
+
+* *2.30 PROBABILIDAD DE INCUMPLIMIENTO*
+
+** Constante: 000 : Sólo aplica para las entidades vigiladas por la Superintendencia Financiera de Colombia
+
+* *2.31 EDAD DE MORA*
+
+** REP->cEdaMorRep
+
+* *2.32 VALOR INICIAL*
+
+** cVlrIniTre := STR(NIV->nVlrTotNiv,10,0)
+
+* *2.33 SALDO DEUDA*
+
+** REP->cSdoActRep
+
+* *2.34 VALOR DISPONIBLE*
+
+** cVlrDisTre := REPL('0',10)
+
+* *2.35 VALOR CUOTA MENSUAL*
+
+** cVlrMenTre := STR(nVlrMes(),10,0)
+
+* *2.36 VALOR SALDO EN MORA*
+
+** cSdoMorTre := STR(nDeuAct+nMorAct,10,0)
+
+* *2.37 TOTAL CUOTAS*
+
+** nTotCou := nMesFin-nRecIni+1
+
+* *2.38 CUOTAS CANCELADAS*
+
+** cCouPagTre := STR(nCoutasPag(aDetPag,nMesIniTpa),3,0)
+
+* *2.39 CUOTAS EN MORA*
+
+** cCouMorTre := STR(nNroMes,3,0)
+
+* *2.40 CLAUSULA DE PERMANENCIA*
+
+** Constante: 000 : Aplica sólo para obligaciones del sector real
+
+* *2.41 FECHA CLAUSULA DE PERMANCENCIA*
+
+** Constante: 00000000 :  Aplica sólo para obligaciones del sector real
+
+* *2.42 FECHA LIMITE DE PAGO*
+
+** Se define la fecha de final del mes inicial del recibo
+
+* *2.43 FECHA DE PAGO*
+
+** REP->cFecPagRep
+
+* *2.44 OFICINA DE RADICACION*
+
+** [UTILIDADES][CONFIGURCION][CONFIGURACION GENERAL]NOMBRE DE LA EMPRESA
+
+* *2.45 CIUDAD DE RADICACION*
+
+** [UTILIDADES][CONFIGURACION][CONFIGURACION GENERAL] CIUDAD DE LA EMPRESA
+
+* *2.46 CODIGO DANE CIUDAD DE RADICACION*
+
+** Constante: 00000000
+
+* *2.47 CIUDAD DE RESIDENCIA*
+
+** cCiuRes
+
+* *2.48 CODIGO DANE CIUDAD DE RESIDENCIA*
+
+** Constante: 00000000
+
+* *2.49 DEPARTAMENTO DE RESIDENCIA*
+
+** REPL(' ',20)
+
+* *2.50 DIRECCION DE RESIDENCIA*
+
+** cDirRes
+
+* *2.51 TELEFONO DE RESIDENCIA*
+
+** cTelRes
+
+* *2.52 CIUDAD LABORAL*
+
+** cCiuTra
+
+* *2.53 CODIGO DANE CIUDAD LABORAL*
+
+** Constante: 00000000
+
+* *2.54 DEPARTAMENTO LABORAL*
+
+** REPL(' ',20)
+
+* *2.55 DIRECCION LABORAL*
+
+** cDirTra
+
+* *2.56 TELEFONO LABORAL*
+
+** cTelTra
+
+* *2.57 CIUDAD DE CORRESPONDENCIA*
+
+** cCiuEnv
+
+* *2.58 CODIGO DANE CIUDAD CORRESPONDENCIA*
+
+** Constante: 00000000
+
+* *2.59 DEPARTAMENTO DE CORRESPONDENCIA*
+
+** REPL(' ',20)
+
+* *2.61 CORREO ELECTRONICO*
+
+** REPL(' ',60)
+
+* *2.62 CELULAR*
+
+** REPL(' ',60)
+
+* *2.63 SUSCRIPTOR DESTINO*
+
+** [UTILIDADES][CONFIGURACION][CONFIGURACION SISTEMA] CAMPO 1.2 CODIGO DEL SUSCRIPTOR
+
+* *2.64 ESPACIO EN BLANCO*
+
+** REPL(' ',37)
+
+
+=== C. REGISTRO FIN - FUNCIONS\OTRTXT011.PRG
+
+* *3.1 IDENTIFICADOR*
+
+** REPL('Z',18)
+
+* *3.2 FECHA DE PROCESO*
+
+** aFecHoy[3]+aFecHoy[1]+aFecHoy[2] - Corresponde a la fecha en que se procesa la información que será enviada a DataCredito
+
+* *3.3 NUMERO DE REGISTROS*
+
+** cTotReg
+
+* *3.4 SUMATORIA DE NOVEDADES*
+
+** cTotNov
+
+* *3.5 FILLER*
+
+** REPL('0',758)
+

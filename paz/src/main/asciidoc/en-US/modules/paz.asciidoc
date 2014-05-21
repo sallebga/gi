@@ -1,0 +1,72 @@
+[[paz]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== INDICACIONES PARA EL REGISTRO DE PAZ Y SALVOS.
+
+=== OBJETIVO
+
+El objetivo de esta funcionalidad, es que solo el encargado de la dependencia agregue la firma del paz y salvo de los estudiantes de un curso.
+
+En este proceso al usuario solo le aparecen la(s) dependencia(s) que tenga a su cargo.
+
+=== ALCANCE
+
+Estas indicaciones aplica a todos los responsables de dependencia que deben registrar los Paz y Salvos.
+
+=== RESPONSABLES
+
+Jefes de Dependencias de Paz y Salvo.
+
+=== ASPECTOS GENERALES
+
+* Por defecto todos los estudiantes se encuentran a Paz y Salvo.
+
+* Solo se deben registrar los estudiantes que presenten deudas con la Instituci&#243;n.
+
+* Si un estudiante se pone al d&#237;a con la deuda registrada, se debe poner a Paz y Salvo en el sistema.
+
+
+=== ACTIVIDADES
+
+* Ingresar a Gnosoft con su usuario y contrase&#241;a
+
+* Selecionar la opci&#243;n: *[Acad&#233;mico administrador][Paz y Salvo][Firmar paz y Salvo]*
+
+* En esta parte de la funcionalidad seleccione: *el a&#241;o lectivo, la dependencia, el grado y el curso.* Luego oprima el bot&#243;n *Continuar*.
+
+image::images/fir_paz_dep.jpg[]
+
+* Acontinuaci&#243;n selecione los estudiantes a los cuales le va a registrar la novedad del Paz y Salvo.
+
+image::images/fir_paz_dep_lis.jpg[]
+
+TIP:
+    El estado en color verde signfica que el estudiante se encuentra a Paz y Salvo
+
+TIP:
+    Si se desea que todo el curso presente el mismo estado hacer clic en el cuadro marcado con el No.1 ubicado debajo de la dependencia.
+
+* Para registrar la deuda o poner a paz y salvo se da [click] sobre el cuadro del estudiante y aparecer&#225; la siguiente imagen:
+
+image::images/opc_fir.jpg[]
+
+ * *En Deuda:* Se debe registrar el detalle de la deuda la cual debe ser corta y espec&#237;fica y presionar el bot&#243;n *[En Deuda]*,
+   el cuadro de estado debe pasar al color [red]#rojo#. El sistema permite dejar en blanco el detalle de la deuda, por tal motivo es que
+   se debe anotar dicho detalle.
+
+ * *[Al D&#237;a]:* Para poner el estudiante a Paz y Salvo solo basta presionar el bot&#243;n *[Al D&#237;a]* y el cuadro del estado debe
+   pasar al color [green]#verde#
+
+ * *Borrar:* Este bot&#243;n *no se debe utilizar* porque borra la novedad.
+
+* *AL FINALIZAR PRESIONAR EL BOT&#211;N _[Registrar]_ no olvide este detalle, porque el sistema _NO_ graba y toca volver a digitar.*
+
+
+

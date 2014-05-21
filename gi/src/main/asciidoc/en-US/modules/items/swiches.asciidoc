@@ -1,0 +1,144 @@
+[[items-swiches]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== SWICHES
+
+=== SWICHE No.1: CENTRO DE DATOS EDIFICIO NUEVO
+
+.PUNTOS CENTRO DE DATOS EDIFICIO NUEVO
+[options="header"]
+|==============================
+|PUNTOS        |     IPS      |
+|MESA No.00    |192.168.1.101 |
+|MESA No.01    |              |
+|MESA No.02    |              |
+|MESA No.03    |              |
+|MESA No.04    |              |
+|MESA No.05    |              |
+|MESA No.06    |              |
+|MESA No.07    |              |
+|MESA No.08    |              |
+|MESA No.09    |              |
+|MESA No.10    |              |
+|FOTOCOPIA     |              |
+|BIBLIOTECA    |              |
+|VOZ           |              |
+|AUX-PC        |              |
+|              |              |
+|              |              |
+|              |              |
+|              |              |
+|              |              |
+|SISTEMAS-1    |              |
+|SISTEMAS-2    |              |
+|==============================
+
+=== SWICHE No.2: SALA INFORMATICA No.2 Rango Ips: 2..100
+
+=== SWICHE No.3: SALA INFORMATICA No.3 Rango Ips: 2..100
+
+=== SWICHE No.4: OFICINA SEGUNDA COORDINACION
+
+=== SWICHE No.5: OFICINA GESTION EDUCATIVA
+
+=== SWICHE No.6 PREESCOLAR
+
+=== SWICHE No.7 LUDOTECA
+
+=== SWICHE No.8 AUDIOVISUALES
+
+* http://192.168.1.10/html/nhome.html[AUDIOVISUALES]
+
+=== SWICHE No.9 GI
+
+=== SWICHE No.10 DPTOS ACADEMICOS
+
+=== SWICHE No.11: SALA INFORMATICA No.1 Rango Ips: 2..100
+
+=== SWICHE No.12 ATENCION A PADRES
+
+=== SWICHE No.13 ADMINISTRACION
+
+=== SONICWALL
+
+* https://192.168.1.1/auth.html
+
+* X0 = R1-SW-23 = LAN
+
+* X1 = R1-SW-24 = WAN
+
+* X2 = R1-SW-20 = WIFI AP SONICWALL
+
+* R8-SW-18 = CANAL DE INTERNET - MICROTIC - SWICHE DE AUDIOVISUALES
+
+
+=== SERVIDORES
+
+SOFWARE DE RED
+
+http://angryip.org/w/Download  - Buscar IPS
+
+
+=== ACCESS POINT
+
+DLINK1      => 1234567891    IP:192.168.1.251 =>admin:flywan2010 defaul: 192.168.0.50
+DLINK2      => 1234567890    IP:192.168.1.252 =>admin:flywan2010    audiovisuales - audiovisuales
+BIBLIOTECA  => dlink41234    IP:192.168.1.253 =>admin:flywan2010 BIBLIOTECA - biblioteca
+AUDITORIO   =>  dlink31234   IP:192.168.1.254 =>admin:flywan2010
+FLAYWAN     => 1234567890    IP:192.168.1.250 =>admin:flywan2010
+QPCOM1      => admin2012     IP:192.168.1.249 =>admin:flywan2010  defaul: 192.168.0.254
+3bumen1     => 1357924680    IP:192.168.1.248 =>192.168.0.248=admin:asdfgh Defaul:10.1.10.50 = 3bumen=3bumenRango 192.168.1.2 - 192.168.1.21 => 20 Equipos
+
+=== HP A5500-48G SWITCH PART NUMBER: JD375A#ABA
+
+* SERIAL: CN31B9S0CY - IP xxx.xxx.xxx.xxx - CENTRO EDIFICIO NUEVO
+
+=== HP 2530-48G SWITCH PART NUMBER: J9775#ABA
+
+* SERIAL: CN2BFP6056 - IP:192.168.100.105
+
+* SERIAL: CN2BFP6012 - IP:192.168.100.107
+
+=== HP 2530-24G SWITCH PART NUMBER: J9776A#ABA
+
+* SERIAL: CN31FP70CZ - IP:192.168.100.103 - GE
+
+* SERIAL: CN31FP70NG - IP:192.168.100.104 - SEGUNDA COORDINACION
+
+* SERIAL: CN31FP70VF - IP:192.168.100.101 -
+
+* SERIAL: CN31FP70SK - IP:192.168.100.106 -
+
+* SERIAL: CN31FP70P4 - IP:192.168.100.102 - PENDIENTE
+
+* SERIAL: CN31FP70H3 - AUDIOVISUALES
+
+* SERIAL: CN35FP70K7 - DPTOS ACADEMICOS
+
+* SERIAL: CN36FP61BJ - BTO
+
+* SERIAL: CN33FP734Y - ATENCION A PADRES
+
+* SERIAL: CN35FP705R - GI
+
+* SERIAL: CN31FP70P4 - ADMINISTRACION
+
+** HP X121 1G SFP LC SX Transceiver PRODUCT:J4858C PART NUMBER:1990-3662 SERIAL:CN251DN2GC
+
+** HP X121 1G SFP LC SX Transceiver PRODUCT:J4858C PART NUMBER:1990-3662 SERIAL:CN304DN2ZN
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,78 @@
+[[glosario]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== GLOSARIO
+
+Archivo General de la Naci&#243;n::
+  Establecimiento p&#250;blico encargado de formular, orientar y controlar
+  la pol&#237;tica archiv&#237;stica nacional. Dirige y coordina el Sistema Nacional de Archivos y es responsable
+  de la  salvaguarda del patrimonio documental de la naci&#243;n y de la conservaci&#243;n y la difusi&#243;n del
+  acervo documental que lo integra y del que se le conf&#237;a en custodia.
+  http://www.lasallebga.edu.co/sgc/gi/ley_594.pdf[Ley General de Archivo. Ley 594 del 2000]
+
+Archivo::
+  Conjunto de documentos, sea cual fuere su fecha, forma y soporte material, acumulados
+  en un proceso natural por una persona o entidad p&#250;blica o privada, en el transcurso de su gesti&#243;n,
+  conservados respetando aquel orden para servir como testimonio e informaci&#243;n a la persona o
+  instituci&#243;n que los produce y a los ciudadanos, o como fuentes de la historia.
+
+Archivo de Gesti&#243;n o de Oficina::
+  Es el archivo que se genera y recibe en cada una de las oficinas o dependencias y
+  que se conserva all&#237; mientras est&#225;n vigentes los asuntos que tratan su contenido.
+
+Archivo Central::
+  Es la unidad administrativa que recoge y custod&#237;a la documentaci&#243;n procedente de los archivos de Gesti&#243;n o de oficina,
+  una vez transcurrido el per&#237;odo de permanencia en los mismos.
+
+Archivar::
+  Es la acci&#243;n de organizar los documentos. Se trata de guardar o recoger
+  la documentaci&#243;n clasificada y ordenada seg&#250;n unas normas b&#225;sicas con el fin de
+  poder encontrar con la mayor facilidad y el menor tiempo todo lo que hemos
+  guardado o archivado.
+
+Expediente::
+  Es el conjunto de documentos agrupados en una carpeta o unidad de conservaci&#243;n, que reflejan
+  el desarrollo de un asunto o actividad espec&#237;fica y se ordenan cronol&#243;gicamente en la medida en
+  que se producen o reciben los documentos. Un expediente puede estar compuesto por una o varias unidades de conservaci&#243;n.
+
+Carpeta::
+  Es el material de cart&#243;n, las tapas legajadoras separadas en tama&#241;o carta y oficio destinada a reunir,
+  almacenar, agrupar y proteger los documentos. Es la unidad de conservaci&#243;n de uso en el colegio.
+
+Unidad de Conservaci&#243;n::
+  Cuerpo que contiene un conjunto de documentos de tal forma que garantice su preservaci&#243;n e identificaci&#243;n.
+
+Paginar::
+  Acci&#243;n de numerar hojas.
+
+Folio::
+  Cada una de las hojas que conforman una expediente. Est&#225; compuesto por dos p&#225;ginas.
+
+Tabla de Retenci&#243;n Documental (TRD)::
+  Es el listado de registros con sus correspondientes tipos documentales, a las cuales se asigna el tiempo de permanencia en cada
+  fase de archivo.
+
+Transferencia documental::
+  Es la entrega de los documentos del archivo de gesti&#243;n al archivo central de conformidad con el listado maestro de registros  y
+  la tabla de retenci&#243;n documental vigente.
+
+Gesti&#243;n Documental::
+  Conjunto de actividades administrativas y t&#233;cnicas, tendientes a la
+  planificaci&#243;n, manejo y organizaci&#243;n de la documentaci&#243;n producida y recibida por las entidades,
+  desde su origen hasta su destino final con el objeto de facilitar su utilizaci&#243;n y conservaci&#243;n.
+
+LMR::
+  Listado Maestro de Registros
+
+LMD::
+  Listado Maestro de Documentos
+
+
+

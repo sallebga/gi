@@ -1,0 +1,3 @@
+= INDICACIONES PARA EL REGISTRO DE PAZ Y SALVOS.
+
+include::modules/paz.asciidoc[]

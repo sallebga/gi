@@ -1,0 +1,61 @@
+[[gnosoft-fijar-grupos]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== GNOSOFT
+
+https://github.com/sallebga/gnosoft/tree/master/src/main/asciidoc/en-US/modules[LINK]
+
+
+=== [[ASIGNACION DE CURSOS A LOS ESTUDIANTES]]ASIGNACION DE CURSOS A LOS ESTUDIANTES
+
+* *GESTIONAR CURSOS:* [Acad&#233;mico administrador][Estructura Curricular][Gestionar Curso]
+
+** Actualizar los cursos acad&#233;micos del a&#241;o
+
+** Definir los titulares de curso
+
+** Asignar los coordinadores a Curso:[Academico administrador][Carga Académica][Asignar Coordinadores a Cursos]
+
+** Actualizar los cursos de las materias selectivas.
+
+** *INFORMES:*
+
+*** [Acad&#233;mico administrador][Consultas y reportes][Generar reportes][ESTRUCTURA CURRICULAR][Listado de Cursos]
+
+*** Generar listas de clase temporales
+
+*** Tener presente la generacion de los observadores virtuales:[Consultas y Reportes][Observaciones][Generar Planilla de Observaciones]
+
+*** Tener presente los estudiantes que asisten pero que no figuran en lista.
+
+** *OPCIONES A EJECUTAR*
+
+* Generar las cuentas de usuarios:[Generarl][Generar cuentas de usuario]
+
+* Garantizar que todas las cuentas de usuarios queden activas: [herramientas][Actualizar Cuentas Estudiantes]
+
+* Organizar los grupos para la mensajeria:  [herramientas][Actualizar grupos]
+
+* Generar el archivo pdf con las cuentas de los usuarios
+
+** Estudiantes y acudientes
+
+** Que se enteguen a los padres de familia en la reunión general de inicio de año.
+
+** Programar la capacitación de los padres de familia nuevos
+
+** Cuadrar los grupos de los personeros
+
+** PENDIENTES
+
+* Actualizar el código del buzon de quejas
+
+
+

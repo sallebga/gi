@@ -1,0 +1,99 @@
+[[contizaciones-voz-ip]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+==  EMPRESAS
+
+=== CLARO
+
+*  30 de abril de 2014, 11:29 - Solicitud de cotización - https://mail.google.com/mail/ca/u/0/#sent/145b3788cce3b981[gi@lasallebga.edu.co]
+
+* Comunicaciones Unificadas - http://www.claro.com.co/wps/portal/co/pc/corporaciones/telefonia-fija/comunicaciones-unificadas#02-Beneficios
+
+* SINDY PAOLA JIMENEZ NAVARRO - Consultor Empresarial CLARO, Cel:316578888 - Sindy.jimenezn.ext@claro.com.co
+
+* 26 de julio de 2013, 11:43 - https://mail.google.com/mail/ca/u/0/?shva=1#inbox/1401bdd88a9930be[PROPUESTA DE TELECOMUNICACIONES CLARO]
+
+** Valor Internet de 12 megas $ 488.800
+
+** Valor Internet de 30 megas $ 661.200
+
+* 8 de julio de 2013, 15:59 - https://mail.google.com/mail/ca/u/0/?shva=1#inbox/13fc014f2e1c9b23[Propuesta Claro Soluciones Fijas]
+
+** Javier Ricardo Jerez Delgado -  Cel:311-2917879 - javierjerez.claro@hotmail.com
+
+INTERNET BA 20 MEGAS + 1 LINEA TELEFONICA 	$260.800
+
+INTERNET BA 10 MEGAS + 1 LINEA TELEFONICA	$ 136.300
+
+INTERNET BA 10 MEGAS 	$ 145.000
+
+
+=== ETB
+
+* Ricardo Su&#225;rez Esparza - Ejecutivo de Cuenta, Cel:3008128546 - ricardo.suareze@etb.com.co
+
+* 30 de abril de 2014, 11:31 - Solicitud de cotización - https://mail.google.com/mail/ca/u/0/#sent/145b37a3e46229ae[gi@lasallebga.edu.co]
+
+=== FLYWAN S.A
+
+* LILIANA MIRANDA - Cel:311-8160180 - mirandalili1385@yahoo.es
+
+** 30 de abril de 2014, 11:35 - Solicitud de cotización - https://mail.google.com/mail/ca/u/0/#sent/145b37df7a842f77
+
+=== UNE
+
+* LUIS HELIO GUERRERO CRUZ - EJECUTIVO PYMES Cel: 3186566327 - luis.guerrero.eu@asesorespymesune.com
+
+* 30 de abril de 2014, 11:33 - Solicitud de cotización -  https://mail.google.com/mail/ca/u/0/#sent/145b37bf82e56548[gi@lasallebga.edu.co]
+
+=== COINSA
+
+* Comunicaciones unificadas HP - http://www8.hp.com/co/es/business-solutions/solution.html?compURI=1079754#.U1lEQVV5OGo
+
+=== SOFTWARE ONE
+
+=== TELEBUCARAMANGA
+
+
+
+* MICROSOFT LYNC 2013 - OFFCE 365 - Empresa:Intergrupo
+
+
+== DETALLES DEL CONTRATO
+
+* Comunicaciones Unificadas
+
+** Empaquetar: Internet, Voz-IP, Telefonia con llamadas a fijos locales y Nacionales y llamadas a Celulares
+
+** Llamenos gratis desdel el PC a través de Internet - http://www.sts.com.co/
+
+** Offices 365
+
+** Video Conferencia
+
+* http://office.microsoft.com/en-us/academic/compare-office-365-education-plans-FX103045755.aspx
+
+Linea protocolo compatible o calficado lync Server 2013 en este caso Tecnología Direc SIP
+Planta IP
+Telefonos Lync Server 2013
+
+
+svcortes - kh3mw6
+
+Tolerancia - Banda ancha con 2 operadores diferentes.
+Balanceo de Cargas.
+
+Directorio activo
+
+
+
+
+
+

@@ -1,0 +1,69 @@
+[[documentos]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== DOCUMENTOS
+
+=== DIRECTRICES PARA LA PAGINACI&#211;N DE LOS DOCUMENTOS
+
+==== OBJETIVO
+
+Establecer las directrices sobre la forma como se debe realizar la paginaci&#243;n de los documentos.
+
+==== ALCANCE
+
+Este documento aplica a todos los Procesos del Sistema de Gesti&#243;n de la Calidad del Colegio La Salle-Bucaramanga.
+
+==== RESPONSABLES
+
+Jefes de Proceso.
+
+==== ASPECTOS GENERALES
+
+* Se debe empezar a paginar los documentos, una vez todos los formatos se hayan localizados y organizados en sus respectivas carpetas, si
+  falta alg&#250;n formato no se debe empezar a p&#225;ginar.
+
+* La paginaci&#243;n garantiza la ordenaci&#243;n, consulta, control de los documentos y la organizaci&#243;n de los archivos de gesti&#243;n.
+
+* La paginaci&#243;n aplicada en forma correcta y oportuna puede evitar la p&#233;rdida de documentos.
+
+* No se debe tener en cuenta la paginaci&#243;n preimpresa que tengan los documentos archivados en la carpeta.
+
+* Para una correcta paginaci&#243;n se deben realizar previamente las tareas de selecci&#243;n, depuraci&#243;n o eliminaci&#243;n de expedientes y documentos de apoyo.
+
+* La paginaci&#243;n de los documentos se realiza, respetando el orden natural de los documentos.
+
+* No debe anteponerse a las cifras ning&#250;n t&#233;rmino como "n&#250;mero" o "folio", es decir debe ir &#250;nicamente el
+  n&#250;mero del folio correspondiente.
+  Ejemplo: 1, 2, 3, 4, 5, 6...etc.
+
+* Se deben utilizar n&#250;meros ar&#225;bigos.
+
+* La paginaci&#243;n realizada con anterioridad no debe corregirse y si se detecta alg&#250;n error en ella, debe numerarse nuevamente todos los documentos
+ tachando la numeraci&#243;n anterior con una l&#237;nea diagonal.
+
+* Cuando la carpeta no cumpla con los requisitos exigidos en la paginaci&#243;n, &#233;sta se devolver&#225; indic&#225;ndole todos los aspectos que debe corregir.
+
+==== PAGINACI&#211;N DE LOS DOCUMENTOS
+
+La paginaci&#243;n de los documentos se har&#225; en el riguroso orden como aparecen organizados en la carpeta, teniendo en presente las siguientes
+indicaciones:
+
+* La numeraci&#243;n se aplica en forma consecutiva, asignando el n&#250;mero (1) al documento con la fecha de producci&#243;n m&#225;s antigua,
+  e ir&#225; aumentando de uno en uno de acuerdo a su orden cronol&#243;gico.
+
+* La numeraci&#243;n debe ir en la parte superior derecha de la hoja de acuerdo a la ubicaci&#243;n dentro de la carpeta, de manera legible y sin enmendaduras.
+
+* Las hojas que est&#233;n impresas por ambas caras deber&#225;n ser numeradas por los dos lados, continuando con la numeraci&#243;n consecutiva. La p&#225;gina
+  posterior debe ser numerada en el margen superior izquierdo.
+
+* Las hojas que est&#233;n impresas por ambas caras, si la p&#225;gina posterior contiene informaci&#243;n que no corresponde al documento, como es el caso
+  cuando se toman apuntes temporalmente, a estas p&#225;ginas se deben anular trasando una X de extremo a extremo. Estas p&#225;ginas no se enumeran.
+
+* Se debe utilizar esfero de tinta negra teniendo en cuenta las caracter&#237;sticas de reserva o de seguridad de los documentos de riesgo.

@@ -1,0 +1,209 @@
+[[archivo-inactivo]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== ARCHIVO CENTRAL
+
+=== DIRECTRICES PARA LA ENTREGA DE DOCUMENTOS AL ARCHIVO CENTRAL
+
+==== OBJETIVO
+
+Establecer las directrices sobre la forma como se deben realizar la entrega de los documentos del archivo de gesti&#243;n al archivo central,
+una vez se haya cumplido su tiempo de permanencia en el archivo de gesti&#243;n, de acuerdo con lo establecido en el Listado Maestro de Registros
+del http://www.lasalle.org.co/educacion/sistema-de-gestion-de-calidad/[Distrito Lasallista Bogot&#225;.]
+
+==== ALCANECE
+
+Este documento aplica a todos los Procesos del Sistema de Gesti&#243;n de la Calidad del Colegio La Salle-Bucaramanga.
+
+==== RESPONSABLES
+
+Jefes de Proceso.
+
+==== ASPECTOS GENERALES
+
+* Los jefes de proceso deben velar por la conformaci&#243;n, organizaci&#243;n, preservaci&#243;n, custodia y control de los registros y archivos pertenecientes a su proceso.
+
+* Cualquier novedad o cambio que se genere en el Listado Maestro de Registros y las Tablas de Retenci&#243;n Documental se deben tener presente.
+
+* Se debe aplicar las actividades de control de los registros detalladas en el numeral 7.2 del
+  http://www.lasalle.org.co/downloads/documentos/PR-GQ-01v2.pdf[PR-GQ-02 PROCEDIMIENTO DE CONTROL DE DOCUMENTOS Y REGISTROS DEL SGC]
+  del proceso de Gesti&#237;n de la calidad.
+
+
+==== FORMATO: http://www.lasalle.org.co/downloads/registros/F-GI-04.doc[F-GI-04.doc] ENTRADA DE DOCUMENTOS AL ARCHIVO CENTRAL
+
+.http://www.lasalle.org.co/downloads/registros/F-GI-04.doc[FORMATO F-GI-04]
+image::images/F-GI-04.png[]
+
+* Todos los documentos a entregar al archivo central se deben relacionar en el formato.
+  http://www.lasalle.org.co/downloads/registros/F-GI-04.doc[F-GI-04.doc el cual puede descargar haciendo click en este link.]
+
+* Cada documento a entregar se debe relacionar en este formato una sola vez para garantizar el control y poder verificar el total de carpetas y folios que se
+  entregan de dicho registro o documento.
+
+* El formato se debe deligenciar por computador.
+
+===== CAMPOS DEL FORMATO F-GI-04
+
+*INSTITUCI&#211;N EDUCATIVA:* Este campo se debe diligenciar con el nombre del Colegio: COLEGIO LA SALLE - BUCARAMANGA
+
+*NOMBRE DEL DOCUMENTO:* En esta columna se diligenciar el c&#243;digo y nombre del documento que figura en el Listado Maestro de Registros.
+
+*MEDIO:* En esta columna se marca con una X el medio en que se entrega el documento: FISICO o DIGITAL
+
+*ESTADO:* En esta columna se diligencia el estado actual del documento que figura en el Listado Maestro de Registros.
+
+*No FOLIOS:* En esta columna se diligencia con el n&#250;mero total de folios entregados para el caso de los documentos f&#237;sicos y para los documentos
+  digitales el total de p&#225;ginas que figuran al abrir el archivo .pdf
+
+*TIEMPO DE RETENCI&#211;N:* Esta columna se diligencia con el tiempo de retenci&#243;n del documento, seg&#250;n el Listado Maestro de Registros.
+
+*INGRESADO POR DEPENDENCIA:* Esta columna se diligencia con el nombre del proceso que entrega el documento al archivo central
+
+*FECHA DE INGRESO:* Esta columna de diligencia la fecha de ingreso del documento al archivo central.
+
+*NIVEL DE ACCESO:* Es el nivel de acceso que figura en el Listado Maestro de Registros.
+
+*FECHAS EXTREMAS:* Son las fechas extremas de los folios que se entregan.
+
+ * La fecha *INICIAL EXTREMA:* Fecha de apertura (Fecha del primer documento) que figura en la primera carpeta o en la primera p&#225;gina
+     del archivo en pdf si se entrega digital.
+
+   * La fecha *FINAL EXTREMA:* Fecha de cierre (Fecha del &#250;ltimo documento) que figura en la &#250;ltima carpeta o en la &#250;ltima p&#225;gina
+     del archivo en pdf si se entrega digital.
+
+   * Si el documento no tiene fechas se fija la fecha inicial y final del a&#241;o acad&#233;mico.
+
+*MEDIO DE ALMACENAMIENTO:* Es el medio de almacenamiento en que se entrega los documentos, para este caso
+   espec&#237;fico se digita CARPETAS y entre par&#233;ntesis el n&#250;mero total de carpetas que se entregan. Para el caso de los archivos digitales
+   se digita PDF y entre par&#233;ntesis el n&#250;mero 1. Ej:PDF(1)
+
+*NOMBRE:* Nombre del Jefe de Proceso que entrega los documentos.
+
+*FIRMA:* La firma del Jefe de Proceso que entrega los documentos.
+
+
+==== ENTREGA DE LOS ARCHIVOS DIGITALES
+
+Para la entrega de los archivos digitales se deben tener presente las siguientes indicaciones:
+
+* Todos los archivos digitales que se vayan a entregar deben estar en formato .pdf.
+
+* Solo se debe entregar un archivo pdf por cada documento que se vaya a entregar y si el documento esta conformado por varios archivos
+  estos se deben combinar en un solo archivo pdf.
+
+* El nombre del archivo .pdf deber ser el codigo y el nombre del formato.
+
+* Para el caso de la correspondencia debe seguir el siguiente formato: CODIGODELPROCESO-CARTAS-A&#209;O. EJ: GI-CARTAS-2013.pdf
+
+* Para convertir los archivos de word o excel en archivos .pdf lo puede realizar dando click en la barra del Menu [ARCHIVO][Guardar como],
+  como se ilustra en la siguiente imagen:
+
+image::images/barra.jpg[]
+image::images/guardar.jpg[]
+
+* Para entregar todos los archivos se deben entregar en la siguiente estructura de directorios de acuerdo de acuerdo a cada proceso:
+
+[source, console]
+----
+ Archivo-Inactivo
+   +--- 2013
+   |      |
+   |      +--- GD
+   |           |
+   |           +---  archivo1.pdf
+   |           +---  archivo2.pdf
+   |           +---  ...
+   |           +---  archivon.pdf
+   |      +--- GE
+   |           |
+   |           +---  archivo1.pdf
+   |           +---  archivo2.pdf
+   |           +---  ...
+   |           +---  archivon.pdf
+   |      +--- AM
+   |           |
+   |           +---  archivo1.pdf
+   |           +---  archivo2.pdf
+   |           +---  ...
+   |           +---  archivon.pdf
+   |      +--- GQ
+   |           |
+   |           +---  archivo1.pdf
+   |           +---  archivo2.pdf
+   |           +---  ...
+   |           +---  archivon.pdf
+   |      +--- GT
+   |           |
+   |           +---  archivo1.pdf
+   |           +---  archivo2.pdf
+   |           +---  ...
+   |           +---  archivon.pdf
+   |      +--- GC
+   |           |
+   |           +---  archivo1.pdf
+   |           +---  archivo2.pdf
+   |           +---  ...
+   |           +---  archivon.pdf
+   |      +--- SG
+   |           |
+   |           +---  archivo1.pdf
+   |           +---  archivo2.pdf
+   |           +---  ...
+   |           +---  archivon.pdf
+   |      +--- GF
+   |           |
+   |           +---  archivo1.pdf
+   |           +---  archivo2.pdf
+   |           +---  ...
+   |           +---  archivon.pdf
+   |      +--- SC
+   |           |
+   |           +---  archivo1.pdf
+   |           +---  archivo2.pdf
+   |           +---  ...
+   |           +---  archivon.pdf
+   |      +--- GI
+   |           |
+   |           +---  archivo1.pdf
+   |           +---  archivo2.pdf
+   |           +---  ...
+   |           +---  archivon.pdf
+----
+
+WARNING: Tenga presente que solo se debe entregar un archivo pdf por cada documento que se vaya a entregar y si el documento
+esta conformado por varios archivos estos se deben combinar en un solo archivo pdf.
+
+
+==== ENTREGA DE LOS DOCUMENTOS AL ARCHIVO CENTRAL
+
+Para la entrega de los documentos al archivo central se deben tener en cuenta los siguientes indicaciones:
+
+* Realizar la entrega en las fechas indicadas.
+
+* Entregar el FORMATO: http://www.lasalle.org.co/downloads/registros/F-GI-04.doc[F-GI-04 ENTRADA DE DOCUMENTOS AL ARCHIVO CENTRAL]
+  diligenciado por computador. Imprimir 3 copias para el momento de la entrega.
+
+* Entregar las carpetas con los documentos en el orden como figuran en el FORMATO: F-GI-04 ENTRADA DE DOCUMENTOS AL ARCHIVO CENTRAL.
+
+* Entregar todos los documentos o formatos, no se aceptan entregas parciales, porque se debe garantizar el total de folios entregados.
+
+* Cuando alguna de las carpetas no cumpla con los requisitos exigidos, &#233;sta se devolver&#225; indic&#225;ndole todos los aspectos que debe corregir.
+
+* Cualquier novedad o cambio que se genere en el Listado Maestro de Registros y las Tablas de Retenci&#243;n Documental se deben tener presente.
+
+* Se debe aplicar las actividades de control de los registros detalladas en el numeral 7.2 del
+  http://www.lasalle.org.co/downloads/documentos/PR-GQ-01v2.pdf[PR-GQ-02 PROCEDIMIENTO DE CONTROL DE DOCUMENTOS Y REGISTROS DEL SGC]
+  del proceso de Gesti&#243;n de la calidad.
+
+* Una vez entregados los documentos al archivo y en conformidad, enviar al correo gi@lasallebga.edu.co el archivo en word con el formato F-GI-04 ENTRADA DE DOCUMENTOS AL ARCHIVO CENTRAL.
+
+TIP:
+  Todos los documentos que se entregan son los relacionados en el Listado Maestro de Registro de cada proceso.

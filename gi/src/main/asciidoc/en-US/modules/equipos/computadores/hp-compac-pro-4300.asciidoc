@@ -1,0 +1,207 @@
+[[pc-hp-pro-4300]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== HP Compac Pro 4300 SFF PC, Intel Core I5, RAM 4GB, DD 500GB
+
+* Nro producto:AV863AV
+
+* Total:123
+
+=== SALA DE SISTEMAS No.1
+
+.SALA No.1
+[options="header"]
+|==============================
+|No.|SERIAL        |UBICACION |
+|001|MLX3200LWS    |MESA No.01|
+|002|MLX3200LXM    |MESA No.02|
+|003|MLX3200LXC    |MESA No.03|
+|004|MLX3200LYL    |MESA No.04|
+|005|MLX3200LWQ    |MESA No.05|
+|006|MLX3200LWT    |MESA No.06|
+|007|MLX3200LWL    |MESA No.07|
+|008|MLX3200LZH    |MESA No.08|
+|009|MLX3200LZZ    |MESA No.09|
+|010|MLX3200LXH    |MESA No.10|
+|011|MLX3200LXN    |MESA No.11|
+|012|MLX3200LZX    |MESA No.12|
+|013|MLX3200LZN    |MESA No.13|
+|014|MLX3200LZV    |MESA No.14|
+|015|MLX3200M02    |MESA No.15|
+|016|MLX3200M03    |MESA No.16|
+|017|MLX3200LYV    |MESA No.17|
+|018|MLX3200LXG    |MESA No.18|
+|019|MLX3200LXP    |MESA No.19|
+|020|MLX3200LX3    |MESA No.20|
+|021|MLX3200LZJ    |MESA No.21|
+|022|MLX3200LWY    |MESA No.22|
+|023|MLX3200LWK    |MESA No.23|
+|024|MLX3200LXK    |MESA No.24|
+|025|MLX3200LXB    |MESA No.25|
+|026|MLX3200LY4    |MESA No.26|
+|==============================
+
+=== SALA DE SISTEMAS No.2
+
+.SALA No.2
+[options="header"]
+|==============================
+|No.|SERIAL        |UBICACION |
+|027|MXL3200LXS    |	35    |
+|028|MXL3200LYT    |	36    |
+|029|MXL3200LZ3    |	37    |
+|030|MXL3200LZ4    |	38    |
+|031|MXL3200M0C    |	39    |
+|032|MXL3200LZ7    |	40    |
+|033|MXL3200LZS    |	41    |
+|034|MXL3200LYZ    |	42    |
+|035|MXL3200LZ5    |	43    |
+|036|MXL3200LZP    |	44    |
+|037|MXL3200M09    |	45    |
+|038|MXL3200LX1    |	46    |
+|039|MXL3200LXY    |	47    |
+|040|MXL3200LZR    |	48    |
+|041|MXL3200LZL    |	49    |
+|042|MXL3200LZT    |	50    |
+|043|MXL3200M07    |	51    |
+|044|MXL3200LXX    |	52    |
+|045|MXL3200LWN    |	53    |
+|046|MXL3200M0B    |	54    |
+|047|MXL3200LXV    |	55    |
+|048|MXL3200M3K    |	56    |
+|049|MXL3200LZM    |	57    |
+|050|MXL3200LY5    |	58    |
+|051|MXL3200LY1    |	59    |
+|052|MXL3200LWR    |	60    |
+|053|MXL3200LZD    |	61    |
+|054|MXL3200LYB    |	62    |
+|055|MXL3200LXT    |	63    |
+|056|MXL3200LYS    |	64    |
+|057|MXL3200LX7    |	65    |
+|==============================
+
+=== SALA DE SISTEMAS No.3
+
+.SALA No.3
+[options="header"]
+|==============================
+|No.|SERIAL        |UBICACION |
+|058|MXL3200LWJ    |   66     |
+|059|MXL3200LZQ    |   67     |
+|060|MXL3200LYY    |   68     |
+|061|MXL3200LZ2    |   69     |
+|062|MXL3200LX9    |   70     |
+|063|MXL3200LZC	   |   71     |
+|064|MXL3200LZK	   |   72     |
+|065|MXL3200LXJ	   |   73     |
+|066|MXL3200LX5	   |   74     |
+|067|MXL3200LY3	   |   75     |
+|068|MXL3200LZG	   |   76     |
+|069|MXL3200LX2	   |   77     |
+|070|MXL3200LY8	   |   78     |
+|071|MXL3200LYJ	   |   79     |
+|072|MXL3200LXD	   |   80     |
+|073|MXL3200LYD	   |   81     |
+|074|MXL3200LYW	   |   82     |
+|075|MXL3200LZW	   |   83     |
+|076|MXL3200LXF	   |   84     |
+|077|MXL3200M01	   |   85     |
+|078|MXL3200LXQ	   |   86     |
+|079|MXL3200LYH	   |   87     |
+|080|MXL3200LYK	   |   88     |
+|081|MXL3200LYQ	   |   89     |
+|082|MXL3200LYR	   |   90     |
+|083|MXL3200LYM	   |   91     |
+|084|MXL3200LY2	   |   92     |
+|085|MXL3200LWM	   |   93     |
+|086|MXL3200LXL	   |   94     |
+|087|MXL3200M3J	   |   95     |
+|088|MXL3200LXZ	   |   96     |
+|==============================
+
+=== COORDINADORES
+
+.Coordinadores
+[options="header"]
+|=================================
+|No.|SERIAL        |UBICACION    |
+|089|MXL3200LX8    |COORDINADOR 1|
+|090|MXL3200LZ8    |COORDINADOR 2|
+|091|MXL3200LY0    |COORDINADOR 3|
+|092|MXL3200LWZ    |COORDINADOR 4|
+|=================================
+
+
+=== DEPARTAMENTOS
+
+.Departamentos
+[options="header"]
+|========================================================
+|No.|SERIAL        |UBICACION                           |
+|093|              |OFICINA DEPARTAMENTO DE ARTES       |
+|094|MXL3200LWW    |OFICINA DEPARTAMENTO DE ESPA&#209;OL|
+|095|MXL3200M05    |OFICINA DEPARTAMENTO DE INGLES      |
+|096|MXL3200LZB    |OFICINA DEPARTAMENTO DE MATEMATICAS |
+|097|MXL3200LYC    |OFICINA DEPARTAMENTO DE SOCIALES    |
+|098|MXL3200LX6    |OFICINA DEPARTAMENTO DE RELIGION    |MONITOR:MXL3200LX6
+|099|MXL3200LYF    |OFICINA DEPARTAMENTO DE EDUFISICA   |
+|100|MXL3200MO6    |OFICINA DEPARTAMENTO DE CIENCIAS    |
+|========================================================
+
+
+=== JEFES DE PROCESO
+
+.Departamentos
+[options="header"]
+|==============================
+|No.|SERIAL        |UBICACION |
+|101|              |   GD     |
+|102|MXL3200LXW    |   AM     |
+|103|MXL3200M00    |   GE     |
+|104|MXL3200LZ9    |   GT     |
+|105|MXL3200LX0    |   GF     |
+|106| 	           |   GC     | ANTIGUO
+|107|MXL3200LYG    |   SG     |
+|108|MXL3200MQ4    |   SC     |
+|109|MXL3200LXR    |   GQ     |
+|110|MXL3200LYX    |   GI     |MONITOR:6CM31004TB
+|==============================
+
+=== OTRAS DEPENDENCIAS
+
+.Otras dependencias
+[options="header"]
+|==================================================
+|No.|SERIAL        |UBICACION                     |
+|111|MXL3200LWV	   |SALON DE AUDIOVISUALES        |
+|112|MXL3200M06    |OFICINA SECRETARIA DE RECTORIA|
+|113|MXL3200LWX    |OFICINA DE PSICOLOGIA1        |
+|114|MXL3200LZ1    |OFICINA DE PSICOLOGIA2        |
+|115|MXL3200LY7    |OFICINA ASESORIA ACADEMICA    |
+|==================================================
+
+=== BIBLIOTECA
+
+.Otras dependencias
+[options="header"]
+|======================================================
+|No.|SERIAL        |UBICACION                         |
+|116|MXL3200LZY    |BIBLIOTECA1                       |
+|117|MXL3200LY6    |BIBLIOTECA2                       |
+|118|MXL3200LWP    |BIBLIOTECA3                       |
+|119|MXL3200LX4    |BIBLIOTECA4                       |
+|120|              |                                  |
+|121|              |                                  |
+|122|MXL3200LZC    |OFICINA SERVICIOS DE AUDIOVISUALES|
+|123|MXL3200LY9    |CHEF DEL RESTAURANTE              |MONITOR:6CM3081JRD ESTABILIDOR:21500571
+|======================================================
+
+
+

@@ -1,0 +1,135 @@
+[[carpetas]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== ORGANIZACI&#211;N DE LAS CARPETAS
+
+=== DIRECTRICES PARA LA APERTURA Y CONFORMACI&#211;N DE CARPETAS
+
+==== OBJETIVO
+
+Establecer las directrices para la apertura, conformaci&#243;n y organizaci&#243;n de las carpetas con base en el
+Listado Maestro de Registros y la aplicaci&#243;n de las Tablas de Retenci&#243;n Documental actualizadas
+por el http://www.lasalle.org.co/educacion/sistema-de-gestion-de-calidad/[Distrito Lasallista Bogot&#225;.]
+
+==== ALCANCE
+
+Este documento aplica a todos los Procesos del Sistema de Gesti&#243;n de la Calidad del Colegio La Salle-Bucaramanga.
+
+==== RESPONSABLES
+
+Jefes de Proceso.
+
+==== ASPECTOS GENERALES
+
+* Los jefes de proceso deben velar por la conformaci&#243;n, organizaci&#243;n, preservaci&#243;n, custodia y control de los registros y archivos pertenecientes a su proceso.
+
+* Cualquier novedad o cambio que se genere en el Listado Maestro de Registros y las Tablas de Retenci&#243;n Documental se deben tener presente.
+
+* Se debe aplicar las actividades de control de los registros detalladas en el numeral 7.2 del
+  http://www.lasalle.org.co/downloads/documentos/PR-GQ-01v2.pdf[PR-GQ-02 PROCEDIMIENTO DE CONTROL DE DOCUMENTOS Y REGISTROS DEL SGC]
+  del proceso de Gesti&#243;n de la calidad.
+
+==== CRITERIOS PARA LA ORGANIZACI&#211;N DE LAS CARPETAS
+
+Al momento de abrir una carpeta y conformar un expediente deben tener en cuenta los siguientes criterios:
+
+* La unidad de conservaci&#243;n debe ser la [filename]+carpeta tama&#241;o oficio+. No se debe utilizar: A-Z, pastas tres argollas, bolsas, o
+  cualquier otro elemento.
+
+* Cada carpeta debe contener solo un tipo de documento o formato de los que figuran en el Listado Maestro de Registros, es decir en una carpeta
+  no debe contener formatos de varios tipos.
+
+* La ubicaci&#243;n f&#237;sica de los documentos dentro de la carpeta se deben ordenar de tal manera que se pueda evidenciar el desarrollo de los tr&#225;mites.
+  Por ejemplo su orden cronol&#243;gico.
+
+* El documento con la fecha m&#225;s antigua de producci&#243;n, ser&#225; el primer documento que se encontrar&#225; al abrir la carpeta y la fecha m&#225;s reciente
+  se encontrar&#225; al final de la misma. Ejemplo los documentos de enero se encuentran al abrir la carpeta y los de diciembre al final.
+
+* Una carpeta debe contener m&#225;ximo [filename]+200 folios+, respetando la integridad del &#250;ltimo documento a archivar.
+
+* Los folios totalmente en blanco, es decir que no contengan informaci&#243;n, se retiran de la carpeta.
+
+* Los documentos duplicados, es decir fotocopias, se retiran de la carpeta.
+
+* Los documentos deben estar libres de ganchos o elemento met&#225;licos.
+
+* Los documentos que se organizan en la carpeta se deben paginar, una vez todos los formatos se hayan localizados y
+  organizados en sus respectivas carpetas, [filename]+si falta alg&#250;n formato no se debe empezar a p&#225;ginar.+
+
+* Se deben entregar todos los documentos o formatos, no se aceptan entregas parciales, porque se debe garantizar el total de folios entregados.
+
+* Cuando la carpeta no cumpla con los requisitos exigidos, &#233;sta se devolver&#225; indic&#225;ndole todos los aspectos que debe corregir.
+
+
+==== IDENTIFICACI&#211;N DE LAS CARPETAS - R&#211;TULOS
+
+Las carpetas se deben identificar, marcar o rotular en la parte inferior derecha, de tal forma que permita su &#225;gil
+ubicaci&#243;n y recuperaci&#243;n, con los siguientes datos:
+
+*NOMBRE DEL COLEGIO*
+
+TIP:
+  Ejemplo: COLEGIO LA SALLE - BUCARAMANGA
+
+*NOMBRE DEL PROCESO*
+
+TIP:
+  Ejemplo: GESTI&#211;N EDUCATIVA
+
+*CODIGO DEL FORMATO O DOCUMENTO:* Si no tiene codigo se digita: N.A
+
+TIP:
+  Ejemplo: F-GE-06
+
+*NOMBRE DEL FORMATO O DOCUMENTO:* Tal y como figura en el Listado Maestro de Registros.
+
+TIP:
+  Ejemplo: PLAN DE CURSO
+
+*FECHAS EXTREMAS:* Fecha de apertura (Fecha del primer documento de la primera carpeta) - Fecha de cierre (Fecha del &#250;ltimo documento de la &#250;ltima carpeta).
+
+TIP:
+  Ejemplo: 03/02/2012 - 09/11/2012
+  Si el documento no tiene fechas se fija la fecha inicial y final del a&#241;o acad&#233;mico.
+
+*CARPETAS:* De acuerdo al siguiente formato: Carpetas: 1 de XX  folios: XX al XX.
+
+TIP:
+  Carpetas: N&#250;mero de la Carpeta del Total carpetas
+
+TIP:
+  folios: N&#250;mero del folio.(El que figura en la primera p&#225;gina) de Total
+          de n&#250;mero de folios.(El que figura en la &#250;ltima p&#225;gina.)
+
+TIP:
+  Ejemplo1: Carpetas: 1 de 2  folios: 1 al 200.
+
+TIP:
+  Ejemplo2: Carpetas: 2 de 2  folios: 201 al 350.
+
+*TIEMPO DE RETENCI&#209;N DOCUMENTAL:* Es el tiempo de retenci&#243;n en el archivo central seg&#250;n el Listado Maestro de Registros.
+
+Entre par&#233;ntesis se debe anotar el a&#241;o actual en que se entrega el formato o documento, y el tiempo de retenci&#243;n en el archivo inactivo.
+
+TIP:
+  Ejemplo: TRD(2012): 3 A&#241;OS
+
+*DISPOSICI&#211;N FINAL:* La disposici&#243;n final del documento seg&#250;n el Listado Maestro de Registros para el documento.
+Se debe anotar el n&#250;mero del a&#241;o en que se debe depurar el documento.
+
+TIP:
+  Ejemplo: Disposici&#243;n final: RECICLAR 2015
+
+
+==== EJEMPLO DE UN R&#211;TULO
+
+image::images/rotulo.jpg[]
+
+EL r&#243;tulo se debe fijar en la esquina inferior derecha de la carpeta a 1 cm de cada borde.
