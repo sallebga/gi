@@ -8,67 +8,208 @@ A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
 n=&#241; N=&#209;
 ////
 
+== ORGANIZACION DE LA RED
+
+Para desmontar el disco externo, cuando lo vayan a quitar deben ejecutar como usuario root la ste instruccion umount /gnosoftbak
+
+La ip es 192.168.1.241: la carpeta se llama gnosoft.bak para probar la carpeta compartida, el usuario es academico - pw:sbga56%&
+
+MAC PARA EL SERVIDOR PARA LA HUELLA:F4CE46B9E518, ah ok al hacer el cambio de servidor, y ponerlo a trabajar sobre una nueva máquina virtual,
+con una mac diferente, no arranca el reconocimiento dactilar.
+
+Buenos días Ing. Para comentarle, necesitamos acceder al servidor para configurar unos reportes del Centro Administrador de Datos, del
+Distrito Lasallista, pero como el servidor maneja otro firewall, no nos ha sido posible, entonces le solicitamos el favor de admitir el puerto
+5432:tcp, para nosotros poder acceder a través de ese puerto. Gracias.
+
+winbox:172.31.72.7 - salle - salle14*
+
+== VLAN
+
+=== VLAN 100 - SERVIDORES Y SWICHES
+
+* *Ip Publicas*
+
+** http://179.50.40.50/[http://179.50.40.50/ - Gnosoft]
+
+** http://179.50.40.51/[http://179.50.40.51/ - Libre]
+
+** http://179.50.40.52/[http://179.50.40.52/ - Libre]
+
+** http://179.50.40.53/[http://179.50.40.53/ - Libre]
+
+** http://179.50.40.54/[http://179.50.40.54/ - Libre]
+
+
+* *Rango IPs:[192.168.100.1 - 192.168.100.254]*
+
+* http://192.168.100.1/[http://192.168.100.1 - Puerta de Enlace SONICWALL]
+
+
+*SERVIDOR DE DOMINIO*
+
+*Dominio:* sallebga.local - administrador@sallebga.local - Sallebga2014
+
+*Equipo:* EQUIPO\admin[Enter]  - *Ejemplo:* SALA2-60\admin
+
+*admin1 - Informatica1*
+
+*admin2 - Informatica2*
+
+*admin3 - Informatica3*
+
+
+*SERVIDORES VIRTUALIZADOS*
+
+** http://192.168.100.2/[http://192.168.100.61:VMware HPServer1 - Gnosoft]
+
+** http://192.168.100.3/[http://192.168.100.61:VMware HPServer1 - SIMA-Intranet]
+
+*** Dirección IP: 192.168.100.3
+
+*** Máscara de Subred: 255.255.255.0
+
+*** Puerta de enlace predeterminada: 192.168.100.1
+
+*** Servidor DNS preferido: 8.8.4.4
+
+*** Servidor DNS alternativo: 8.8.8.8
+
+** http://192.168.100.4/[http://192.168.100.62:VMware HPServer2 - Consola Antivirus]
+
+** http://192.168.100.5/[http://192.168.100.62:VMware HPServer2 - Servidor de Dominio]
+
+** http://192.168.100.6/[http://192.168.100.62:VMware HPServer2 - System Center]
+
+** http://192.168.100.7/[http://192.168.100.62:VMware HPServer2 - System Center 2]
+
+
+** http://192.168.100.250/[http://192.168.100.61:VMware HPServer1 - Servschool]
+
+*SAN*
+
+** http://192.168.100.51/[http://192.168.100.51 - Controladora-1]
+
+** http://192.168.100.52/[http://192.168.100.52 - Controladora-2]
+
+*VMWARE*
+
+** http://192.168.100.61/[http://192.168.100.61 - VMware Server - HP ProLiant DL380p No.1]
+
+** http://192.168.100.62/[http://192.168.100.62 - VMware Server - HP ProLiant DL380p No.2]
+
+** http://192.168.100.63/[http://192.168.100.63 - VMware Server - HP ProLiant DL380p No.3]
+
+*SERVIDOR HP ProLiant DL380p*
+
+** http://192.168.100.71/[http://192.168.100.71 - HP Server1 ILO]
+
+** http://192.168.100.72/[http://192.168.100.72 - HP Server2 ILO]
+
+** http://192.168.100.73/[http://192.168.100.73 - HP Server3 ILO]
+
+
+=== VLAN 101 - SISTEMAS
+
+* *Rango IPs:[192.168.101.1 - 192.168.100.254]*
+
+* http://192.168.101.1/[http://192.168.101.1 - Puerta de Enlace]
+
+
+=== VLAN 102 - ADMINISTRATIVOS
+
+* *Rango IPs:[192.168.102.1 - 192.168.102.254]*
+
+* http://192.168.102.1/[http://192.168.102.1 - Puerta de Enlace]
+
+
+=== VLAN 103 - DOCENTES
+
+* *Rango IPs:[192.168.103.1 - 192.168.103.254]*
+
+* http://192.168.103.1/[http://192.168.103.1 - Puerta de Enlace]
+
+
+=== VLAN 104 - ESTUDIANTES
+
+* *Rango IPs:[192.168.104.1 - 192.168.104.254]*
+
+* http://192.168.104.1/[http://192.168.103.1 - Puerta de Enlace]
+
+* http://192.168.104.250/[http://192.168.104.250/ - Fotocopia Biblioteca]
+
+** Escaner: Papel arriba,[Escaner][Carpeta][0022 Escaner][Boton de Start] - Tipo de archivo
+
+
+=== VLAN 105 - VOZ-IP
+
+* *Rango IPs:[192.168.105.1 - 192.168.105.254]*
+
+* http://192.168.105.1/[http://192.168.104.1 - Puerta de Enlace]
+
+=== VLAN 106 - VIDEO-IP
+
+
 == RACKS
 
 === RACK No.1: CENTRO DE DATOS EDIFICIO NUEVO
 
-.SWICHE HP A5500-48G
+.http://192.168.100.110/[SWICHE HP A5500-48G]
 [options="header"]
-|=========================
-|PUERTOS  |UBICACION     |
-|R1-SW1-01|              |
-|R1-SW1-02|              |
-|R1-SW1-03|              |
-|R1-SW1-04|              |
-|R1-SW1-05|              |
-|R1-SW1-06|              |
-|R1-SW1-07|              |
-|R1-SW1-08|              |
-|R1-SW1-09|              |
-|R1-SW1-10|              |
-|R1-SW1-11|              |
-|R1-SW1-12|              |
-|R1-SW1-13|              |
-|R1-SW1-14|              |
-|R1-SW1-15|              |
-|R1-SW1-16|              |
-|R1-SW1-17|              |
-|R1-SW1-18|              |
-|R1-SW1-19|              |
-|R1-SW1-20|              |
-|R1-SW1-21|              |
-|R1-SW1-22|              |
-|R1-SW1-23|              |
-|R1-SW1-24|              |
-|R1-SW1-25|              |
-|R1-SW1-26|              |
-|R1-SW1-27|              |
-|R1-SW1-28|              |
-|R1-SW1-29|              |
-|R1-SW1-30|              |
-|R1-SW1-31|              |
-|R1-SW1-32|              |
-|R1-SW1-33|              |
-|R1-SW1-34|              |
-|R1-SW1-35|              |
-|R1-SW1-36|              |
-|R1-SW1-37|              |
-|R1-SW1-38|              |
-|R1-SW1-39|              |
-|R1-SW1-40|              |
-|R1-SW1-41|              |
-|R1-SW1-42|              |
-|R1-SW1-43|              |
-|R1-SW1-44|              |
-|R1-SW1-45|              |
-|R1-SW1-46|              |
-|R1-SW1-47|R2PP2-24-SW-48|SALA No.2
-|R1-SW1-48|R3PP2-24-SW-48|SALA No.3
-|R1-SW1-49|F.O-          |ADM?
-|R1-SW1-50|F.O-          |PREESCOLAR
-|R1-SW1-51|F.O-          |GE
-|R1-SW1-52|F.O-          |SEGUNDA COORDINACION
-|=========================
+|==============================================
+|PUERTOS  |UBICACION     |VLAN                |
+|R1-SW1-01|MESA No.00    |ESTUDIANTES         |
+|R1-SW1-02|MESA No.01    |ESTUDIANTES         |
+|R1-SW1-03|MESA No.02    |ESTUDIANTES         |
+|R1-SW1-04|MESA No.03    |ESTUDIANTES         |
+|R1-SW1-05|MESA No.04    |ESTUDIANTES         |
+|R1-SW1-06|MESA No.05    |ESTUDIANTES         |
+|R1-SW1-07|MESA No.06    |ESTUDIANTES         |
+|R1-SW1-08|MESA No.07    |ESTUDIANTES         |
+|R1-SW1-09|MESA No.08    |ESTUDIANTES         |
+|R1-SW1-10|MESA No.09    |ESTUDIANTES         |
+|R1-SW1-11|MESA No.10    |ESTUDIANTES         |
+|R1-SW1-12|FOTOCOPIA     |ESTUDIANTES         |
+|R1-SW1-13|BIBLIOTECA    |ESTUDIANTES         |
+|R1-SW1-14|AUX-PC        |ESTUDIANTES         |
+|R1-SW1-15|AP            |ESTUDIANTES         |
+|R1-SW1-16|              |ESTUDIANTES         |
+|R1-SW1-17|SALA No.3     |TRUNK               |
+|R1-SW1-18|SALA No.2     |TRUNK               |
+|R1-SW1-19|R1PP1-22      |SISTEMAS            |
+|R1-SW1-20|              |SISTEMAS            |
+|R1-SW1-21|              |SISTEMAS            |
+|R1-SW1-22|              |SISTEMAS            |
+|R1-SW1-23|X0-SONICW-LAN |TRUNK               |
+|R1-SW1-24|X1-MICROT-WAN |NO VLAN             |
+|R1-SW1-25|X2-SONICW-WAFI|TRUNK               |
+|R1-SW1-26|DVR-VIDEO     |VIDEO-IP            |
+|R1-SW1-27|DVR-VIDEO     |VIDEO-IP            |
+|R1-SW1-28|              |ADMINISTRATIVOS     |VOZ-IP?
+|R1-SW1-29|              |ADMINISTRATIVOS     |VOZ-IP?
+|R1-SW1-30|HP-SRV1-RED1  |TRUNK               |GNOSOFT,SIMA
+|R1-SW1-31|HP-SRV1-RED2  |SERVIDORES          |
+|R1-SW1-32|HP-SRV1-ILO   |SERVIDORES          |
+|R1-SW1-33|HP-SRV2-RED1  |SERVIDORES          |DIRECTORIO ACTIVO,SYSTEMEN CENTER,ETC
+|R1-SW1-34|HP-SRV2-RED2  |SERVIDORES          |
+|R1-SW1-35|HP-SRV2-ILO   |SERVIDORES          |
+|R1-SW1-36|HP-SRV3-RED1  |SERVIDORES          |RESPALDO,MICROSOFT HYPERWI
+|R1-SW1-37|HP-SRV3-RED2  |SERVIDORES          |
+|R1-SW1-38|HP-SRV3-ILO   |SERVIDORES          |
+|R1-SW1-39|SAN-RED2      |SERVIDORES          |IP[SAN]
+|R1-SW1-40|SAN-RED1      |SERVIDORES          |
+|R1-SW1-41|              |VOZ-IP              |
+|R1-SW1-42|              |VOZ-IP              |
+|R1-SW1-43|SISTEMAS      |VOZ-IP              |
+|R1-SW1-44|R1PP1-15-AUXPC|VOZ-IP              |
+|R1-SW1-45|RESERVADO F.O |                    |
+|R1-SW1-46|RESERVADO F.O |                    |
+|R1-SW1-47|RESERVADO F.O |                    |
+|R1-SW1-48|RESERVADO F.O |                    |
+|R1-SW1-49|F.O-          |                    |ADM?
+|R1-SW1-50|F.O-          |                    |PREESCOLAR
+|R1-SW1-51|F.O-          |                    |GE
+|R1-SW1-52|F.O-          |                    |SEGUNDA COORDINACION
+|==============================================
 
 .PATCH PANEL No.1 SIEMON
 [options="header"]
@@ -87,8 +228,8 @@ n=&#241; N=&#209;
 |R1PP1-11-SW-XX|MESA No.10    |
 |R1PP1-12-SW-XX|FOTOCOPIA     |
 |R1PP1-13-SW-XX|BIBLIOTECA    |
-|R1PP1-14-SW-XX|VOZ           |
-|R1PP1-15-SW-XX|AUX-PC        |
+|R1PP1-14-SW-XX|AUX-PC        |
+|R1PP1-15-SW-XX|VOZ-IP        |
 |R1PP1-16-SW-XX|              |
 |R1PP1-17-SW-XX|              |
 |R1PP1-18-SW-XX|              |
@@ -161,67 +302,65 @@ n=&#241; N=&#209;
 |R1PP3-24-SW-XX|            |
 |============================
 
-
 === RACK No.2: SALA INFORMATICA No.2
 
-.SWICHE HP 2530-48G
+.http://192.168.100.107/[SWICHE HP 2530-48G]
 [options="header"]
-|=========================
-|PUERTOS  |UBICACION     |
-|R2-SW1-01|MESA No.35    |DATOS
-|R2-SW1-02|MESA No.36    |
-|R2-SW1-03|MESA No.37    |
-|R2-SW1-04|MESA No.38    |
-|R2-SW1-05|MESA No.39    |
-|R2-SW1-06|MESA No.40    |
-|R2-SW1-07|MESA No.41    |
-|R2-SW1-08|MESA No.42    |
-|R2-SW1-09|MESA No.43    |
-|R2-SW1-10|MESA No.44    |
-|R2-SW1-11|MESA No.45    |
-|R2-SW1-12|MESA No.46    |
-|R2-SW1-13|MESA No.47    |
-|R2-SW1-14|MESA No.48    |
-|R2-SW1-15|MESA No.49    |
-|R2-SW1-16|MESA No.50    |
-|R2-SW1-17|MESA No.51    |
-|R2-SW1-18|MESA No.52    |
-|R2-SW1-19|MESA No.53    |
-|R2-SW1-20|MESA No.54    |
-|R2-SW1-21|MESA No.55    |
-|R2-SW1-22|MESA No.56    |
-|R2-SW1-23|MESA No.57    |
-|R2-SW1-24|MESA No.58    |
-|R2-SW1-25|MESA No.59    |
-|R2-SW1-26|MESA No.60    |
-|R2-SW1-27|MESA No.61    |
-|R2-SW1-28|MESA No.62    |
-|R2-SW1-29|MESA No.63    |
-|R2-SW1-30|MESA No.64    |
-|R2-SW1-31|MESA No.65    |
-|R2-SW1-32|    LIBRE     |
-|R2-SW1-33|    LIBRE     |
-|R2-SW1-34|    LIBRE     |
-|R2-SW1-35|    LIBRE     |
-|R2-SW1-36|    LIBRE     |
-|R2-SW1-37|    LIBRE     |
-|R2-SW1-38|    LIBRE     |
-|R2-SW1-39|    LIBRE     |
-|R2-SW1-40|    LIBRE     |
-|R2-SW1-41|    LIBRE     |
-|R2-SW1-42|    LIBRE     |
-|R2-SW1-43|    LIBRE     |
-|R2-SW1-44|    LIBRE     |
-|R2-SW1-45|    LIBRE     |
-|R2-SW1-46|    LIBRE     |
-|R2-SW1-47|MESA No.35    |VOZ
-|R2-SW1-48|R2PP2-24-SW-XX|CENTRO DE DATOS
-|R2-SW1-49|F.O-LIBRE     |
-|R2-SW1-50|F.O-LIBRE     |
-|R2-SW1-51|F.O-LIBRE     |
-|R2-SW1-52|F.O-LIBRE     |
-|=========================
-
+|==============================================
+|PUERTOS  |UBICACION     |VLAN                |
+|R2-SW1-01|MESA No.35    |ESTUDIANTES         |DATOS
+|R2-SW1-02|MESA No.36    |ESTUDIANTES         |
+|R2-SW1-03|MESA No.37    |ESTUDIANTES         |
+|R2-SW1-04|MESA No.38    |ESTUDIANTES         |
+|R2-SW1-05|MESA No.39    |ESTUDIANTES         |
+|R2-SW1-06|MESA No.40    |ESTUDIANTES         |
+|R2-SW1-07|MESA No.41    |ESTUDIANTES         |
+|R2-SW1-08|MESA No.42    |ESTUDIANTES         |
+|R2-SW1-09|MESA No.43    |ESTUDIANTES         |
+|R2-SW1-10|MESA No.44    |ESTUDIANTES         |
+|R2-SW1-11|MESA No.45    |ESTUDIANTES         |
+|R2-SW1-12|MESA No.46    |ESTUDIANTES         |
+|R2-SW1-13|MESA No.47    |ESTUDIANTES         |
+|R2-SW1-14|MESA No.48    |ESTUDIANTES         |
+|R2-SW1-15|MESA No.49    |ESTUDIANTES         |
+|R2-SW1-16|MESA No.50    |ESTUDIANTES         |
+|R2-SW1-17|MESA No.51    |ESTUDIANTES         |
+|R2-SW1-18|MESA No.52    |ESTUDIANTES         |
+|R2-SW1-19|MESA No.53    |ESTUDIANTES         |
+|R2-SW1-20|MESA No.54    |ESTUDIANTES         |
+|R2-SW1-21|MESA No.55    |ESTUDIANTES         |
+|R2-SW1-22|MESA No.56    |ESTUDIANTES         |
+|R2-SW1-23|MESA No.57    |ESTUDIANTES         |
+|R2-SW1-24|MESA No.58    |ESTUDIANTES         |
+|R2-SW1-25|MESA No.59    |ESTUDIANTES         |
+|R2-SW1-26|MESA No.60    |ESTUDIANTES         |
+|R2-SW1-27|MESA No.61    |ESTUDIANTES         |
+|R2-SW1-28|MESA No.62    |ESTUDIANTES         |
+|R2-SW1-29|MESA No.63    |ESTUDIANTES         |
+|R2-SW1-30|MESA No.64    |ESTUDIANTES         |
+|R2-SW1-31|MESA No.65    |ESTUDIANTES         |
+|R2-SW1-32|    LIBRE     |ESTUDIANTES         |
+|R2-SW1-33|    LIBRE     |ESTUDIANTES         |
+|R2-SW1-34|    LIBRE     |ESTUDIANTES         |
+|R2-SW1-35|    LIBRE     |ESTUDIANTES         |
+|R2-SW1-36|    LIBRE     |ESTUDIANTES         |
+|R2-SW1-37|    LIBRE     |ESTUDIANTES         |
+|R2-SW1-38|    LIBRE     |ADMINISTRATIVOS     |
+|R2-SW1-39|    LIBRE     |ADMINISTRATIVOS     |
+|R2-SW1-40|    LIBRE     |ADMINISTRATIVOS     |
+|R2-SW1-41|    LIBRE     |ADMINISTRATIVOS     |
+|R2-SW1-42|    LIBRE     |ADMINISTRATIVOS     |
+|R2-SW1-43|    LIBRE     |ADMINISTRATIVOS     |
+|R2-SW1-44|    CAMARA    |VIDEO-IP            |
+|R2-SW1-45|    LIBRE     |SISTEMAS            |
+|R2-SW1-46|    LIBRE     |SISTEMAS            |
+|R2-SW1-47|MESA No.35    |VOZ-IP              |
+|R2-SW1-48|R2PP2-24-SW-XX|TRUNK               |CENTRO DE DATOS
+|R2-SW1-49|F.O-LIBRE     |TRUNK               |
+|R2-SW1-50|F.O-LIBRE     |TRUNK               |
+|R2-SW1-51|F.O-LIBRE     |TRUNK               |
+|R2-SW1-52|F.O-LIBRE     |TRUNK               |
+|==============================================
 
 .PATCH PANEL No.1 SIEMON
 [options="header"]
@@ -285,63 +424,63 @@ n=&#241; N=&#209;
 
 === RACK No.3: SALA INFORMATICA No.3
 
-.SWICHE HP 2530-48G
+.http://192.168.100.105/[SWICHE HP 2530-48G]
 [options="header"]
-|=========================
-|PUERTOS  |UBICACION     |
-|R3-SW1-01|MESA No.66    |PROF-DATOS
-|R3-SW1-02|MESA No.66    |PROF-VOZ
-|R3-SW1-03|MESA No.67    |
-|R3-SW1-04|MESA No.68    |
-|R3-SW1-05|MESA No.69    |
-|R3-SW1-06|MESA No.70    |
-|R3-SW1-07|MESA No.71    |
-|R3-SW1-08|MESA No.72    |
-|R3-SW1-09|MESA No.73    |
-|R3-SW1-10|MESA No.74    |
-|R3-SW1-11|MESA No.75    |
-|R3-SW1-12|MESA No.86    |
-|R3-SW1-13|MESA No.76    |
-|R3-SW1-14|MESA No.77    |
-|R3-SW1-15|MESA No.78    |
-|R3-SW1-16|MESA No.79    |
-|R3-SW1-17|MESA No.80    |
-|R3-SW1-18|MESA No.81    |
-|R3-SW1-19|MESA No.82    |
-|R3-SW1-20|MESA No.83    |
-|R3-SW1-21|MESA No.88    |
-|R3-SW1-22|MESA No.85    |
-|R3-SW1-23|MESA No.84    |
-|R3-SW1-24|MESA No.90    |
-|R3-SW1-25|MESA No.87    |
-|R3-SW1-26|MESA No.89    |
-|R3-SW1-27|MESA No.91    |
-|R3-SW1-28|MESA No.92    |
-|R3-SW1-29|MESA No.93    |
-|R3-SW1-30|MESA No.94    |
-|R3-SW1-31|MESA No.95    |
-|R3-SW1-32|MESA No.96    |
-|R3-SW1-33|    LIBRE     |
-|R3-SW1-34|    LIBRE     |
-|R3-SW1-35|    LIBRE     |
-|R3-SW1-36|    LIBRE     |
-|R3-SW1-37|    LIBRE     |
-|R3-SW1-38|    LIBRE     |
-|R3-SW1-39|    LIBRE     |
-|R3-SW1-40|    LIBRE     |
-|R3-SW1-41|    LIBRE     |
-|R3-SW1-42|    LIBRE     |
-|R3-SW1-43|    LIBRE     |
-|R3-SW1-44|    LIBRE     |
-|R3-SW1-45|    LIBRE     |
-|R3-SW1-46|    LIBRE     |
-|R3-SW1-47|    LIBRE     |
-|R3-SW1-48|R1PP1-24-SW-XX|CENTRO DE DATOS
-|R3-SW1-49|F.O-  LIBRE   |
-|R3-SW1-50|F.O-  LIBRE   |
-|R3-SW1-51|F.O-  LIBRE   |
-|R3-SW1-52|F.O-  LIBRE   |
-|=========================
+|==============================================
+|PUERTOS  |UBICACION     |VLAN                |
+|R3-SW1-01|MESA No.66    |ESTUDIANTES         |PROF-DATOS
+|R3-SW1-02|MESA No.66    |ESTUDIANTES         |PROF-VOZ
+|R3-SW1-03|MESA No.67    |ESTUDIANTES         |
+|R3-SW1-04|MESA No.68    |ESTUDIANTES         |
+|R3-SW1-05|MESA No.69    |ESTUDIANTES         |
+|R3-SW1-06|MESA No.70    |ESTUDIANTES         |
+|R3-SW1-07|MESA No.71    |ESTUDIANTES         |
+|R3-SW1-08|MESA No.72    |ESTUDIANTES         |
+|R3-SW1-09|MESA No.73    |ESTUDIANTES         |
+|R3-SW1-10|MESA No.74    |ESTUDIANTES         |
+|R3-SW1-11|MESA No.75    |ESTUDIANTES         |
+|R3-SW1-12|MESA No.86    |ESTUDIANTES         |
+|R3-SW1-13|MESA No.76    |ESTUDIANTES         |
+|R3-SW1-14|MESA No.77    |ESTUDIANTES         |
+|R3-SW1-15|MESA No.78    |ESTUDIANTES         |
+|R3-SW1-16|MESA No.79    |ESTUDIANTES         |
+|R3-SW1-17|MESA No.80    |ESTUDIANTES         |
+|R3-SW1-18|MESA No.81    |ESTUDIANTES         |
+|R3-SW1-19|MESA No.82    |ESTUDIANTES         |
+|R3-SW1-20|MESA No.83    |ESTUDIANTES         |
+|R3-SW1-21|MESA No.88    |ESTUDIANTES         |
+|R3-SW1-22|MESA No.85    |ESTUDIANTES         |
+|R3-SW1-23|MESA No.84    |ESTUDIANTES         |
+|R3-SW1-24|MESA No.90    |ESTUDIANTES         |
+|R3-SW1-25|MESA No.87    |ESTUDIANTES         |
+|R3-SW1-26|MESA No.89    |ESTUDIANTES         |
+|R3-SW1-27|MESA No.91    |ESTUDIANTES         |
+|R3-SW1-28|MESA No.92    |ESTUDIANTES         |
+|R3-SW1-29|MESA No.93    |ESTUDIANTES         |
+|R3-SW1-30|MESA No.94    |ESTUDIANTES         |
+|R3-SW1-31|MESA No.95    |ESTUDIANTES         |
+|R3-SW1-32|MESA No.96    |ESTUDIANTES         |
+|R3-SW1-33|    LIBRE     |ESTUDIANTES         |
+|R3-SW1-34|    LIBRE     |ESTUDIANTES         |
+|R3-SW1-35|    LIBRE     |ESTUDIANTES         |
+|R3-SW1-36|    LIBRE     |ESTUDIANTES         |
+|R3-SW1-37|    LIBRE     |ESTUDIANTES         |
+|R3-SW1-38|    LIBRE     |ESTUDIANTES         |
+|R3-SW1-39|    LIBRE     |ESTUDIANTES         |
+|R3-SW1-40|    LIBRE     |ADMINISTRATIVOS     |
+|R3-SW1-41|    LIBRE     |ADMINISTRATIVOS     |
+|R3-SW1-42|    LIBRE     |ADMINISTRATIVOS     |
+|R3-SW1-43|    LIBRE     |ADMINISTRATIVOS     |
+|R3-SW1-44|    LIBRE     |ADMINISTRATIVOS     |
+|R3-SW1-45|    LIBRE     |SISTEMAS            |
+|R3-SW1-46|    LIBRE     |SISTEMAS            |
+|R3-SW1-47|    LIBRE     |VOZ-IP              |
+|R3-SW1-48|R1PP1-24-SW-XX|TRUNK               |CENTRO DE DATOS
+|R3-SW1-49|F.O-  LIBRE   |TRUNK               |
+|R3-SW1-50|F.O-  LIBRE   |TRUNK               |
+|R3-SW1-51|F.O-  LIBRE   |TRUNK               |
+|R3-SW1-52|F.O-  LIBRE   |TRUNK               |
+|==============================================
 
 .PATCH PANEL No.1 SIEMON
 [options="header"]
@@ -407,37 +546,37 @@ n=&#241; N=&#209;
 
 .SWICHE HP 2530-24G
 [options="header"]
-|=========================
-|PUERTOS  |UBICACION     |
-|R1-SW1-01|              |
-|R1-SW1-02|              |
-|R1-SW1-03|              |
-|R1-SW1-04|              |
-|R1-SW1-05|              |
-|R1-SW1-06|              |
-|R1-SW1-07|              |
-|R1-SW1-08|              |
-|R1-SW1-09|              |
-|R1-SW1-10|              |
-|R1-SW1-11|              |
-|R1-SW1-12|              |
-|R1-SW1-13|              |
-|R1-SW1-14|              |
-|R1-SW1-15|              |
-|R1-SW1-16|              |
-|R1-SW1-17|              |
-|R1-SW1-18|              |
-|R1-SW1-19|              |
-|R1-SW1-20|              |
-|R1-SW1-21|              |
-|R1-SW1-22|              |
-|R1-SW1-23|              |
-|R1-SW1-24|              |
-|R1-SW1-25|F.O-          |
-|R1-SW1-26|F.O-          |
-|R1-SW1-27|F.O-          |
-|R1-SW1-28|F.O-          |
-|=========================
+|==============================================
+|PUERTOS  |UBICACION     |VLAN                |
+|R1-SW1-01|DATOS         |DOCENTES            |
+|R1-SW1-02|DATOS         |DOCENTES            |
+|R1-SW1-03|DATOS         |DOCENTES            |
+|R1-SW1-04|DATOS         |DOCENTES            |
+|R1-SW1-05|              |DOCENTES            |
+|R1-SW1-06|              |DOCENTES            |
+|R1-SW1-07|              |ESTUDIANTES         |
+|R1-SW1-08|              |ESTUDIANTES         |
+|R1-SW1-09|              |ESTUDIANTES         |
+|R1-SW1-10|              |ESTUDIANTES         |
+|R1-SW1-11|              |ESTUDIANTES         |
+|R1-SW1-12|              |ESTUDIANTES         |
+|R1-SW1-13|              |ESTUDIANTES         |
+|R1-SW1-14|              |ESTUDIANTES         |
+|R1-SW1-15|              |ESTUDIANTES         |
+|R1-SW1-16|              |ESTUDIANTES         |
+|R1-SW1-17|              |ESTUDIANTES         |
+|R1-SW1-18|              |ESTUDIANTES         |
+|R1-SW1-19|              |SISTEMAS            |
+|R1-SW1-20|              |SISTEMAS            |
+|R1-SW1-21|              |VOZ-IP              |
+|R1-SW1-22|              |VOZ-IP              |
+|R1-SW1-23|              |VOZ-IP              |
+|R1-SW1-24|              |VOZ-IP              |
+|R1-SW1-25|F.O-          |TRUNK               |
+|R1-SW1-26|F.O-          |TRUNK               |
+|R1-SW1-27|F.O-          |TRUNK               |
+|R1-SW1-28|F.O-          |TRUNK               |
+|==============================================
 
 .PATCH PANEL No.1 SIEMON
 [options="header"]
@@ -463,47 +602,48 @@ n=&#241; N=&#209;
 |R4PP1-18-SW-XX|            |
 |R4PP1-19-SW-XX|            |
 |R4PP1-20-SW-XX|            |
-|R4PP1-21-SW-XX|VOZ         |
-|R4PP1-22-SW-XX|VOZ         |
-|R4PP1-23-SW-XX|VOZ         |
-|R4PP1-24-SW-XX|VOZ         |
+|R4PP1-21-SW-XX|VOZ-IP      |
+|R4PP1-22-SW-XX|VOZ-IP      |
+|R4PP1-23-SW-XX|VOZ-IP      |
+|R4PP1-24-SW-XX|VOZ-IP      |
 |============================
 
 === RACK No.5: OFICINA GESTION EDUCATIVA
 
 .SWICHE HP 2530-24G
 [options="header"]
-|=========================
-|PUERTOS  |UBICACION     |
-|R1-SW1-01|              |
-|R1-SW1-02|              |
-|R1-SW1-03|              |
-|R1-SW1-04|              |
-|R1-SW1-05|              |
-|R1-SW1-06|              |
-|R1-SW1-07|              |
-|R1-SW1-08|              |
-|R1-SW1-09|              |
-|R1-SW1-10|              |
-|R1-SW1-11|              |
-|R1-SW1-12|              |
-|R1-SW1-13|              |
-|R1-SW1-14|              |
-|R1-SW1-15|              |
-|R1-SW1-16|              |
-|R1-SW1-17|              |
-|R1-SW1-18|              |
-|R1-SW1-19|              |
-|R1-SW1-20|              |
-|R1-SW1-21|              |
-|R1-SW1-22|              |
-|R1-SW1-23|              |
-|R1-SW1-24|              |
-|R1-SW1-25|F.O-          |
-|R1-SW1-26|F.O-          |
-|R1-SW1-27|F.O-          |
-|R1-SW1-28|F.O-          |
-|=========================
+|==============================================
+|PUERTOS  |UBICACION     |VLAN                |
+|R1-SW1-01|DATOS         |DOCENTES            |
+|R1-SW1-02|DATOS         |DOCENTES            |
+|R1-SW1-03|DATOS         |DOCENTES            |
+|R1-SW1-04|DATOS         |DOCENTES            |
+|R1-SW1-05|PSICOLOGIA    |DOCENTES            |
+|R1-SW1-06|AP-COORDINA2  |ESTUDIANTES         |
+|R1-SW1-07|AP-GE         |ESTUDIANTES         |
+|R1-SW1-08|              |ESTUDIANTES         |
+|R1-SW1-09|              |ESTUDIANTES         |
+|R1-SW1-10|              |ESTUDIANTES         |
+|R1-SW1-11|              |ESTUDIENTES         |
+|R1-SW1-12|              |ESTUDIENTES         |
+|R1-SW1-13|              |ESTUDIENTES         |
+|R1-SW1-14|              |ESTUDIENTES         |
+|R1-SW1-15|PORTERIA      |VIDEO-IP            |
+|R1-SW1-16|CANCHA        |VIDEO-IP            |
+|R1-SW1-17|              |SISTEMAS            |
+|R1-SW1-18|              |SISTEMAS            |
+|R1-SW1-19|PSICOLOGIA    |VOZ-IP              |
+|R1-SW1-20|VOZ-IP        |VOZ-IP              |
+|R1-SW1-21|VOZ-IP        |VOZ-IP              |
+|R1-SW1-22|VOZ-IP        |VOZ-IP              |
+|R1-SW1-23|VOZ-IP        |VOZ-IP              |
+|R1-SW1-24|RACK PADRES   |TRUNK               |
+|R1-SW1-25|F.O-          |TRUNK               |
+|R1-SW1-26|F.O-          |TRUNK               |
+|R1-SW1-27|F.O-          |TRUNK               |
+|R1-SW1-28|F.O-          |TRUNK               |
+|==============================================
+
 
 .PATCH PANEL No.1 SIEMON
 [options="header"]
@@ -514,8 +654,8 @@ n=&#241; N=&#209;
 |R5PP1-03-SW-XX|DATOS       |
 |R5PP1-04-SW-XX|DATOS       |
 |R5PP1-05-SW-XX|DATOS       |
-|R5PP1-06-SW-XX|DATOS       |
-|R5PP1-07-SW-XX|DATOS       |
+|R5PP1-06-SW-XX|AP-COORDINA2|
+|R5PP1-07-SW-XX|AP-GE       |
 |R5PP1-08-SW-XX|PSICOLOGIA  |FALTA JACK NEGRO PACT CORD
 |R5PP1-09-SW-XX|            |
 |R5PP1-10-SW-XX|            |
@@ -529,47 +669,49 @@ n=&#241; N=&#209;
 |R5PP1-18-SW-XX|            |
 |R5PP1-19-SW-XX|            |
 |R5PP1-20-SW-XX|            |
-|R5PP1-21-SW-XX|VOZ         |
-|R5PP1-22-SW-XX|VOZ         |
-|R5PP1-23-SW-XX|VOZ         |
-|R5PP1-24-SW-XX|VOZ         |FALTAN 3 PATC CORD
+|R5PP1-21-SW-XX|VOZ-IP      |
+|R5PP1-22-SW-XX|VOZ-IP      |
+|R5PP1-23-SW-XX|VOZ-IP      |
+|R5PP1-24-SW-XX|VOZ-IP      |FALTAN 3 PATC CORD
 |============================
 
 === RACK No.6 PREESCOLAR
 
-.SWICHE HP 2530-24G
+.http://192.168.100.101/[SWICHE HP 2530-24G]
 [options="header"]
-|=========================
-|PUERTOS  |UBICACION     |
-|R1-SW1-01|              |
-|R1-SW1-02|              |
-|R1-SW1-03|              |
-|R1-SW1-04|              |
-|R1-SW1-05|              |
-|R1-SW1-06|              |
-|R1-SW1-07|              |
-|R1-SW1-08|              |
-|R1-SW1-09|              |
-|R1-SW1-10|              |
-|R1-SW1-11|              |
-|R1-SW1-12|              |
-|R1-SW1-13|              |
-|R1-SW1-14|              |
-|R1-SW1-15|              |
-|R1-SW1-16|              |
-|R1-SW1-17|              |
-|R1-SW1-18|              |
-|R1-SW1-19|              |
-|R1-SW1-20|              |
-|R1-SW1-21|              |
-|R1-SW1-22|              |
-|R1-SW1-23|              |
-|R1-SW1-24|              |
-|R1-SW1-25|F.O-          |
-|R1-SW1-26|F.O-          |
-|R1-SW1-27|F.O-          |
-|R1-SW1-28|F.O-          |
-|=========================
+|==============================================
+|PUERTOS  |UBICACION     |VLAN                |
+|R1-SW1-01|DATOS         |DOCENTES            |
+|R1-SW1-02|DATOS         |DOCENTES            |
+|R1-SW1-03|DATOS         |DOCENTES            |
+|R1-SW1-04|DATOS         |DOCENTES            |
+|R1-SW1-05|DATOS         |DOCENTES            |
+|R1-SW1-06|DATOS         |DOCENTES            |
+|R1-SW1-07|              |DOCENTES            |
+|R1-SW1-08|              |DOCENTES            |
+|R1-SW1-09|              |DOCENTES            |
+|R1-SW1-10|              |DOCENTES            |
+|R1-SW1-11|              |DOCENTES            |
+|R1-SW1-12|              |DOCENTES            |
+|R1-SW1-13|              |DOCENTES            |
+|R1-SW1-14|              |DOCENTES            |
+|R1-SW1-15|              |DOCENTES            |
+|R1-SW1-16|              |DOCENTES            |
+|R1-SW1-17|              |DOCENTES            |
+|R1-SW1-18|              |DOCENTES            |
+|R1-SW1-19|              |DOCENTES            |
+|R1-SW1-20|CAMARA        |VIDEO-IP            |
+|R1-SW1-21|              |SISTEMAS            |
+|R1-SW1-22|              |SISTEMAS            |
+|R1-SW1-23|              |VOZ-IP              |
+|R1-SW1-24|              |VOZ-IP              |
+|R1-SW1-25|F.O-          |TRUNK               |
+|R1-SW1-26|F.O-          |TRUNK               |
+|R1-SW1-27|F.O-          |TRUNK               |
+|R1-SW1-28|F.O-          |TRUNK               |
+|==============================================
+
+
 
 .PATCH PANEL No.1 SIEMON
 [options="header"]
@@ -594,7 +736,7 @@ n=&#241; N=&#209;
 |R6PP1-17-SW-XX|            |
 |R6PP1-18-SW-XX|            |
 |R6PP1-19-SW-XX|            |
-|R6PP1-20-SW-XX|            |
+|R6PP1-20-SW-XX|CAMARA      |
 |R6PP1-21-SW-XX|            |
 |R6PP1-22-SW-XX|            |
 |R6PP1-23-SW-XX|VOZ         |FALTA PACT CORD
@@ -603,39 +745,39 @@ n=&#241; N=&#209;
 
 === RACK No.7 LUDOTECA
 
-.SWICHE HP 2530-24G
+.http://192.168.100.106/[SWICHE HP 2530-24G]
 [options="header"]
-|=========================
-|PUERTOS  |UBICACION     |
-|R1-SW1-01|              |
-|R1-SW1-02|              |
-|R1-SW1-03|              |
-|R1-SW1-04|              |
-|R1-SW1-05|              |
-|R1-SW1-06|              |
-|R1-SW1-07|              |
-|R1-SW1-08|              |
-|R1-SW1-09|              |
-|R1-SW1-10|              |
-|R1-SW1-11|              |
-|R1-SW1-12|              |
-|R1-SW1-13|              |
-|R1-SW1-14|              |
-|R1-SW1-15|              |
-|R1-SW1-16|              |
-|R1-SW1-17|              |
-|R1-SW1-18|              |
-|R1-SW1-19|              |
-|R1-SW1-20|              |
-|R1-SW1-21|              |
-|R1-SW1-22|              |
-|R1-SW1-23|              |
-|R1-SW1-24|              |
-|R1-SW1-25|F.O-          |
-|R1-SW1-26|F.O-          |
-|R1-SW1-27|F.O-          |
-|R1-SW1-28|F.O-          |
-|=========================
+|==============================================
+|PUERTOS  |UBICACION     |VLAN                |
+|R1-SW1-01|TV            |DOCENTES            |
+|R1-SW1-02|              |DOCENTES            |
+|R1-SW1-03|              |DOCENTES            |
+|R1-SW1-04|              |DOCENTES            |
+|R1-SW1-05|              |DOCENTES            |
+|R1-SW1-06|              |DOCENTES            |
+|R1-SW1-07|              |DOCENTES            |
+|R1-SW1-08|              |DOCENTES            |
+|R1-SW1-09|              |DOCENTES            |
+|R1-SW1-10|              |DOCENTES            |
+|R1-SW1-11|              |DOCENTES            |
+|R1-SW1-12|              |DOCENTES            |
+|R1-SW1-13|              |DOCENTES            |
+|R1-SW1-14|              |DOCENTES            |
+|R1-SW1-15|              |DOCENTES            |
+|R1-SW1-16|              |DOCENTES            |
+|R1-SW1-17|              |DOCENTES            |
+|R1-SW1-18|              |SISTEMAS            |
+|R1-SW1-19|              |SISTEMAS            |
+|R1-SW1-20|              |DOCENTES            |
+|R1-SW1-21|              |DOCENTES            |
+|R1-SW1-22|              |DOCENTES            |
+|R1-SW1-23|CAMARA        |VIDEO-IP            |
+|R1-SW1-24|VOZ-IP        |VOZ-IP              |
+|R1-SW1-25|F.O-          |TRUNK               |
+|R1-SW1-26|F.O-          |TRUNK               |
+|R1-SW1-27|F.O-          |TRUNK               |
+|R1-SW1-28|F.O-          |TRUNK               |
+|==============================================
 
 .PATCH PANEL No.1 SIEMON
 [options="header"]
@@ -663,45 +805,45 @@ n=&#241; N=&#209;
 |R7PP1-20-SW-XX|            |
 |R7PP1-21-SW-XX|            |
 |R7PP1-22-SW-XX|            |
-|R7PP1-23-SW-XX|            |
-|R7PP1-24-SW-XX|            |
+|R7PP1-23-SW-XX|CAMARA      |
+|R7PP1-24-SW-XX|VOZ-IP      |
 |============================
 
 === RACK No.8 AUDIOVISUALES
 
-.SWICHE HP 2530-24G
+.http://192.168.100.109/[SWICHE HP 2530-24G]
 [options="header"]
-|=========================
-|PUERTOS  |UBICACION     |
-|R1-SW1-01|              |
-|R1-SW1-02|              |
-|R1-SW1-03|              |
-|R1-SW1-04|              |
-|R1-SW1-05|              |
-|R1-SW1-06|              |
-|R1-SW1-07|              |
-|R1-SW1-08|              |
-|R1-SW1-09|              |
-|R1-SW1-10|              |
-|R1-SW1-11|              |
-|R1-SW1-12|              |
-|R1-SW1-13|              |
-|R1-SW1-14|              |
-|R1-SW1-15|              |
-|R1-SW1-16|              |
-|R1-SW1-17|              |
-|R1-SW1-18|              |
-|R1-SW1-19|              |
-|R1-SW1-20|              |
-|R1-SW1-21|              |
-|R1-SW1-22|              |
-|R1-SW1-23|              |
-|R1-SW1-24|              |
-|R1-SW1-25|F.O-          |
-|R1-SW1-26|F.O-          |
-|R1-SW1-27|F.O-          |
-|R1-SW1-28|F.O-          |
-|=========================
+|==============================================
+|PUERTOS  |UBICACION     |VLAN                |
+|R1-SW1-01|DLINK-AP      |DOCENTES            |
+|R1-SW1-02|PP1-02-PC     |DOCENTES            |
+|R1-SW1-03|PP1-03        |VOZ-IP              |
+|R1-SW1-04|              |DOCENTES            |
+|R1-SW1-05|              |DOCENTES            |
+|R1-SW1-06|              |DOCENTES            |
+|R1-SW1-07|              |DOCENTES            |
+|R1-SW1-08|              |DOCENTES            |
+|R1-SW1-09|SEGUNDO-PISO  |VIDEO-IP            |
+|R1-SW1-10|              |VIDEO-IP            |
+|R1-SW1-11|              |SISTEMAS            |
+|R1-SW1-12|              |SISTEMAS            |
+|R1-SW1-13|              |SISTEMAS            |
+|R1-SW1-14|              |SISTEMAS            |
+|R1-SW1-15|X2-SONICW     |RED LOCAL SONICW    |http://192.168.1.1/[SONICW]
+|R1-SW1-16|X0-SONICW-LAN |TRUNK               |
+|R1-SW1-17|X1-SONICW-WAN |VLAN 99             |
+|R1-SW1-18|MICROTIC-WWW  |VLAN 99             |LIBRE?
+|R1-SW1-19|R8PP1-19-GI   |TRUNK               |
+|R1-SW1-20|R8PP1-20-GI   |TRUNK               |
+|R1-SW1-21|R8PP1-21-DPTOS|TRUNK               |
+|R1-SW1-22|R8PP1-22-BTO  |TRUNK               |
+|R1-SW1-23|R8PP1-23-AP   |ESTUDIANTES         |
+|R1-SW1-24|R8PP1-24-AP   |ESTUDIANTES         |
+|R1-SW1-25|F.O-          |TRUNK               |
+|R1-SW1-26|F.O-          |TRUNK               |
+|R1-SW1-27|F.O-          |TRUNK               |
+|R1-SW1-28|F.O-          |TRUNK               |
+|==============================================
 
 .PATCH PANEL No.1 SIEMON
 [options="header"]
@@ -715,7 +857,7 @@ n=&#241; N=&#209;
 |R8PP1-06-SW-06|                |
 |R8PP1-07-SW-07|                |
 |R8PP1-08-SW-08|                |
-|R8PP1-09-SW-09|                |
+|R8PP1-09-SW-09|CAMARA PISO2    |
 |R8PP1-10-SW-10|                |
 |R8PP1-11-SW-11|                |
 |R8PP1-12-SW-12|                |
@@ -737,37 +879,37 @@ n=&#241; N=&#209;
 
 .SWICHE HP 2530-24G
 [options="header"]
-|=========================
-|PUERTOS  |UBICACION     |
-|R9-SW1-01|              |
-|R9-SW1-02|              |
-|R9-SW1-03|              |
-|R9-SW1-04|              |
-|R9-SW1-05|              |
-|R9-SW1-06|              |
-|R9-SW1-07|              |
-|R9-SW1-08|              |
-|R9-SW1-09|              |
-|R9-SW1-10|              |
-|R9-SW1-11|              |
-|R9-SW1-12|              |
-|R9-SW1-13|              |
-|R9-SW1-14|              |
-|R9-SW1-15|              |
-|R9-SW1-16|              |
-|R9-SW1-17|              |
-|R9-SW1-18|              |
-|R9-SW1-19|              |
-|R9-SW1-20|              |
-|R9-SW1-21|              |
-|R9-SW1-22|              |
-|R9-SW1-23|              |
-|R9-SW1-24|              |
-|R9-SW1-25|F.O-          |
-|R9-SW1-26|F.O-          |
-|R9-SW1-27|F.O-          |
-|R9-SW1-28|F.O-          |
-|=========================
+|==============================================
+|PUERTOS  |UBICACION     |VLAN                |
+|R9-SW1-01|              |SISTEMAS            |
+|R9-SW1-02|              |SISTEMAS            |
+|R9-SW1-03|              |SISTEMAS            |
+|R9-SW1-04|              |SISTEMAS            |
+|R9-SW1-05|              |SISTEMAS            |
+|R9-SW1-06|              |SISTEMAS            |
+|R9-SW1-07|              |ADMINISTRATIVOS     |
+|R9-SW1-08|              |ADMINISTRATIVOS     |
+|R9-SW1-09|              |DOCENTES            |
+|R9-SW1-10|              |DOCENTES            |
+|R9-SW1-11|              |DOCENTES            |
+|R9-SW1-12|              |DOCENTES            |
+|R9-SW1-13|              |DOCENTES            |
+|R9-SW1-14|              |DOCENTES            |
+|R9-SW1-15|              |DOCENTES            |
+|R9-SW1-16|              |DOCENTES            |
+|R9-SW1-17|              |DOCENTES            |
+|R9-SW1-18|              |DOCENTES            |
+|R9-SW1-19|              |ESTUDIANTES         |
+|R9-SW1-20|              |ESTUDIANTES         |
+|R9-SW1-21|              |VOZ-IP              |
+|R9-SW1-22|              |VOZ-IP              |
+|R9-SW1-23|AUDIOVISUALES |TRUNK               |
+|R9-SW1-24|AUDIOVISUALES |TRUNK               |
+|R9-SW1-25|F.O-          |TRUNK               |
+|R9-SW1-26|F.O-          |TRUNK               |
+|R9-SW1-27|F.O-          |TRUNK               |
+|R9-SW1-28|F.O-          |TRUNK               |
+|==============================================
 
 .PATCH PANEL No.1 SIEMON
 [options="header"]
@@ -817,37 +959,37 @@ n=&#241; N=&#209;
 
 .SWICHE HP 2530-24G
 [options="header"]
-|==========================
-|PUERTOS   |UBICACION     |
-|R10-SW1-01|              |
-|R10-SW1-02|              |
-|R10-SW1-03|              |
-|R10-SW1-04|              |
-|R10-SW1-05|              |
-|R10-SW1-06|              |
-|R10-SW1-07|              |
-|R10-SW1-08|              |
-|R10-SW1-09|              |
-|R10-SW1-10|              |
-|R10-SW1-11|              |
-|R10-SW1-12|              |
-|R10-SW1-13|              |
-|R10-SW1-14|              |
-|R10-SW1-15|              |
-|R10-SW1-16|              |
-|R10-SW1-17|              |
-|R10-SW1-18|              |
-|R10-SW1-19|              |
-|R10-SW1-20|              |
-|R10-SW1-21|              |
-|R10-SW1-22|              |
-|R10-SW1-23|              |
-|R10-SW1-24|              |
-|R10-SW1-25|F.O-          |
-|R10-SW1-26|F.O-          |
-|R10-SW1-27|F.O-          |
-|R10-SW1-28|F.O-          |
-|==========================
+|===============================================
+|PUERTOS   |UBICACION     |VLAN                |
+|R10-SW1-01|Puesto No.1   |DOCENTES            |
+|R10-SW1-02|Puesto No.2   |DOCENTES            |
+|R10-SW1-03|Puesto No.3   |DOCENTES            |
+|R10-SW1-04|Puesto No.4   |DOCENTES            |
+|R10-SW1-05|Puesto No.5   |DOCENTES            |
+|R10-SW1-06|Puesto No.6   |DOCENTES            |
+|R10-SW1-07|CIENCIAS      |DOCENTES            |
+|R10-SW1-08|MATEMATICAS   |DOCENTES            |
+|R10-SW1-09|SOCIALES      |DOCENTES            |
+|R10-SW1-10|ESPAÑOL       |DOCENTES            |
+|R10-SW1-11|              |DOCENTES            |
+|R10-SW1-12|EDUFISICA     |DOCENTES            |
+|R10-SW1-13|ARTES1        |DOCENTES            |
+|R10-SW1-14|ARTES2        |DOCENTES            |
+|R10-SW1-15|AP            |DOCENTES            |
+|R10-SW1-16|COMPRAS       |ADMINISTRATIVOS     |
+|R10-SW1-17|              |ADMINISTRATIVOS     |
+|R10-SW1-18|              |ADMINISTRATIVOS     |
+|R10-SW1-19|              |SISTEMAS            |
+|R10-SW1-20|              |SISTEMAS            |
+|R10-SW1-21|VOZ-IP        |VOZ-IP              |
+|R10-SW1-22|VOZ-IP        |VOZ-IP              |
+|R10-SW1-23|              |VOZ-IP              |
+|R10-SW1-24|AUDIOVISUALES |TRUNK               |
+|R10-SW1-25|F.O-          |TRUNK               |
+|R10-SW1-26|F.O-          |TRUNK               |
+|R10-SW1-27|F.O-          |TRUNK               |
+|R10-SW1-28|F.O-          |TRUNK               |
+|===============================================
 
 .PATCH PANEL No.1  SIEMON
 [options="header"]
@@ -925,63 +1067,63 @@ n=&#241; N=&#209;
 
 === RACK No.R11: SALA INFORMATICA No.1
 
-.SWICHE HP 2530-48G
+.http://192.168.100.108/[SWICHE HP 2530-48G]
 [options="header"]
-|==========================
-|PUERTOS   |UBICACION     |
-|R11-SW1-01|              |
-|R11-SW1-02|              |
-|R11-SW1-03|              |
-|R11-SW1-04|              |
-|R11-SW1-05|              |
-|R11-SW1-06|              |
-|R11-SW1-07|              |
-|R11-SW1-08|              |
-|R11-SW1-09|              |
-|R11-SW1-10|              |
-|R11-SW1-11|              |
-|R11-SW1-12|              |
-|R11-SW1-13|              |
-|R11-SW1-14|              |
-|R11-SW1-15|              |
-|R11-SW1-16|              |
-|R11-SW1-17|              |
-|R11-SW1-18|              |
-|R11-SW1-19|              |
-|R11-SW1-20|              |
-|R11-SW1-21|              |
-|R11-SW1-22|              |
-|R11-SW1-23|              |
-|R11-SW1-24|              |
-|R11-SW1-25|              |
-|R11-SW1-26|              |
-|R11-SW1-27|              |
-|R11-SW1-28|              |
-|R11-SW1-29|              |
-|R11-SW1-30|              |
-|R11-SW1-31|              |
-|R11-SW1-32|              |
-|R11-SW1-33|              |
-|R11-SW1-34|              |
-|R11-SW1-35|              |
-|R11-SW1-36|              |
-|R11-SW1-37|              |
-|R11-SW1-38|              |
-|R11-SW1-39|              |
-|R11-SW1-40|              |
-|R11-SW1-41|              |
-|R11-SW1-42|              |
-|R11-SW1-43|              |
-|R11-SW1-44|              |
-|R11-SW1-45|              |
-|R11-SW1-46|              |
-|R11-SW1-47|              |
-|R11-SW1-48|              |
-|R11-SW1-49|F.O-          |
-|R11-SW1-50|F.O-          |
-|R11-SW1-51|F.O-          |
-|R11-SW1-52|F.O-          |
-|=========================
+|===============================================
+|PUERTOS   |UBICACION     |VLAN                |
+|R11-SW1-01|              |ESTUDIANTES         |
+|R11-SW1-02|              |ESTUDIANTES         |
+|R11-SW1-03|              |ESTUDIANTES         |
+|R11-SW1-04|              |ESTUDIANTES         |
+|R11-SW1-05|              |ESTUDIANTES         |
+|R11-SW1-06|              |ESTUDIANTES         |
+|R11-SW1-07|              |ESTUDIANTES         |
+|R11-SW1-08|              |ESTUDIANTES         |
+|R11-SW1-09|              |ESTUDIANTES         |
+|R11-SW1-10|              |ESTUDIANTES         |
+|R11-SW1-11|              |ESTUDIANTES         |
+|R11-SW1-12|              |ESTUDIANTES         |
+|R11-SW1-13|              |ESTUDIANTES         |
+|R11-SW1-14|              |ESTUDIANTES         |
+|R11-SW1-15|              |ESTUDIANTES         |
+|R11-SW1-16|              |ESTUDIANTES         |
+|R11-SW1-17|              |ESTUDIANTES         |
+|R11-SW1-18|              |ESTUDIANTES         |
+|R11-SW1-19|              |ESTUDIANTES         |
+|R11-SW1-20|              |ESTUDIANTES         |
+|R11-SW1-21|              |ESTUDIANTES         |
+|R11-SW1-22|              |ESTUDIANTES         |
+|R11-SW1-23|              |ESTUDIANTES         |
+|R11-SW1-24|              |ESTUDIANTES         |
+|R11-SW1-25|              |ESTUDIANTES         |
+|R11-SW1-26|              |ESTUDIANTES         |
+|R11-SW1-27|              |ESTUDIANTES         |
+|R11-SW1-28|              |ESTUDIANTES         |
+|R11-SW1-29|              |ESTUDIANTES         |
+|R11-SW1-30|              |ESTUDIANTES         |
+|R11-SW1-31|              |ESTUDIANTES         |
+|R11-SW1-32|              |ESTUDIANTES         |
+|R11-SW1-33|              |ESTUDIANTES         |
+|R11-SW1-34|              |ESTUDIANTES         |
+|R11-SW1-35|              |SISTEMAS            |
+|R11-SW1-36|              |SISTEMAS            |
+|R11-SW1-37|              |ADMINISTRATIVOS     |
+|R11-SW1-38|              |ADMINISTRATIVOS     |
+|R11-SW1-39|              |ADMINISTRATIVOS     |
+|R11-SW1-40|              |ADMINISTRATIVOS     |
+|R11-SW1-41|              |ADMINISTRATIVOS     |
+|R11-SW1-42|              |ADMINISTRATIVOS     |
+|R11-SW1-43|              |ADMINISTRATIVOS     |
+|R11-SW1-44|              |ADMINISTRATIVOS     |
+|R11-SW1-45|              |ADMINISTRATIVOS     |
+|R11-SW1-46|              |ADMINISTRATIVOS     |
+|R11-SW1-47|              |VOZ-IP              |
+|R11-SW1-48|AUDIOVISUALES |TRUNK               |
+|R11-SW1-49|F.O-          |TRUNK               |
+|R11-SW1-50|F.O-          |TRUNK               |
+|R11-SW1-51|F.O-          |TRUNK               |
+|R11-SW1-52|F.O-          |TRUNK               |
+|===============================================
 
 .PATCH PANEL No.1 SIEMON
 [options="header"]
@@ -1101,37 +1243,37 @@ n=&#241; N=&#209;
 
 .SWICHE HP 2530-24G
 [options="header"]
-|==========================
-|PUERTOS   |UBICACION     |
-|R12-SW1-01|              |
-|R12-SW1-02|              |
-|R12-SW1-03|              |
-|R12-SW1-04|              |
-|R12-SW1-05|              |
-|R12-SW1-06|              |
-|R12-SW1-07|              |
-|R12-SW1-08|              |
-|R12-SW1-09|              |
-|R12-SW1-10|              |
-|R12-SW1-11|              |
-|R12-SW1-12|              |
-|R12-SW1-13|              |
-|R12-SW1-14|              |
-|R12-SW1-15|              |
-|R12-SW1-16|              |
-|R12-SW1-17|              |
-|R12-SW1-18|              |
-|R12-SW1-19|              |
-|R12-SW1-20|              |
-|R12-SW1-21|              |
-|R12-SW1-22|              |
-|R12-SW1-23|              |
-|R12-SW1-24|              |
-|R12-SW1-25|F.O-          |
-|R12-SW1-26|F.O-          |
-|R12-SW1-27|F.O-          |
-|R12-SW1-28|F.O-          |
-|==========================
+|===============================================
+|PUERTOS   |UBICACION     |VLAN                |
+|R12-SW1-01|MODULO-OFI    |DOCENTES            |
+|R12-SW1-02|MODULO-OFI    |DOCENTES            |
+|R12-SW1-03|MODULO-OFI    |DOCENTES            |
+|R12-SW1-04|MODULO-OFI    |DOCENTES            |
+|R12-SW1-05|MODULO-OFI    |DOCENTES            |
+|R12-SW1-06|MODULO-OFI    |DOCENTES            |
+|R12-SW1-07|MODULO-OFI    |DOCENTES            |
+|R12-SW1-08|RECTORIA      |ADMINISTRATIVOS     |
+|R12-SW1-09|              |ADMINISTRATIVOS     |
+|R12-SW1-10|              |ADMINISTRATIVOS     |
+|R12-SW1-11|              |ADMINISTRATIVOS     |
+|R12-SW1-12|              |ADMINISTRATIVOS     |
+|R12-SW1-13|              |ADMINISTRATIVOS     |
+|R12-SW1-14|              |ADMINISTRATIVOS     |
+|R12-SW1-15|              |ADMINISTRATIVOS     |
+|R12-SW1-16|              |ADMINISTRATIVOS     |
+|R12-SW1-17|              |ADMINISTRATIVOS     |
+|R12-SW1-18|              |ADMINISTRATIVOS     |
+|R12-SW1-19|              |SISTEMAS            |
+|R12-SW1-20|              |SISTEMAS            |
+|R12-SW1-21|              |VOZ-IP              |
+|R12-SW1-22|              |VOZ-IP              |
+|R12-SW1-23|              |VOZ-IP              |
+|R12-SW1-24|              |TRUNK               |
+|R12-SW1-25|F.O-          |TRUNK               |
+|R12-SW1-26|F.O-          |TRUNK               |
+|R12-SW1-27|F.O-          |TRUNK               |
+|R12-SW1-28|F.O-          |TRUNK               |
+|===============================================
 
 .PATCH PANEL No.1  SIEMON
 [options="header"]
@@ -1167,14 +1309,14 @@ n=&#241; N=&#209;
 [options="header"]
 |==============================
 |MARQUILLA      |UBICACION    |
-|R12PP2-01-SW-XX|             |
-|R12PP2-02-SW-XX|AUDIOVISUALES|
-|R12PP2-03-SW-XX|BTO          |
-|R12PP2-04-SW-XX|             |
-|R12PP2-05-SW-XX|             |
-|R12PP2-06-SW-XX|             |
-|R12PP2-07-SW-XX|             |
-|R12PP2-08-SW-XX|             |
+|R12PP2-01-SW-XX|MODULO-OFI   |
+|R12PP2-02-SW-XX|MODULO-OFI   |
+|R12PP2-03-SW-XX|MODULO-OFI   |
+|R12PP2-04-SW-XX|MODULO-OFI   |
+|R12PP2-05-SW-XX|MODULO-OFI   |
+|R12PP2-06-SW-XX|MODULO-OFI   |
+|R12PP2-07-SW-XX|MODULO-OFO   |
+|R12PP2-08-SW-XX|PORTERIA     |
 |R12PP2-09-SW-XX|             |
 |R12PP2-10-SW-XX|             |
 |R12PP2-11-SW-XX|             |
@@ -1201,146 +1343,65 @@ n=&#241; N=&#209;
 
 .SWICHE HP 2530-24G
 [options="header"]
-|==========================
-|PUERTOS   |UBICACION     |
-|R13-SW1-01|              |
-|R13-SW1-02|              |
-|R13-SW1-03|              |
-|R13-SW1-04|              |
-|R13-SW1-05|              |
-|R13-SW1-06|              |
-|R13-SW1-07|              |
-|R13-SW1-08|              |
-|R13-SW1-09|              |
-|R13-SW1-10|              |
-|R13-SW1-11|              |
-|R13-SW1-12|              |
-|R13-SW1-13|              |
-|R13-SW1-14|              |
-|R13-SW1-15|              |
-|R13-SW1-16|              |
-|R13-SW1-17|              |
-|R13-SW1-18|              |
-|R13-SW1-19|              |
-|R13-SW1-20|              |
-|R13-SW1-21|              |
-|R13-SW1-22|              |
-|R13-SW1-23|              |
-|R13-SW1-24|              |
-|R13-SW1-25|F.O-          |
-|R13-SW1-26|F.O-          |
-|R13-SW1-27|F.O-          |
-|R13-SW1-28|F.O-          |
-|==========================
+|===============================================
+|PUERTOS   |UBICACION     |VLAN                |
+|R13-SW1-01|VD-01         |ADMINISTRATIVOS     |
+|R13-SW1-02|VD-02         |ADMINISTRATIVOS     |
+|R13-SW1-03|VD-03         |ADMINISTRATIVOS     |
+|R13-SW1-04|VD-04         |ADMINISTRATIVOS     |
+|R13-SW1-05|VD-05         |ADMINISTRATIVOS     |
+|R13-SW1-06|VD-06         |ADMINISTRATIVOS     |
+|R13-SW1-07|VD-07         |ADMINISTRATIVOS     |
+|R13-SW1-08|VD-08         |ADMINISTRATIVOS     |
+|R13-SW1-09|VD-09         |ADMINISTRATIVOS     |
+|R13-SW1-10|VD-09         |ADMINISTRATIVOS     |
+|R13-SW1-11|VD-10         |ADMINISTRATIVOS     |
+|R13-SW1-12|DA-11         |ADMINISTRATIVOS     |
+|R13-SW1-13|              |SISTEMAS            |
+|R13-SW1-14|              |SISTEMAS            |
+|R13-SW1-15|              |VIDEO-IP            |
+|R13-SW1-16|              |VIDEO-IP            |
+|R13-SW1-17|              |ADMINISTRATIVOS     |
+|R13-SW1-18|              |VOZ-IP              |
+|R13-SW1-19|              |VOZ-IP              |
+|R13-SW1-20|              |VOZ-IP              |
+|R13-SW1-21|              |VOZ-IP              |
+|R13-SW1-22|              |VOZ-IP              |
+|R13-SW1-23|              |VOZ-IP              |
+|R13-SW1-24|              |VOZ-IP              |
+|R13-SW1-25|F.O-          |TRUNK               |
+|R13-SW1-26|F.O-          |                    |
+|R13-SW1-27|F.O-          |                    |
+|R13-SW1-28|F.O-          |                    |
+|===============================================
 
-.PATCH PANEL No.1
+.PATCH PANEL No.1 DE DATOS
 [options="header"]
-|=============================
-|MARQUILLA      |UBICACION   |
-|R13PP1-01-SW-XX|            |
-|R13PP1-02-SW-XX|            |
-|R13PP1-03-SW-XX|            |
-|R13PP1-04-SW-XX|            |
-|R13PP1-05-SW-XX|            |
-|R13PP1-06-SW-XX|            |
-|R13PP1-07-SW-XX|            |
-|R13PP1-08-SW-XX|            |
-|R13PP1-09-SW-XX|            |
-|R13PP1-10-SW-XX|            |
-|R13PP1-11-SW-XX|            |
-|R13PP1-12-SW-XX|            |
-|R13PP1-13-SW-XX|            |
-|R13PP1-14-SW-XX|            |
-|R13PP1-15-SW-XX|            |
-|R13PP1-16-SW-XX|            |
-|R13PP1-17-SW-XX|            |
-|R13PP1-18-SW-XX|            |
-|R13PP1-19-SW-XX|            |
-|R13PP1-20-SW-XX|            |
-|R13PP1-21-SW-XX|            |
-|R13PP1-22-SW-XX|            |
-|R13PP1-23-SW-XX|            |
-|R13PP1-24-SW-XX|            |
-|=============================
+|===========================================
+|MARQUILLA      |UBICACION                 |
+|R13PP1-01-SW-XX|VD-01-TESORERIA           |
+|R13PP1-02-SW-XX|VD-02-AUXILIAR-AM         |
+|R13PP1-03-SW-XX|VD-03-SECRETARIA RECTORIA |
+|R13PP1-04-SW-XX|VD-04-AM1                 |
+|R13PP1-05-SW-XX|VD-05-AM2                 |
+|R13PP1-06-SW-XX|VD-06-PARED SALA DE JUNTAS|
+|R13PP1-07-SW-XX|VD-07-PARED SALA DE JUNTAS|
+|R13PP1-08-SW-XX|VD-08-RECTORIA            |
+|R13PP1-09-SW-XX|VD-09-CUARTO              |
+|R13PP1-10-SW-XX|VD-10-PORTERIA            |
+|R13PP1-11-SW-XX|DA-11-MESA DE JUNTAS      |
+|R13PP1-12-SW-XX|                          |
+|R13PP1-13-SW-XX|                          |
+|R13PP1-14-SW-XX|                          |
+|R13PP1-15-SW-XX|                          |
+|R13PP1-16-SW-XX|                          |
+|R13PP1-17-SW-XX|                          |
+|R13PP1-18-SW-XX|                          |
+|R13PP1-19-SW-XX|                          |
+|R13PP1-20-SW-XX|                          |
+|R13PP1-21-SW-XX|                          |
+|R13PP1-22-SW-XX|                          |
+|R13PP1-23-SW-XX|                          |
+|R13PP1-24-SW-XX|                          |
+|===========================================
 
-
-=== FALTANTES
-
-* RACK No.1: CENTRO DE DATOS EDIFICIO NUEVO
-
-** Faltan 17 Patch Cord de 1 Mt
-
-** Falta instalar Patch Panel
-
-** Falta instalar la controladora
-
-** Falta organizar y reeplazar uno Pathc Cord de 1 Mt
-
-** Falta identificar los puntos del Patch Panel No.3 Leviton del Cableado 6A anterior
-
-* RACK No.2: SALA INFORMATICA No.2
-
-** OK
-
-* RACK No.3: SALA INFORMATICA No.3
-
-** OK
-
-* RACK No.4: OFICINA SEGUNDA COORDINACION
-
-** OK
-
-** RACK No.5: OFICINA GESTION EDUCATIVA
-
-** Faltan 4 Patch Cord de 1 Mt
-
-** Falta identificar puntos GE
-
-* RACK No.6 PREESCOLAR
-
-** Faltan 1 Patch Cord de 1 Mt
-
-** Falta identificar los 6 primeros puntos
-
-* RACK No.7 LUDOTECA
-
-** OK
-
-* RACK No.8 AUDIOVISUALES
-
-** Faltan 1 Patch Cord de 1 Mt
-
-* RACK No.9 GI
-
-** Faltan 5 Patch Cord de 1 Mt
-
-** Falta identificar los cables sueltos
-
-* RACK No.10 DPTOS ACADEMICOS
-
-* Patch Cord OK
-
-* Falta identificar los puntos del Patch Panel de 5E
-
-* RACK No.11: SALA INFORMATICA No.1
-
-** OK
-
-* RACK No.12 ATENCION A PADRES
-
-* Patch Cord OK
-
-* Identificar cables
-
-* Falta identificar los puntos del Patch Panel de 5E
-
-
-* RACK No.13 ADMINISTRACION
-
-** Pendiente
-
-=== TOTAL FALTANTES
-
-* Falta 27 Patch Cord de 1 Mt (17CD,4GE,1PR,5GI)
-
-* 1 Jack Negro para psicologia.

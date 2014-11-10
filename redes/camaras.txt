@@ -1,0 +1,43 @@
+=== RACK No.2: SALA INFORMATICA No.2
+=== RACK No.5: OFICINA GESTION EDUCATIVA
+=== RACK No.6 PREESCOLAR
+=== RACK No.9 GI - SISTEMAS
+=== RACK No.13 ADMINISTRACION
+
+=== VLAN 106 - VIDEO-IP
+
+|==============================================
+|PUERTOS   |UBICACION     |VLAN               |
+|R2-SW1-44 |CRA 27        |VIDEO-IP           |
+|R5-SW1-15 |PORTERIA      |VIDEO-IP           |
+|R5-SW1-16 |CANCHA        |VIDEO-IP           |
+|R6-SW1-19 |PICINA        |VIDEO-IP           |
+|R6-SW1-20 |PREESCOLAR    |VIDEO-IP- PENDIENTE|
+|R9-SW1-20 |SISTEMAS      |VIDEO-IP           |
+|R13-SW1-15|NVR           |VIDEO-IP           |
+|R13-SW1-16|OFICINAS      |VIDEO-IP           |
+|==============================================
+
+====DIRECCIONES IP VLAN DE VIDEO
+
+* 192.168.106.2 - CRA 27
+
+* 192.168.106.3 - PORTERIA
+
+* 192.168.106.4 - CANCHA
+
+* 192.168.106.5 - SISTEMAS
+
+* 192.168.106.6 - PICINA
+
+* 192.168.106.7 - PREESCOLAR
+
+* 192.168.106.8 - NVR
+
+* Máscara de Subred: 255.255.255.0
+
+* Puerta de enlace predeterminada: 192.168.106.1
+
+* Servidor DNS preferido: 8.8.4.4
+
+* Servidor DNS alternativo: 8.8.8.8

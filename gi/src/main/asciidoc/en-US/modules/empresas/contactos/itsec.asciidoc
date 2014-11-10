@@ -20,6 +20,14 @@ n=&#241; N=&#209;
 
 * Da soporte con vmware
 
+* mANuel FernANdo Carrillo por skipe
+
+MAIL 2014
+
+*  23 de octubre de 2014, 14:04 - implementacion de la herramienta antivirus kaspersky - https://mail.google.com/mail/u/0/#inbox/1493e335806ed7d3[gi@lasallebga.edu.co]
+
+*  15 de octubre de 2014, 10:44 - Licencia de renovación Kaspersky - Colsalle BGA - https://mail.google.com/mail/u/0/#inbox/149147b9a54b9ba8[gi@lasallebga.edu.co]
+
 MAIL RECIBOS 2013
 
 * 1 de octubre de 2013, 16:18 - Activacion de las Licencias KAspersky Antivirus Colegio de la Salle BGA - Activacion de las Licencias KAspersky Antivirus Colegio de la Salle BGA[gi@lasallebga.edu.co]
@@ -30,8 +38,14 @@ MAIL RECIBOS 2013
 
 * 15 de febrero de 2013, 16:23 - NUEVA PROPUESTA ECONOMICA - https://mail.google.com/mail/u/0/?ui=2&shva=1#apps/itsecltda.net/13cdfd64ed952af8[gi@lasallebga.edu.co]
 
+DESCARGAS
 
+* http://products.kaspersky-labs.com/spanish/administrationkit/ksc10/
 
+* http://products.kaspersky-labs.com/spanish/administrationkit/ksc10/ksc10.1.249es.exe - Consola
 
+recurso compartido
+
+\\192.168.100.4\klshare\PkgInst\NetAgent_10.1.249_KES_10.2.1.23
 
 

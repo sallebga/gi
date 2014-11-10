@@ -574,3 +574,6 @@ Los pasos que se deben seguir son los siguientes:
 
 * *NOTA*: Se DEBE solo actualizar el A&#241;O ACTUAL, el a&#241;o anterior no se debe modificar.
 
+=== HABILITAR INSCRIPCIONES
+
+* inscripcion/ gestionar convocatoria - No hay necesidad de crear año electivo.

@@ -10,8 +10,48 @@ n=&#241; N=&#209;
 
 == HP
 
+* (+571)6390000 - (+571)6390604 Garantía: 018000514746 2-2-2 Empresarial
+
 * http://www.hp.com/latam/soporte/chat/
 
+Chat
+* http://h10025.www1.hp.com/ewfrf/wc/weInput?product=446490&lc=es&cc=co&tmp_weDest=https%3A%2F%2Fh10025.www1.hp.com%2Fewfrf%2Fwc%2FinstantChat%3Fproduct=446490%26lc=es%26cc=co%26QueueId=LA_es_Desktops
+
+Chat
+* https://h50203.www5.hp.com/WCLWeb/WCLNoWarranty.aspx
+
+
+Chat para Colombia
+* https://h50203.www5.hp.com/wclweb/wclentry.aspx?lc=es-MX&cc=CO
+
+Garantias
+* https://h20565.www2.hp.com/portal/site/hpsc/public/wc/home/?cc=CO&lang=es&ac.admitted=1405523259800.876444892.492883150
+
 * 5 de marzo de 2014, 22:34 - ¡Alertas sobre productos de HP para usted! - https://mail.google.com/mail/u/0/?shva=1#inbox/1449575796a0c640[gi@lasallebga.edu.co]
+
+GARANTIA
+
+Descripción del Producto: HP P2000 G3 MSA Fibre Channel Controller
+Número de Producto: AP836B
+Número de Serie: CN8250M552
+Disco Duro:Part Number: 605475-001 SPS-DRV HD 2TB 6G 7.2K 3.5 SAS P2000
+
+Este disco contiene la metadata invalida.
+(+571)6390000 - (+571)6390604 Garantía: 018000514746 2-2-2 Empresarial
+
+GARANTIA FUENTES DE LOS SERVIDORES: Casos No. 4738122947 - 4738129249 Contacto Telefonico
+
+Los servidores seriales: 2M230900LV,2M23050330, Product No.642119-001, la fuente ps1 de los servidores tiene una alerta o luz naranja en el panel de los servidores.
+
+* https://mail.google.com/mail/u/0/#inbox/148e656a8d43359e[Caso No. 4738129249]
+
+* https://mail.google.com/mail/u/0/#inbox/148e609f1bbc460d[Caso No. 4738122947]
+
+
+* https://mail.google.com/mail/u/0/#sent/148e629c00c10254[gi@lasallebga.edu.co] - Envio de fotografias.
+
+
+
+
 
 

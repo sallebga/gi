@@ -10,6 +10,20 @@ n=&#241; N=&#209;
 
 == AGENDA WEB DEL 2014
 
+PENDIENTE, ENTREGADO, POR REVISAR,REVISADO,PUBLICADO
+
+=== ORTOGRAFIA
+
+Cordial Saludo,
+
+Le solicito el favor me colaboren con la revisión del texto del artículo anexo para evitar publicar en la página del Colegio errores de redacción y ortografía. Muchas Gracias
+
+=== RECORDAR
+
+Cordial Saludo
+
+Para recordales la entrega del artículo. Muchas Gracias.
+
 === RECURSOS
 
 * http://www.picmonkey.com/
@@ -77,48 +91,221 @@ Las noticias se deben entregar en un archivo en Word que cumpla las siguientes i
   debe publicar el Departamento a no ser que coincida la fecha de la publicaci&#243;n del Departamento con la del
   desarrollo del evento macro del cronograma.
 
+--
 
-=== ARTICULOS DE LA PAGINA
+=== PENDIENTE
 
-.CONTROL DE ARTICULOS
-[options="header"]
-|===================================================================
-|DEPENDENCIAS               |FECHAS DE PUBLICACION | OBSERVACIONES | OTRAS PUBLICACIONES
-|Gesti&#243;n Directiva	    |                      |               |
-|Primera Coordinaci&#243;n  |                      |               |
-|Gesti&#243;n de la Calidad |                      |               |
-|Gesti&#243;n Educativa	    |                      |               |
-|Artes Pl&#225;sticas	    |                      |               |
-|Tercera Coordinaci&#243;n  |                      |               |
-|Sociales	            |                      |               |
-|Matem&#225;ticas	    |                      |               |
-|Cuarta Coordinaci&#243;n   |                      |               |
-|Ingles	                    |                      |               |
-|Ciencias Naturales	    |                      |               |
-|Educaci&#243;n Física	    |                      |               |
-|Espa&#241;ol	            |                      |               |
-|Educaci&#243;n en la fe    |                      |               |
-|Bienestar Estudiantil	    |                      |               |
-|Segunda Coordinaci&#243;n  |                      |               |
-|Inform&#225;tica	    |                      |               |
-|===================================================================
+Cordial Saludo
 
-Las noticias de las diferentes dependencia deben aparecer publicadas en las anteriores
-fechas no olvide que deben ser entregadas cinco d&#237;as antes para su revisi&#243;n.
+Para recordales la entrega del artículo. Muchas Gracias.
+
+=== ARTICULOS DE LA PAGINA 2014
+
+==== GESTION DIRECTIVA
+
+* JUN 3
+* AGO 4
+* SEP 15
+* OCT 27
+
+==== PRIMERA COORDINACION
+
+* JUN 3
+
+** http://www.lasallebga.edu.co/web/index.php/publicaciones/351-la-sana-convivencia[PUBLICADO]
+
+AGO 4
+
+** http://www.lasallebga.edu.co/web/index.php/publicaciones/369-principios-y-normas-de-sana-convivencia-escolar[PUBLICADO]
+
+SEP 15
+
+** http://www.lasallebga.edu.co/web/index.php/publicaciones/390-aprender-a-convivir-es-una-medicina-para-la-autoestima[PUBLICADO]
+
+OCT 27
+==== GESTION DE LA CALIDAD
+
+* JUN 3
+
+** Publicación - http://www.lasallebga.edu.co/web/index.php/publicaciones/352-retroalimentacion-del-cliente[gi@lasallebga.edu.co]
+
+ AGO 4
+
+ * http://www.lasallebga.edu.co/web/index.php/publicaciones/374-encuentro-distrital-de-jefes-de-la-calidad[PUBLICADO]
+
+ SEP 15
+
+ ** https://mail.google.com/mail/ca/u/0/#sent/148c13c871b20df6[PENDIENTE]
+
+ OCT 27
+
+==== GESTION EDUCATIVA
+
+* JUN 9
+
+** Adelantó el artículo.
+
+* AGO 11
+
+** Adelantó el artículo.
+
+* SEP 22
+
+* NOV 4
 
 
-* MENU
+==== ARTES PLASTICAS
 
-** http://www.lasallebga.edu.co/web/index.php/otros-servicios/restaurante-otros
+ JUN 9
 
-** 3 de febrero de 2014, 7:57 - https://mail.google.com/mail/u/0/?shva=1#inbox/143e9bf5369cce71[gi@lasallebga.edu.co]
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/356-la-musica-vive-en-la-salle[PUBLICADO]
 
-* LONCHERAS
+ AGO 11
 
-** 4 de febrero de 2014, 6:39 - https://mail.google.com/mail/ca/u/0/?shva=1#inbox/143fcb277b0efa5e[gi@lasallebga.edu.co]
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/378-el-arte-puede-cambiar-el-mundo[PUBLICADO]
 
+ SEP 22
 
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/382-musica-andina-colombiana-2014[PUBLICADO]
 
+ NOV 4
 
+==== TERCERA COORDINACION
 
+ JUN 9
+
+ ** http://www.lasallebga.edu.co/web/index.php/publicaciones/355-las-pautas-de-crianza-un-trabajo-de-los-padres[PUBLICADO]
+
+ AGO 11
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/363-los-habitos-alimenticios-un-termometro-para-medir-que-buenos-padres-somos[PUBLICADO]
+
+ SEP 22
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/389-que-tipos-de-padres-somos[PUBLICADO]
+
+ NOV 4
+
+==== SOCIALES
+ JUL  8
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/357-a-proposito-de-la-seleccion[PUBLICADO]
+
+ AGO 19
+
+* https://mail.google.com/mail/u/0/?shva=1#sent/1480d7e37be31157[PENDIENTE]
+
+ SEP 29
+
+ NOV 10
+
+==== MATEMATICAS
+JUL 8
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/360-matematica-didactica[PUBLICADO]
+
+AGO 19
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/367-olimpiadas-regionales-de-matematicas-primaria-una-oportunidad-para-crecer[PUBLICADO]
+
+SEP 29
+NOV 10
+
+==== CUARTA COORDINACION
+
+JUL 8
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/358-un-reto-para-las-familias-e-instituciones-2014[PUBLICADO]
+
+AGO 19
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/370-que-aprende-el-nino-en-edad-preescolar-en-casa[PUBLICADO]
+
+SEP 29
+NOV 10
+
+==== INGLES
+JUL 14
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/366-i-hear-and-i-forget-i-see-and-i-remember-i-do-and-i-understand[PUBLICADO]
+
+AGO 25
+
+* https://mail.google.com/mail/u/0/#inbox/14831845891c9f6a[POR PUBLICAR]
+
+OCT 6
+NOV 18
+==== CIENCIAS NATURALES
+JUL 14
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/364-sabias-de-la-existencia-de-la-computara-cuantica[PUBLICADO]
+
+AGO 25
+
+* https://mail.google.com/mail/u/0/#inbox/14880421f78d4c3f[POR REVISAR]
+
+OCT 6
+NOV 18
+==== EDUCACION FISICA
+JUL 14
+AGO 25
+OCT 6
+NOV 18
+==== ESPAÑOL
+JUL 21
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/365-me-respeto-cuando-te-respeto[PUBLICADO]
+
+SEP 1
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/378-el-arte-puede-cambiar-el-mundo[PUBLICADO]
+
+OCT 14
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/384-leer-en-familia-el-mejor-plan[PUBLICADO]
+
+NOV 24
+==== EDUCACION EN LA FE
+JUL 21
+SEP 1
+OCT 14
+NOV 24
+==== PSICOLOGIA BACHILLERATO
+JUL 21
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/371-su-esfuerzo-fue-recompensado[PUBLICADO]
+
+SEP 1
+
+OCT 14
+NOV 24
+
+==== SEGUNDA COORDINACION
+JUL 28
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/372-la-importancia-de-nuestras-zonas-verdes[PUBLICADO]
+
+SEP 8
+
+OCT 20
+NOV 24
+
+==== INFORMATICA
+JUL 28
+
+* https://mail.google.com/mail/u/0/?shva=1#sent/1480d83ef39ef2af[PENDIENTE]
+
+SEP 8
+
+OCT 20
+NOV 24
+==== PSICOLOGIA PRIMARIA
+JUL 28
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/361-la-educacion-de-los-hijos-ardua-labor-con-recompensa-sin-igual[PUBLICADO]
+
+SEP 8
+
+OCT 20
+NOV 24
 

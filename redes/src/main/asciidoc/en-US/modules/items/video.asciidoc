@@ -1,0 +1,80 @@
+[[items-racks]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== ORGANIZACION DE LA RED
+
+== VLAN
+
+=== VLAN 100 - SERVIDORES Y SWICHES
+
+=== VLAN 106 - VIDEO-IP
+
+
+== RACKS
+
+=== RACK No.1: CENTRO DE DATOS EDIFICIO NUEVO
+
+.http://192.168.100.110/[SWICHE HP A5500-48G]
+[options="header"]
+|==============================================
+|PUERTOS  |UBICACION     |VLAN                |
+|R1-SW1-26|DVR-VIDEO     |VIDEO-IP            |
+|R1-SW1-27|DVR-VIDEO     |VIDEO-IP            |
+
+=== RACK No.2: SALA INFORMATICA No.2
+
+.http://192.168.100.107/[SWICHE HP 2530-48G]
+[options="header"]
+|==============================================
+|PUERTOS  |UBICACION     |VLAN                |
+|R2-SW1-44|    CAMARA    |VIDEO-IP            |
+|==============================================
+
+
+=== RACK No.5: OFICINA GESTION EDUCATIVA
+
+.SWICHE HP 2530-24G
+[options="header"]
+|==============================================
+|PUERTOS  |UBICACION     |VLAN                |
+|R1-SW1-15|PORTERIA      |VIDEO-IP            |
+|R1-SW1-16|CANCHA        |VIDEO-IP            |
+|==============================================
+
+=== RACK No.6 PREESCOLAR
+
+.http://192.168.100.101/[SWICHE HP 2530-24G]
+[options="header"]
+|==============================================
+|PUERTOS  |UBICACION     |VLAN                |
+|R1-SW1-20|CAMARA        |VIDEO-IP            |
+|==============================================
+
+
+
+=== RACK No.9 GI
+
+.SWICHE HP 2530-24G
+[options="header"]
+|==============================================
+|PUERTOS  |UBICACION     |VLAN                |
+|R9-SW1-20|CAMARA        |VIDEO-IP            |
+|==============================================
+
+=== RACK No.13 ADMINISTRACION
+
+.SWICHE HP 2530-24G
+[options="header"]
+|===============================================
+|PUERTOS   |UBICACION     |VLAN                |
+|R13-SW1-15|              |VIDEO-IP            |
+|R13-SW1-16|              |VIDEO-IP            |
+|===============================================
+
