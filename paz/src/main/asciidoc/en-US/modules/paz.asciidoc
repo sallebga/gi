@@ -26,9 +26,10 @@ Jefes de Dependencias de Paz y Salvo.
 
 === ASPECTOS GENERALES
 
-* Por defecto todos los estudiantes se encuentran a Paz y Salvo.
+* Por procedimiento se *DEBE* poner todos los estudiantes a Paz y Salvo y despu&#233;s registrar los estudiantes que presentan deudas. Para registrar todos 
+los estudiantes a Paz y Salvo se debe hacer clic en el cuadro marcado con el No.1 ubicado debajo de la dependencia.
 
-* Solo se deben registrar los estudiantes que presenten deudas con la Instituci&#243;n.
+* A todos los estudiantes se le debe registrar si se encuenta al D&#237;a o Deuda.
 
 * Si un estudiante se pone al d&#237;a con la deuda registrada, se debe poner a Paz y Salvo en el sistema.
 
@@ -51,7 +52,7 @@ TIP:
     El estado en color verde signfica que el estudiante se encuentra a Paz y Salvo
 
 TIP:
-    Si se desea que todo el curso presente el mismo estado hacer clic en el cuadro marcado con el No.1 ubicado debajo de la dependencia.
+    Para registrar que todo el curso presente el mismo estado hacer clic en el cuadro marcado con el No.1 ubicado debajo de la dependencia.
 
 * Para registrar la deuda o poner a paz y salvo se da [click] sobre el cuadro del estudiante y aparecer&#225; la siguiente imagen:
 
