@@ -13,7 +13,7 @@ n=&#241; N=&#209;
 https://github.com/sallebga/gnosoft/tree/master/src/main/asciidoc/en-US/modules[LINK]
 
 
-=== [[ELECCIONES]]ELECCIONES
+. [[ELECCIONES]]ELECCIONES
 
 * *ROL:* ELECCIONES SOCIALES: Gestionar Candidatos, Resultados Elecciones, Generar Reporte
 

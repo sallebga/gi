@@ -1,0 +1,98 @@
+[[gnosoft-informes]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== INFORMES
+
+. *MODULO ACADEMICO DOCENTE:*
+
+* *LISTAS DE CLASE:* [Acad&#233;mico docente][Generar planilla de seguimiento]
+
+* *PLANILLA DE CALIFICACIONES:* [Acad&#233;mico docente][Generar planilla de Calificaciones]
+
+* *INFORME DE ESTANDARES NO EVIDENCIADOS:* [Acad&#233;mico docente][Estandares no evidenciados]
+  Informe de Estandares no evidenciados(pdf)
+
+* *ESTADISTICAS POR MATERIA O AREA:* [Acad&#233;mico docente][Generar consolidado de calificaciones]:
+  Informe Consolidado Calificaciones Curso o informe consolidado de &#225;res(pdf)
+
+* *LISTADO DE ESTANDARES:*
+  Pendiente
+
+. *INFORMES PARA LOS DOCENTES:*
+
+* *ASIGNACION ACADEMICA:* [Acad&#233;mico administrador][Consultas y reportes][Docente][Consultar asignatura docente] Falta total horas
+
+* *LISTAS DE CLASE:* [Acad&#233;mico administrador][Consultas y reportes][Reportes y planillas][Generar planilla de seguimiento]
+
+* *PLANILLA DE CALIFICACIONES:* [Acad&#233;mico administrador][Consultas y reportes][Reportes y planillas][Generar planilla de Calificaciones]
+
+
+. *INFORMES ESTADISTICOS:*
+
+* *ESTADISTICAS POR MATERIA:* [Acad&#233;mico administrador][Consultas y reportes][Consolidados][Consolidado calificaci&#243;n por curso]
+  Informe Consolidado Calificaciones Curso(pdf)
+
+* *ESTADISTICAS POR AREAS:* [Acad&#233;mico administrador][Consultas y reportes][Consolidados][Generar consolidado de areas]
+  Informe Consolidado de Areas(pdf)
+
+* *ESTADISTICAS GRAFICAS POR MATERIA:* [Acad&#233;mico administrador][Consultas y reportes][Reportes estad&#237;sticos][Rendimiento curso por asignatura]
+  Informe Desempe&#241;os por asignaturas(pdf).
+  Nota: Para que salgan los cursos no acad&#233;micos (Optativas) se debe generar el reporte seleccionando el grado y no un curso.
+
+* *ESTADISTICAS GRAFICAS POR AREAS:* [Acad&#233;mico administrador][Consultas y reportes][Reportes estad&#237;sticos][Rendimiento &#225;rea por curso]
+  Informe Rendimiento curso por asignatura(pdf).
+
+
+. *OTROS INFORMES ACADEMICOS:*
+
+* *LISTAS DE CLASE POR CURSO GENERICAS:* [Academico administrador][Consultas y reportes][Estudiante][Generar listado de estudiantes]
+  Se genera por cursos.
+
+* *INFORME DE ESTANDARES NO EVIDENCIADOS:* [Acad&#233;mico administrador][Calificaciones][Estandares no evidenciados]
+  Informe de Estandares no evidenciados(pdf)
+
+* *INFORME ESTUDIANTES MISMO ESTANDAR PERDIDO:* [Acad&#233;mico administrador][Consultas y reportes][Generar reportes][CALIFICACIONES]
+  [Informe estudiantes mismo est&#225;ndar perdido](excel)
+
+* *INFORME DE RETIRADOS:* [Acad&#233;mico administrador][Consultas y reportes][Estudiante][Consultar mat&#237;cula cancelada]
+
+
+. *INFORMES DEL CIERRE ACADEMICO:*
+
+* *ACTAS DE PROMOCION:* [Acad&#233;mico administrador][Consultas y reportes][Generar reportes][Cierre acad&#233;mico]
+  Actas de promoci&#243;n
+
+* *LISTADO DE ESTUDIANTES NO PROMOVIDOS:* [Acad&#233;mico administrador][Consultas y reportes][Generar reportes][Cierre acad&#233;mico]
+  Listado de estudiantes no promovidos
+
+
+. *BOLETINES E INFORME FINAL:*
+
+* *BOLETIN:* [Acad&#233;mico administrador][Consultas y reportes][Consolidados][Generar boletines]
+
+* *INFORME FINAL:* [Acad&#233;mico administrador][Consultas y reportes][Consolidados][Generar informe final] o [Reporte Final]
+
+* *CERTIFICADO DE NOTAS:* [Acad&#233;mico administrador][Consultas y reportes][Consolidados][Reporte Final]
+
+* *LIBRO FINAL:* [Acad&#233;mico administrador][Consultas y reportes][Consolidados][Reporte Final]
+
+
+. *OTROS INFORMES:*
+
+* *LISTADO DE PADRES DE FAMILIA:* [Acad&#233;mico administrador][Consultas y reportes][Generar reportes]ACUDIENTE[Listado de Padres de Familia]
+  Relaciona el parentesco y el mail entre otros.
+
+* *INFORME CON INFORMACION DEL ESTUDIANTE:* [Acad&#233;mico administrador][Consultas y reportes][Estudiante][Generar informaci&#243;n del estudiante]
+
+. *INFORMES PARA LOS CARNETS:*
+
+* *ESTUDIANTES:* [Acad&#233;mico administrador][Consultas y reportes][Estudiante][Generar informacion del estudiante]
+
+

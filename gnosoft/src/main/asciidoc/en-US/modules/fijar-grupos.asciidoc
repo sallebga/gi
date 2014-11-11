@@ -8,12 +8,12 @@ A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
 n=&#241; N=&#209;
 ////
 
-== GNOSOFT
+== GNOSOFT No.2
 
 https://github.com/sallebga/gnosoft/tree/master/src/main/asciidoc/en-US/modules[LINK]
 
 
-=== [[ASIGNACION DE CURSOS A LOS ESTUDIANTES]]ASIGNACION DE CURSOS A LOS ESTUDIANTES
+. [[ASIGNACION DE CURSOS A LOS ESTUDIANTES]]ASIGNACION DE CURSOS A LOS ESTUDIANTES
 
 * *GESTIONAR CURSOS:* [Acad&#233;mico administrador][Estructura Curricular][Gestionar Curso]
 
@@ -21,7 +21,7 @@ https://github.com/sallebga/gnosoft/tree/master/src/main/asciidoc/en-US/modules[
 
 ** Definir los titulares de curso
 
-** Asignar los coordinadores a Curso:[Academico administrador][Carga Académica][Asignar Coordinadores a Cursos]
+** Asignar los coordinadores a Curso:[Academico administrador][Carga Acad&#233;mica][Asignar Coordinadores a Cursos]
 
 ** Actualizar los cursos de las materias selectivas.
 
@@ -47,15 +47,15 @@ https://github.com/sallebga/gnosoft/tree/master/src/main/asciidoc/en-US/modules[
 
 ** Estudiantes y acudientes
 
-** Que se enteguen a los padres de familia en la reunión general de inicio de año.
+** Que se enteguen a los padres de familia en la reuni&#243;n general de inicio de a&#241;o.
 
-** Programar la capacitación de los padres de familia nuevos
+** Programar la capacitaci&#243;n de los padres de familia nuevos
 
 ** Cuadrar los grupos de los personeros
 
 ** PENDIENTES
 
-* Actualizar el código del buzon de quejas
+* Actualizar el c&#243;digo del buzon de quejas
 
 
 

@@ -1,0 +1,21 @@
+[[gnosoft-requerimientos]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== REQUERIMIENTOS
+
+Habilitar el puerto: 5432
+
+. *PENDIENTES:*
+
+* 10 de noviembre de 2014, 11:51 - Cambio del Estado de la Queja, M&#243;dulo de Encuestas no separa p&#225;rrafos con punto aparte - https://mail.google.com/mail/u/0/?shva=1#inbox/1499a9e3332ccfe5[gi@lasallebga.edu.co]
+
+* 17 de octubre de 2014, 14:33 - Requerimiento para la mejora del M&#243;dulo PRE-ICFES - https://mail.google.com/mail/u/0/?pli=1#inbox/1491f99b482ad624[gi@lasallebga.edu.co]
+
+. *CERRADOS:*

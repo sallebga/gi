@@ -8,13 +8,13 @@ A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
 n=&#241; N=&#209;
 ////
 
-== GNOSOFTojo
+== GNOSOFT
 
 https://github.com/sallebga/gnosoft/tree/master/src/main/asciidoc/en-US/modules[LINK]
 
 ////
 
-=== [[VALIDAR SIMA vs GNOSOFT]]VALIDAR SIMA vs GNOSOFT
+. [[VALIDAR SIMA vs GNOSOFT]]VALIDAR SIMA vs GNOSOFT
 
 * Generar el reporte: *[Acad&#233;mico administrador][Consultas y reportes][Generar reportes][MATR&#205;CULA][Estudiantes Matriculados]*
 
@@ -74,11 +74,12 @@ https://github.com/sallebga/gnosoft/tree/master/src/main/asciidoc/en-US/modules[
 ////
 
 
-=== [[ASIGNACION DE CURSOS A LOS ESTUDIANTES]]ASIGNACION DE CURSOS A LOS ESTUDIANTES
+. [[ASIGNACION DE CURSOS A LOS ESTUDIANTESS]]*ASIGNACION DE CURSOS A LOS ESTUDIANTES*
 
 Pendiente
 
-=== PENDIENTE
+
+. *PENDIENTE*
 
 ** Reemplazar los campos:
 
@@ -128,7 +129,8 @@ Pendiente
 
 ** appendizar los registros de todos los maestros del sima
 
-=== PASOS
+
+. *PASOS*
 
 * DESCARGAR LOS ESTUDIANTES:[Academico administrador][Consultas y reportes][Generar reportes][Matricula][Estudiantes Matriculados]  este mismo archivo se puede utilizar para actualizar los datos.
 
@@ -148,7 +150,8 @@ Pendiente
 
 * NOTA: Se creo el archivo migrar.prg y se grabo en \simaclip.v52\simacont\f para automatizar este proceso.
 
-=== CAMPOS DEL MAESTRO DE ALUMNOS
+
+. *CAMPOS DEL MAESTRO DE ALUMNOS*
 
 * *cCodigoEst*=>Codigo del Estudiante
 
@@ -207,7 +210,7 @@ Pendiente
 * *cGrupRhEst*=>Grupo Sanguineo
 
 
-===  INFORMES SOLICITADOS PARA MIGRAR DATOS
+. *INFORMES SOLICITADOS PARA MIGRAR DATOS*
 
 * [Academico administrador][Consultas y reportes][Generar reportes][ESTUDIANTE]Reporte Estudiantes Activos y Retirados
 
@@ -239,7 +242,7 @@ Pendiente
 **** Garantizar que al convertirlo sea de tipo caracter esto se logra garantizando que el primer registro no sea todo n&#250;merico
 
 
-=== [[GRABACION DE LA ESTRUCTURA CURRICULAR]]GRABACION DE LA ESTRUCTURA CURRICULAR
+. *[[GRABACION DE LA ESTRUCTURA CURRICULAR]]GRABACION DE LA ESTRUCTURA CURRICULAR*
 
 * *COPIAR DATOS:* [Acad&#233;mico administrador][Herramientas][Copiar Datos]
 
@@ -556,7 +559,7 @@ GQ:
 63488659 - CAVANZO CUEVAS ROSA MARIA
 
 
-=== [[GRABACION DE LA ASIGNACION ACADEMICA]] GRABACION DE LA ASIGNACION ACADEMICA
+. *[[GRABACION DE LA ASIGNACION ACADEMICA]] GRABACION DE LA ASIGNACION ACADEMICA*
 
 El objetivo de esta actividad, es grabar en el sistema la asignaci&#243;n acad&#233;mica de cada profersor.
 
@@ -574,6 +577,7 @@ Los pasos que se deben seguir son los siguientes:
 
 * *NOTA*: Se DEBE solo actualizar el A&#241;O ACTUAL, el a&#241;o anterior no se debe modificar.
 
-=== HABILITAR INSCRIPCIONES
 
-* inscripcion/ gestionar convocatoria - No hay necesidad de crear año electivo.
+. *HABILITAR INSCRIPCIONES*
+
+* inscripcion/ gestionar convocatoria - No hay necesidad de crear a&#241;o electivo.

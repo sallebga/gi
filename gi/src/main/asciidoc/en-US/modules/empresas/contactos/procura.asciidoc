@@ -27,7 +27,7 @@ n=&#241; N=&#209;
 |JUN|03/06/2014	|17/06/2014|26/06/2013|11/07/2014 |13/08/2014|31/07/2014 |https://mail.google.com/mail/u/0/?shva=1#sent/147f4d8071283c15[gi@lasallebga.edu.co]
 |JUL|01/07/2014	|16/07/2014|30/07/2013|11/08/2014 |15/09/2014|31/08/2014 |https://mail.google.com/mail/u/0/?shva=1#sent/148a809000109369[gi@lasallebga.edu.co]
 |AGO|01/08/2014	|15/08/2014|28/08/2013|12/09/2014 |14/10/2014|30/09/2014 |https://mail.google.com/mail/u/0/?shva=1#sent/1492ddf9cd226c1c[gi@lasallebga.edu.co]
-|SEP|01/09/2014	|15/09/2014|29/09/2013|10/10/2014 |12/11/2014|31/10/2014 |[gi@lasallebga.edu.co]
+|SEP|01/09/2014	|15/09/2014|29/09/2013|10/10/2014 |12/11/2014|31/10/2014 |https://mail.google.com/mail/u/0/?shva=1#sent/1499a94d8223becc[gi@lasallebga.edu.co]
 |OCT|01/10/2014	|16/10/2014|30/10/2013|11/11/2014 |12/12/2014|30/11/2014 |[gi@lasallebga.edu.co]
 |NOV|01/11/2014	|14/11/2014|27/11/2013|10/12/2014 |15/01/2014|31/12/2014 |[gi@lasallebga.edu.co]
 |DIC|		|          |	      |14/01/2015 |02/??/2015|31/01/2015 |[gi@lasallebga.edu.co]

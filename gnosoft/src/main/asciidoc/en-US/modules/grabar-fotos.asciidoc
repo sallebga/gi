@@ -1,0 +1,25 @@
+[[gnosoft-grabar-fotos]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== GRAGAR FOTOS DE LOS ESTUDIANTES
+
+. *OPCIONES*
+
+* [Acad&#233;mico administrador][Admisi&#243;n][Asignar Foto Estudiante] Se agregan las fotos por cursos
+
+* [Acad&#233;mico administrador][Consultas y Reportes][Generar Reportes][Estudiante][Estudiante sin Foto]
+
+* [Acad&#233;mico administrador][Consultas y Reportes][Estudiante][Generar Mosaico Estudiante]
+
+. *NOTAS:*
+
+* http://www.lasallebga.edu.co/sgc/gi/software/resize.zip[Rezise] utilidad para cambiar el tama&#241;o de las imagenes
+
+* Tama&#241;o foto 3x4 = 118 x 157

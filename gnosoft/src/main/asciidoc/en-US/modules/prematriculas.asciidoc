@@ -1,0 +1,100 @@
+[[gnosoft-prematriculas]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== PREMATRICULAS
+
+. *RECURSOS:*
+
+* FORMATO DE PREMATRICULA - Formato por defecto de GNOSOFT
+
+. *ACTIVIDADES A REALIZAR:*
+
+1. HABILITAR EL A&#209;O ELECTIVO
+
+   [Acad&#233;mico administrador][Estructura curricular][Gestionar A&#241;o electivo] -> Se define el a&#241;o y la fecha.
+
+1. HABILITAR LAS FECHAS DE LA PREMATRICULA
+
+   [Acad&#233;mico administrador][Matr&#237;cula][Gestionar fecha de Prematr&#237;cula] -> Se define el a&#241;o y la fecha.
+
+1. HABILITAR LA OPCION A ROL
+
+   [General][Asignar Funcionalidades a Rol][ACUDIENTE o ACUDIENTE MOROSO][Acad&#233;mico acudiente][Prematricular estudiante]
+
+4. REALIZAR LA PREMATRICULA
+
+   [Acad&#233;mico administrador][Matr&#237;cula][Prematricular el estudiante] --- Por Acad&#233;mico administrador
+   [Acad&#233;mico acudiente] [Prematricular el Estudiante]               --- Por Acad&#233;mico acudiente.
+
+1.LISTADOS DE PREMATRICULAS
+
+[Acad&#233;mico administrador][Consultas y reportes][Generar reportes][MATRICULA][Listado Estudiantes seg&#250;n prematr&#237;cula]
+
+[Acad&#233;mico administrador][Consultas y reportes][Generar reportes][MATRICULA][Listado de estudiantes sin prematricula]
+
+[Acad&#233;mico administrador][Consultas y reportes][Consolidados][Consolidado de prematricula]
+
+[Acad&#233;mico administrador][Consultas y reportes][Generar reportes][ESTUDIANTE][Cuentas de Usuario Estudiantes y Acudientes]
+ - Se debe generar para nuevos y antiguos
+
+1. BLOQUEAR PREMATRICULA DEL ESTUDIANTE
+
+[Acad&#233;mico administrador][Matr&#237;cula][Bloquear Prematricula Estudiante] -- Se debe seleccionar el a&#241;o electivo actual
+
+
+. *AVISO PARA EL INFORMATIVO*
+
+Se&#241;ores Padres de Familia para comunicarles que a partir del lunes 20 de octubre hasta el 31 de octubre,
+ser&#225; habilitado el sistema para realizar las PRE Matr&#237;cula a&#241;o 2015.
+
+
+. *CORREO PARA ADMISIONES Y MATRICULAS*
+
+Correo para los padres enviado por Gnosoft por el usuario de Admisiones y Matriculas:
+
+Cordial Saludo,
+
+Para el proceso de PreMatr&#237;cula se deben tener presente los siguientes pasos:
+
+PASOS PARA REALIZAR LA PREMATRICULA
+
+PARA PADRES DE FAMILIA - ACUDIENTES
+
+1. Ingresar a Gnosoft
+2. Selecionar la opci&#243;n: [Acad&#233;mico acudiente][Prematricular Estudiante]
+3. Realizar la prematr&#237;cula de cada uno de sus hijos:
+   1.Seleccionar SI/NO para realizar la prematricula
+   2.Actualizar los datos personales
+   3.Presionar [Registrar] para grabar la prematr&#237;cula
+   4.El sistema genera el formulario para separaci&#243;n de cupo del a&#241;o electivo.
+
+POR LA OPCION DEL ADMINISTRADOR
+
+1.Ingresar a Gnosoft
+2.Selecionar la opci&#243;n: [Acad&#233;mico administrador][Matr&#237;cula][Prematricular el estudiante]
+3.Buscar el estudiante a Prematicular
+4.Realizar la prematricula del estudiante.
+
+. *BLOQUEAR PREMATRICULA DEL ESTUDIANTE*
+
+1.Ingresar a Gnosoft
+2.Selecionar la opci&#243;n: [Acad&#233;mico administrador][Matr&#237;cula][Bloquear Prematricula Estudiante]
+3.Selecionar el a&#241;o electivo actual.
+4.Selecionar el el grado y curso
+5.Selecionar los estudiantes a los cuales se va a bloquear la Prematricula.
+6.Selecionar [Registrar] para grabar los cambios.
+
+. *INFORMES DE LAS PREMATRICULAS*
+
+[Acad&#233;mico administrador][Consultas y reportes][Generar reportes][MATRICULA][Listado Estudiantes seg&#250;n prematr&#237;cula]
+
+[Acad&#233;mico administrador][Consultas y reportes][Generar reportes][MATRICULA][Listado de estudiantes sin prematricula]
+
+[Acad&#233;mico administrador][Consultas y reportes][Consolidados][Consolidado de prematricula]

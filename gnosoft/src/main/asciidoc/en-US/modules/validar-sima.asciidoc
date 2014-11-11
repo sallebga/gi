@@ -8,12 +8,8 @@ A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
 n=&#241; N=&#209;
 ////
 
-== GNOSOFT
+== *[[VALIDAR SIMA vs GNOSOFT]]VALIDAR SIMA vs GNOSOFT*
 
-https://github.com/sallebga/gnosoft/tree/master/src/main/asciidoc/en-US/modules[LINK]
-
-
-=== [[VALIDAR SIMA vs GNOSOFT]]VALIDAR SIMA vs GNOSOFT ojo
 
 * Generar el reporte: *[Acad&#233;mico administrador][Consultas y reportes][Generar reportes][MATR&#205;CULA][Estudiantes Matriculados]*
 

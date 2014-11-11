@@ -1,0 +1,54 @@
+[[gnosoft-periodo]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== ACADEMICO DOCENTE
+
+. *INGRESO AL SISTEMA ACADEMICO*
+
+.. Se accesa la p&#225;gina del Colegio: www.lasallebga.edu.co
+
+.. En los men&#250;s de la parte izquierda se encuentra la opci&#243;n de [SALLE VIRTUAL]
+
+.. Si se encuentra por fuera del Colegio se escoge la opci&#243;n: [Ingresar]
+
+.. Si se encuentra en el Colegio se escoge la opci&#243;n: [Ingresar Localmente]. Esta opci&#243;n es m&#225;s r&#225;pida
+
+.. Se ingresa el nombre de la cuenta de usuario y la contrase&#241;a que se le asigno
+
+
+. *DIGITACION DE LAS NOTAS POR PARTE DEL PROFESOR*
+
+* [Acad&#233;mico docente][Calificar estudiante]
+  En esta opci&#243;n se debe seleccionar el A&#241;o, Curso, Asignatura y el periodo
+  Antes de empezar a digitar verifique que los datos seleccionados sean los correctos
+
+. *ESTANDARES ACTITUDINALES*
+
+* Cada est&#225;ndar actitudinal consta de 3 Observaciones NEGATIVAS
+
+* La observaciones que se DEBEN digitar son solamente las negativas para lo cual se selecciona con el mouse dando doble click y se abre
+una ventana en la cual se debe digitar:
+
+.. La fecha de la observaci&#243;n
+
+.. La descripci&#243;n negativa de la observaci&#243;n.
+
+* Para grabar se presiona el bot&#243;n [Agregar]
+
+* Para eliminar la observaci&#243;n se presiona el bot&#243;n [Quitar]
+
+* Para abandonar sin realizar ning&#250;n cambio se presiona del bot&#243;n [Cerrar]
+
+* Para perder el est&#225;ndar se requiere de 2 observaciones negativas
+
+
+. *ESTANDARES COGNITIVOS*
+
+* Cada est&#225;ndar cognitivo consta de 3 eventos: 1=30% 2=30% 3=40%

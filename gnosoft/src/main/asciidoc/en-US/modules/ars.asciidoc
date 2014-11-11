@@ -1,0 +1,56 @@
+[[gnosoft-ars]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== PUBLICACI&#211;N WEB DE LOS TRABAJOS DE REFUERZO Y SUPERACI&#211;N - ARS
+
+. *RECURSOS:*
+
+* A&#209;O: 2014 - D:\GI\procesos\03-GE\2014\ARS - http://lasallebga.edu.co/2014/ge/ars/
+
+* A&#209;O: 2013 - D:\GI\procesos\03-GE\2013\ARS - http://lasallebga.edu.co/2013/ge/ars/
+
+* http://www.lasallebga.edu.co/web/images/nico/NicoGilberto.zip
+
+. *ACTIVIDADES:*
+
+* Descargar los archivos enviados por correo de los planes de trabajo
+
+* Ubicarse en el directorio de los archivos
+
+* Enviar la estructura de directorios con sus archivos a un archivo plano: dir *.* /s >z.txt
+
+* Copiar el archivo para la validaci&#243;n de las asignaturas del a&#241;o: validar-asignaturas-a&#241;o.html - https://mail.google.com/mail/ca/u/0/?shva=1#inbox/13f5216bc970e4ad[gi@lasallebga.edu.co]
+
+* Sacar una copia del archivo: validar-asignaturas-a&#241;o.html  con el nombre: validar-a&#241;o-Pn.html
+
+* Abrir los archivos: z.txt y validar-a&#241;o-Pn.html y revisar materia por materia.
+
+* Sacar una copia del archivo: validar-a&#241;o-Pn.html con el nombre: validar-a&#241;o-Pn-web.html
+
+* Validar el periodo de la publicaci&#243;n
+
+. *2014*
+
+*  8 de noviembre de 2014, 21:18 - ACTIVIDADES DE REFUERZO Y SUPERACI&#211;N IV PERIODO 2014 - https://mail.google.com/mail/u/0/#inbox/1499258091ee2061[gi@lasallebga.edu.co]
+
+* [PRIMER PERIODO] Buscar en la p&#225;gina: PLANES DE TRABAJO DEL 2014. PRIMER PERIODO
+
+. *2013*
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/325-planes-de-trabajo-del-2013-cuarto-periodo[CUARTA PERIODO]
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/311-planes-de-trabajo-del-2013-tercer-periodo[TERCER PERIODO]
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/290-planes-de-trabajo-del-2013-segundo-periodo[SEGUNDO PERIODO]
+
+* http://www.lasallebga.edu.co/web/index.php/publicaciones/270-planes-de-trabajo-del-2013-primer-periodo[PRIMER PERIODO]
+
+
+

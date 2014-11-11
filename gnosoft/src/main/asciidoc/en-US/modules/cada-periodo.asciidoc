@@ -1,0 +1,90 @@
+[[gnosoft-periodo]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+<<Home,Home>>
+
+[[ACTIVIDADES PARA CADA PERIODO]]
+== ACTIVIDADES PARA CADA PERIODO
+
+. *HABILITAR LAS FECHAS DEL PERIODO*
+
+* [Acad&#233;mico administrador][Estructura Curricular][Gestionar periodo acad&#233;mico]
+  Seleccionar A&#241;o y Nivel educativo, definir la fecha inicial y final del periodo y la fecha inicial y final de digitaci&#243;n.
+
+. *HABILIRAR LA FECHA Y HORA DE DIGITACION*
+
+* [Acad&#233;mico administrador][Estructura Curricular][Gestionar Periodo Acad&#233;mico]
+   Definir la fecha de Inicio y final del periodo y calificaci&#243;n
+
+* [General][Habilitar funcionalidades a Rol][DOCENTE][Acad&#233;mico docente][Calificar Estudiante]
+  Se definen la fecha inicial y final, hora inicial y final en que comienza y termina la digitaci&#243;n.
+
+
+. *HABILITAR LA FECHA Y HORA DE LAS RECUPERACIONES*
+
+* [Acad&#233;mico administrador][Calificaciones][Gestionar Fechas de Recuperaci&#243;n por periodo]
+
+* [General][Habilitar Funcionalidad a Rol]DOCENTE[Acad&#233;mico Docente][Calificar Recuperaci&#243;n a Estudiantes][Recuperaci&#243;n Por Periodo]
+  Se Define la fecha inicial y final con la hora
+
+
+. *QUINTO PERIODO = NOTAS FINALES*
+
+
+.. *ACTIVIDADES*
+
+... Recalcular notas de asignaturas para todos los periodos: *[Acad&#233;mico administrador][Calificaciones][Recalcular Calificaci&#243;n Asignatura]*
+
+... Recalcular notas de &#225;reas para todos los periodos: *[Acad&#233;mico administrador][Calificaciones][Recalcular calificaci&#243;n &#225;reas]*
+
+... Cargar las notas finales: *[Acad&#233;mico administrador][Calificaciones][Cargar notas finales]*
+    Se puede ejecutar varias veces y antes cierre acad&#233;mico.
+    Esta opci&#243;n realiz&#225; el c&#225;lculo de la nota final de acuerdo al ICEC hay que solicitar la ejecuci&#243;n a Gnosoft.
+    PENDIENTE POR HABILITAR LA OPCION POR GNOSOFT 2014?
+
+... Cierre acad&#233;mico autom&#225;tico: *[Acad&#233;mico administrador][Calificaciones][Cierre Acad&#233;mico Autom&#225;tico]*
+    Define la promoci&#243;n y los pasa al siguiente grado.
+
+
+.. *NOTAS*
+
+* El quinto periodo se debe crear para que la nota calculada se inserte en dicho periodo y son las que toma como notas finales
+
+* Las fechas de inicio y fin del quinto periodo no interesa solo se necesita crear el quinto periodo.
+
+* Por gestionar estudiante queda reflejado el grado siguiente
+
+* El curso se mantiene hasta que se haga la nueva matricula.
+
+
+.. *INFORMES:*
+
+... Actas de promoci&#243;n: *[Acad&#233;mico administrador][Consultas y reportes][Generar reportes][Cierre acad&#233;mico]* Actas de promoci&#243;n
+
+... Listado de estudiantes no promovidos: *[Acad&#233;mico administrador][Consultas y reportes][Generar reportes][Cierre acad&#233;mico]* Listado de estudiantes no promovidos
+
+... Impresi&#243;n del informe final: *[Acad&#233;mico administrador][Consolidados][Generar Informe Final]*
+
+... Impresi&#243;n del libro final:  *[Acad&#233;mico administrador][Consolidados][Reporte Final] Tipo de reporte: Libro final*
+
+... Impresi&#243;n del Certificado: *[Acad&#233;mico administrador][Consolidados][Reporte Final]* Tipo de reporte: Certificado Final
+
+
+.. *INFORMES PARA VALIDACIONES*
+
+... *[Acad&#233;mico administrador][Calificaciones][Estandares no evidenciados]*
+
+... *[Acad&#233;mico administrador][Consolidados][Consultas y Reportes][Generar Consolidado &#193;reas]*
+
+... *[Acad&#233;mico administrador][Consolidados][Consultas y Reportes][Generar Boletines]*
+
+... *[Acad&#233;mico administrador][Consolidados][Consultas y Reportes][Generar Informe Final]*
+
+... *[Acad&#233;mico administrador][Consolidados][Consultas y Reportes][Reporte Final] - Libro final*
