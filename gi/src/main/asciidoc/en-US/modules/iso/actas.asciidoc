@@ -1,0 +1,244 @@
+[[iso]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+=== SEGUIMIENTO ISO
+
+==== ACTAS DEL COMITE DE CALIDAD
+
+* Acta No.11 -	7 de noviembre de 2014, 13:32 - https://mail.google.com/mail/u/0/?pli=1#apps/gq%40lasallebga.edu.co/n50/1498b87598369f29[gi@lasallebga.edu.co]
+
+* Acta No.11 - 10 de diciembre de 2014, 15:33 - https://mail.google.com/mail/u/0/?pli=1#inbox/14a35e7d3e7c9af2[gi@lasallebga.edu.co]
+
+Nelson Agapito Fernández Gómez manifestó, que tiene una observación, 
+está mirando el formato que si se llegara a implementar, sugiere que sería semestral y no trimestral, el formato entre más corto sea es mejor, 
+hay veces que es más complejo y  se convierte en un Stress; cuando se implementó el sistema nosotros nos llenamos de formatos y era más el Stress, 
+que el mismo trabajo; en sí hay que mirar esa situación y  dar el toque de flexibilidad me parece muy bien, 
+durante esta rectoría ha sido una  constante la revisión de los procesos, aquí se da  la atención de los procesos y aquí nosotros damos el 
+informe, inclusive como vemos en las auditorías lo que se hace y se deja por escrito es lo que vienen a revisar, 
+que es otro elemento más, que me parece más delicado, que es de gestión directiva, donde van a ubicar el control del formato, 
+lo van a revisar y si se deja un espacio en blanco o que no hicimos tareas o acciones del día a día y en un tiempo posterior 
+comentar que nos toca eliminar el formato porque no hay necesidad y nos estamos defendiendo con las actas.
+
+
+* Acta No.10 - https://mail.google.com/mail/u/0/#inbox/149102a5c4cf8406[gi@lasallebga.edu.co]
+
+Nleson. Estuve ausente trabajando sobre las camaras de video.
+
+* Acta No.9 - https://mail.google.com/mail/u/0/#inbox/1487ae6750006ff0[gi@lasallebga.edu.co]
+
+Nelson Agapito Fern&#225;ndez G&#243;mez comunica, que actualmente el colegio, cuenta con un canal dedicado de 10 megas y aproximadamente 150 puntos,
+de los cuales123 est&#225;n cableados en categor&#237;a s&#233;ptima; tenemos 3 servidores virtualizados para los diferentes servicios web con que
+cuenta el colegio; de acuerdo a la reuni&#243;n virtual donde el
+Hno. Niky Alexander Murcia Su&#225;rez - secretario del Distrito,
+solicita el favor de enviar las sugerencias para la conectividad y son las siguientes:
+
+1.	Habilitar un servidor en el distrito para montar las aplicaciones centralizadas y todos los servicios web que se vayan necesitando.
+2.	Implementar la telefon&#237;a VOZ-IP en todos los colegios y as&#237;  permitir las comunicaciones entre el distrito.
+3.	Intentar unificar el proveedor de internet para lograr mayores  beneficios y propender la baja de los costos.
+4.	Los nuevos proyectos sobre cableado estructurado, en lo posible contratarlos en categor&#237;a s&#233;ptima.
+5.	Empezar a exigir al personal que se contrata y a los actuales los perfiles en competencias digitales.
+
+
+* Acta No.8 - https://mail.google.com/mail/u/0/?shva=1#inbox/14831404aea47cd7[gi@lasallebga.edu.co]
+
+NELSON AGAPITO FERN&#193;NDEZ G&#211;MEZ - Jefe de Gesti&#243;n de la Informaci&#243;n,
+informa que de la auditor&#237;a interna no salieron no conformidades para su proceso, de las  tarea pendientes de la Revisi&#243;n por la Direcci&#243;n,
+sigue la creaci&#243;n de la interfaz entre el sistema de facturaci&#243;n y el sistema contable SIIGO,
+con el Distrito Lasallista de Bogot&#225;.
+Tambi&#233;n inform&#243; sobre el estado de la acci&#243;n correctiva No. 336, que se cre&#243; el mes pasado,
+sobre la documentaci&#243;n que debe ir al archivo  inactivo de los procesos de  Gesti&#243;n de Talento Humano y Gesti&#243;n Financiera,
+que a&#250;n no han entregado la documentaci&#243;n.
+
+* Acta No.7 - https://mail.google.com/mail/u/0/?shva=1#inbox/147cffc30e46d557[gi@lasallebga.edu.co]
+
+NELSON AGAPITO FERN&#193;NDEZ G&#211;MEZ Jefe del proceso de Gesti&#243;n de la Informaci&#243;n, informa:
+
+1.	VERIFICACI&#211;N DE TAREAS ASIGNADAS EN LA REVISI&#211;N ANTERIOR
+
+TAREA
+Creaci&#243;n de la interfaz entre el sistema de facturaci&#243;n y el sistema contable SIIGO, con el Distrito Lasallista de Bogot&#225;.
+
+OBSERVACIONES
+
+- Se asisti&#243; a una reuni&#243;n virtual con Wilson Jair Hern&#225;ndez Garc&#237;a, Jorge Clavijo, Itza Carolina de la Procuradur&#237;a y los se&#241;ores de SIIGO para definir los detalles de la Interfaz Contable.
+
+- Se realiz&#243; el an&#225;lisis de los requerimientos.
+
+- Se envi&#243; en un correo a jairh@lasalle.org.co las dudas sobre c&#243;mo deben ir codificados algunos movimientos contables para enviarlos a SIIGO, y se anexaron unos ejemplos de unos casos.
+
+- Se empez&#243; a implementar en el sistema de facturaci&#243;n la opci&#243;n de la Interfaz Contable.
+
+- Est&#225; pendiente por parte del departamento de contabilidad del distrito la respuesta a las inquietudes de la codificaci&#243;n de algunos movimientos contables.
+
+- La tarea sigue en ejecuci&#243;n.
+
+
+* Acta No.6 - https://mail.google.com/mail/u/0/#inbox/1470de28188ef340[gi@lasallebga.edu.co]
+
+Nelson Agapito Fern&#225;ndez G&#243;mez - Jefe de Gesti&#243;n de la Informaci&#243;n manifest&#243;, que en su caso particular, en la auditor&#237;a,
+tuvo muchas ganancias en la parte de la revisi&#243;n y las recomendaciones que le hicieron, particularmente con el diligenciamiento del
+formato F-GI-02 RADICACION DE CORRESPONDENCIA ENVIADA. Cada correspondencia que se genera por parte de  Gesti&#243;n directiva se relaciona en este formato,
+pero se debe anotar el n&#250;mero de la gu&#237;a en la columna rotulada "medio de env&#237;o".
+Lo anterior aplica tambi&#233;n para todos los jefes proceso, los cuales deben diligenciar toda la correspondencia enviada endicho formato, el cual
+deben descargar de la p&#225;gina del Distrito en la secci&#243;n de registros del proceso de Gesti&#243;n de la Informaci&#243;n y
+mantener actualizado el registro correspondiente.
+
+* Acta No.5 - https://mail.google.com/mail/u/0/#inbox/1463dc38c8c3fdc9[gi@lasallebga.edu.co]
+
+* Acta No.5 - https://mail.google.com/mail/u/0/#inbox/14606ba88d2ce9f4[gi@lasallebga.edu.co]
+
+* Acta No.4 - https://mail.google.com/mail/u/0/#inbox/145f8e86cbcde3ec[gi@lasallebga.edu.co] - Hno. NIKY ALEXANDER MURCIA S&#193;NCHEZ
+
+* Acta No.3 - https://mail.google.com/mail/u/0/#inbox/145ef776a9e2a47b[gi@lasallebga.edu.co]
+
+* Acta No.2 - https://mail.google.com/mail/ca/u/0/?shva=1#inbox/144af50c966d1aa7[gi@lasallebga.edu.co]
+
+* Acta No.1 - https://mail.google.com/mail/u/0/?shva=1#inbox/144529398bdfcde7[gi@lasallebga.edu.co]
+
+NELSON AGAPITO FERN&#193;NDEZ G&#211;MEZ -Gesti&#243;n de la Informaci&#243;n,  solicita definir la fecha para la entrega del archivo inactivo del a&#241;o 2013; 
+por unanimidad se aprob&#243; el traspaso de los documentos para el 14 de marzo del presente a&#241;o.
+
+==== REVISION POR LA DIRECCION
+
+* 14 de julio de 2014, 9:44  - https://mail.google.com/mail/u/0/#inbox/14735549abea6269[gi@lasallebga.edu.co]
+
+* 10 de julio de 2014, 16:15 - https://mail.google.com/mail/u/0/#inbox/1472221839e52c0a[gi@lasallebga.edu.co]
+
+* 3 de marzo de 2014, 7:43 - https://mail.google.com/mail/u/0/?shva=1#inbox/14487f8fd5c4f762[gi@lasallebga.edu.co] - Firmado por el rector
+
+* 26 de febrero de 2014, 12:05 https://mail.google.com/mail/u/0/?shva=1#inbox/1446f281ba85ee99[gi@lasallebga.edu.co]
+
+* 21 de febrero de 2014, 14:48 - Informe revisado con GQ - https://mail.google.com/mail/ca/u/0/?shva=1#inbox/14455fdcfae0e707[gi@lasallebga.edu.co]
+
+* 2013
+
+* 12 de noviembre de 2013, 15:04 - https://mail.google.com/mail/u/0/?shva=1#inbox/1424dea61cc0703b[gi@lasallebga.edu.co]&#218;ltimo Informe de Revisi&#243;n por la Direcci&#243;n - Informe de Auditoria de ICONTEC, oficial
+
+* 6 de noviembre de 2013, 14:35 - https://mail.google.com/mail/u/0/?shva=1#apps/revisi%C3%B3n+direcci%C3%B3n/1422ee9fcd942a01[gi@lasallebga.edu.co]
+
+* FORMATO F-GD-01.doc - http://www.lasalle.org.co/downloads/registros/F-GD-01.doc[F-GD-01 - INFORME DE RESULTADO DE REVISI&#211;N POR LA DIRECCI&#211;N]
+
+==== INFORME PARA LA REUNION DE REVISION POR LA DIRECCION
+
+* 17 de julio de 2014, 12:12 - Informe revisado con GQ - https://mail.google.com/mail/ca/u/0/?shva=1#sent/147454f6a0c71fac[gi@lasallebga.edu.co]
+
+* 21 de febrero de 2014, 14:48 - Informe revisado con GQ - https://mail.google.com/mail/ca/u/0/?shva=1#inbox/14455fdcfae0e707[gi@lasallebga.edu.co]
+
+* 2013
+
+* 6 de noviembre de 2013, 14:35 - FORMATO MODELO -  https://mail.google.com/mail/u/0/?shva=1#apps/revisi%C3%B3n+direcci%C3%B3n/1422ee9fcd942a01[gi@lasallebga.edu.co] - Google Drive
+
+* 6 de noviembre de 2013, 14:35 - FORMATO MODELO - https://mail.google.com/mail/u/0/?shva=1#inbox/1422ee9fcd942a01[gi@lasallebga.edu.co]
+
+==== EVALUACION INSTITUCIONAL
+
+* 20 de febrero de 2014, 9:09 https://mail.google.com/mail/ca/u/0/?shva=1#apps/gq%40lasallebga.edu.co/1444fa17df5f27a7[gi@lasallebga.edu.co]
+
+==== ENCUESTA DE SATISFACION
+
+* 13 de agosto de 2014, 12:08 - https://mail.google.com/mail/u/0/?shva=1#inbox/147d0575ba3a4519[gi@lasallebga.edu.co]
+
+* 13 de agosto de 2014, 17:36 - https://mail.google.com/mail/ca/u/0/?pli=1#inbox/147d1844404bb638[gi@lasallebga.edu.co] - Resumen
+
+** La atenci&#243;n por parte de personal administrativo, docente y servicios generales es excelente; pero seguimos
+con los inconvenientes de la p&#225;gina de gnosoft: ca&#237;da de la plataforma, dificultad para abrir, visualizaci&#243;n de
+notas ( el problema con las notas lo he comunicado en diferentes ocasiones a los coordinadores acad&#233;micos
+de turno sin que hasta el momento se pueda solucionar). Gracias.
+
+** No tenemos acceso a las notas cuando va finalizando el periodo y en muchas ocasiones no se alcanza a
+saber en qu&#233; estado termina el periodo ya que no todos los profesores suben notas. No estoy de acuerdo
+con esta medida y ya lo he manifestado en varias oportunidades . Me gustar&#237;a que lo tuvieran en cuenta.
+Tambi&#233;n se nos insiste a los pap&#225;s utilizar g-nosoft para comunicarnos , sin embargo a veces se env&#237;an
+mensajes y son le&#237;dos por el destinatario pero no se recibe ninguna respuesta. Muchas gracias.
+
+
+
+
+* 24 de febrero de 2014, 18:12 https://mail.google.com/mail/u/0/?shva=1#inbox/144662b6babc8568[gi@lasallebga.edu.co]
+
+==== BUZON DE FELICITACIONES, SUGERENCIAS Y QUEJAS
+
+* 9 de mayo de 2014, 15:45 - S&#237;ntesis del Buz&#243;n de Quejas / Sugerencias / Felicitaciones - https://mail.google.com/mail/u/0/?shva=1#inbox/145e2bbfcd2878e1[gi@lasallebga.edu.co]
+
+* 26 de febrero de 2014, 11:39 https://mail.google.com/mail/u/0/?shva=1#inbox/1446f110267a4993[gi@lasallebga.edu.co] - Consolidado Buz&#243;n de Quejas
+
+==== AUDITORIA ICONTEC
+
+* 17 de septiembre de 2014, 8:19 - Actas de Apertura y Cierre de la Auditoria - https://mail.google.com/mail/u/0/#inbox/14883c4d9d33f9f8[gi@lasallebga.edu.co]
+
+* 12 de noviembre de 2013, 15:04 - https://mail.google.com/mail/u/0/?shva=1#inbox/1424dea61cc0703b[gi@lasallebga.edu.co]&#218;ltimo Informe de Revisi&#243;n por la Direcci&#243;n - Informe de Auditoria de ICONTEC, oficial
+
+==== AUDITORIA INTERNA
+
+* 28 de mayo de 2014, 17:46 - INFORME FINAL DE AUDITORIA INTERNA - https://mail.google.com/mail/ca/u/0/#inbox/1464503400fdfb22
+
+* 27 de mayo de 2014, 9:44 - Borrador Informe de Auditor&#237;a Interna - https://mail.google.com/mail/ca/u/0/#inbox/1463e2396685a108
+
+* 21 de mayo de 2014, 7:12 - Acta Auditor&#237;a Interna - https://mail.google.com/mail/ca/u/0/#inbox/1461eb2463637793[gi@lasallebga.edu.co]
+
+* 5 de mayo de 2014, 9:00 - PLAN DE AUDITORIA INTERNA - https://mail.google.com/mail/u/0/?shva=1#inbox/145ccafdbaf58fd5
+
+==== INDICE DE CUMPLIMIENTO
+
+*  14 de julio de 2014, 8:51 - II SEMESTRE 2014 - https://mail.google.com/mail/u/0/#inbox/1471b64e5b5b22ac[gi@lasallebga.edu.co]
+
+* 16 de mayo de 2014, 11:23 - En GQ - https://mail.google.com/mail/u/0/?shva=1#inbox/14605d8668446c16[gi@lasallebga.edu.co]
+
+* 13 de febrero de 2014, 10:49 - II SEMESTRE 2013 - https://mail.google.com/mail/ca/u/0/#inbox/1442bf02abf8f336[gi@lasallebga.edu.co]
+
+* 2013
+
+* 16 de diciembre de 2013, 14:13 - https://mail.google.com/mail/u/0/?shva=1#apps/am%40lasallebga.edu.co/142fcbaaca85f225[gi@lasallebga.edu.co]
+
+EFICACIA EN LA ENTREGA DE LA INFORMAICION VS EFICACIA EN LA ELABORACION DE DOCUMENTOS
+
+EFICACIA EN LA GESTION DEL ARCHIVO: Depurar por lo menos el 90% del archivo de Gesti&#243;n de cada dependencia y el archivo central de la Instituci&#243;n.
+
+==== MATRIZ DE INDICADORES
+
+* 14 de octubre de 2014, 8:34 - BORRADOR MATRIZ DE INDCADORES - FORMATO INFORME GESTI&#211;N DESEMPE&#209;O DEL PROCESO.
+
+* 15 de septiembre de 2014, 13:46 - AVANCES DE LA MATRIZ DE INDICADORES -DOCUMENTO BORRADOR - https://mail.google.com/mail/u/0/#inbox/1487aa35c9900e48[gi@lasallebga.edu.co]
+
+*  8 de julio de 2014, 8:54 - ACTUALIZACI&#211;N POL&#205;TICA Y OBJETIVOS DE LA CALIDAD - MATRIZ DE INDICADORES - https://mail.google.com/mail/u/0/#inbox/14716410d42053ba[gi@lasallebga.edu.co]
+
+* 2 de abril de 2014, 17:45 - MATRIZ DE INDICADORES 2014 - https://mail.google.com/mail/u/0/?shva=1#inbox/145249ea0a0e45d6
+
+==== ACPM
+
+*  25 de julio de 2014, 9:41 - 336C - https://mail.google.com/mail/u/0/?shva=1#inbox/1476df7ddb9dfac9[gi@lasallebga.edu.co] Seguimiento:
+
+** https://mail.google.com/mail/u/0/?shva=1#apps/gf%40lasallebga.edu.co/1476dbe55a837130[gi@lasallebga.edu.co] GF
+
+** https://mail.google.com/mail/u/0/?shva=1#apps/gt%40lasallebga.edu.co/1476dc2888d1965b[gi@lasallebga.edu.co] GT
+
+* 16 de mayo de 2014, 11:23 ACCIONES:263M,264M,277M,278M,296M,297M
+
+==== LISTADO MAESTRO DE REGISTROS
+
+*  27 de febrero de 2014, 14:21 - Para revisi&#243;n - https://mail.google.com/mail/u/0/?shva=1#inbox/14474cba99bd66dc[gi@lasallebga.edu.co]
+
+*  20 de noviembre de 2013, 9:58 - LMR SEGUN GQ https://mail.google.com/mail/u/0/?shva=1#sent/14276056cc6b39c8[gi@lasallebga.edu.co]
+
+==== LISTADO MAESTRO DE DOCUMENTOS
+
+* 26 de febrero de 2014, 6:44 https://mail.google.com/mail/u/0/?shva=1#inbox/1446e02e1697715e[gi@lasallebga.edu.co]
+
+=== DEFINICI&#211;N DE TAREAS PARA EL SGC 2014
+
+* 14 de mayo de 2014, 14:24 - INFORME ESCRITO - https://mail.google.com/mail/u/0/?shva=1#inbox/145fc317d23384a5[gi@lasallebga.edu.co]
+
+=== MISION VISION Y OBJETIVOS DE LA CALIDAD NUEVA
+
+* 10 de julio de 2014, 16:15 - https://mail.google.com/mail/u/0/#inbox/1472221839e52c0a[gi@lasallebga.edu.co]
+
+==== INFORME DE GESTIÓN O DESEMPEÑO DEL PROCESO 2014
+
+* 2014-TRIMESTRE4- https://mail.google.com/mail/u/0/#sent/14a4008ccf97d652[gi@lasallebga.edu.co]

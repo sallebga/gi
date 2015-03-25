@@ -10,12 +10,40 @@ n=&#241; N=&#209;
 
 == REQUERIMIENTOS
 
-Habilitar el puerto: 5432
+Habilitar el puerto:
+Otros puertos:22,80,5432,18080
+
+2015
+
+* FALTA:Modificar las Elecciones y el control de acceso.
+
+* 24 de marzo de 2015, 7:32 - https://mail.google.com/mail/u/0/#sent/14c4bc4bf590461f[gi@lasallebga.edu.co] - REQUERIMIENTO VISUALIZAR NOTAS
+
+* 24 de marzo de 2015, 7:25 - https://mail.google.com/mail/u/0/#sent/14c4bbe5de196a5d[gi@lasallebga.edu.co] - Observador Virtual a Todos los Coordinadores
+
+* MANIFESTACIÓN DE PADRE DE FLIA CON RESPECTO AL ORDEN CRONOLOGICO DE LAS FECHAS DE LA AGENDA ESCOLAR I PERIODO
+
+* 19 de febrero de 2015, 11:12 - https://mail.google.com/mail/u/0/#inbox/14ba29c573968fab[gi@lasallebga.edu.co] - SOLICITUD PARA GNOSOFT Reinicio de contador y Pruebas Saber
+
+* 10 de febrero de 2015, 14:45 - https://mail.google.com/mail/u/0/#inbox/14b750658a5ef667[gi@lasallebga.edu.do] - REQUERIMIENTO - APROBACIÓN DE ESTÁNDARES
+
+* 29 de enero de 2015, 16:34 - REQUERIMIENTO PLANILLA DE SEGUIMIENTO - PRE ESCOLAR - https://mail.google.com/mail/u/0/#sent/14b3778b09543ce1[gi@lasallebga.edu.co]
+
+** 11 de febrero de 2015, 15:37 https://mail.google.com/mail/u/0/#apps/planilla+de+seguimiento/n50/14b7a5cd5eba5815[gi@lasallebga.edu.co] Respuesta IV Coordinacion.
+
+2014
 
 . *PENDIENTES:*
 
-* 10 de noviembre de 2014, 11:51 - Cambio del Estado de la Queja, M&#243;dulo de Encuestas no separa p&#225;rrafos con punto aparte - https://mail.google.com/mail/u/0/?shva=1#inbox/1499a9e3332ccfe5[gi@lasallebga.edu.co]
+* 10 de noviembre de 2014, 11:51 - Cambio del Estado de la Queja, Módulo de Encuestas no separa párrafos con punto aparte - https://mail.google.com/mail/u/0/?shva=1#inbox/1499a9e3332ccfe5[gi@lasallebga.edu.co]
 
-* 17 de octubre de 2014, 14:33 - Requerimiento para la mejora del M&#243;dulo PRE-ICFES - https://mail.google.com/mail/u/0/?pli=1#inbox/1491f99b482ad624[gi@lasallebga.edu.co]
+* 17 de octubre de 2014, 14:33 - Requerimiento para la mejora del Módulo PRE-ICFES - https://mail.google.com/mail/u/0/?pli=1#inbox/1491f99b482ad624[gi@lasallebga.edu.co]
 
 . *CERRADOS:*
+
+
+. PENDIENTES POR REPORTAR
+
+* Lo ideal para eso es hacer una funcionalidad que permita subir el archivo y que haga el proceso de actualización en la dependencia de paz y salvo
+  pero eso toma tiempo de desarrollo, Este año detectamos dicha necesidad seria para el otro año
+  adicionando la opción de poder poner a Paz y Salvo todas las dependencias para también agilizar.

@@ -10,7 +10,7 @@ n=&#241; N=&#209;
 
 == HP
 
-* (+571)6390000 - (+571)6390604 Garantía: 018000514746 2-2-2 Empresarial
+* (+571)6390000 - (+571)6390604 Garant&#237;a: 018000514746 2-2-2 Empresarial
 
 * http://www.hp.com/latam/soporte/chat/
 
@@ -31,13 +31,15 @@ Garantias
 
 GARANTIA
 
-Descripción del Producto: HP P2000 G3 MSA Fibre Channel Controller
-Número de Producto: AP836B
-Número de Serie: CN8250M552
+Descripci&#243;n del Producto: HP P2000 G3 SERIAL DEL CHASIS:2S6304C340
+
+MSA Fibre Channel Controller
+N&#250;mero de Producto: AP836B
+N&#250;mero de Serie: CN8250M552
 Disco Duro:Part Number: 605475-001 SPS-DRV HD 2TB 6G 7.2K 3.5 SAS P2000
 
 Este disco contiene la metadata invalida.
-(+571)6390000 - (+571)6390604 Garantía: 018000514746 2-2-2 Empresarial
+(+571)6390000 - (+571)6390604 Garant&#237;a: 018000514746 2-2-2 Empresarial
 
 GARANTIA FUENTES DE LOS SERVIDORES: Casos No. 4738122947 - 4738129249 Contacto Telefonico
 
@@ -49,6 +51,16 @@ Los servidores seriales: 2M230900LV,2M23050330, Product No.642119-001, la fuente
 
 
 * https://mail.google.com/mail/u/0/#sent/148e629c00c10254[gi@lasallebga.edu.co] - Envio de fotografias.
+
+GARANTIAS
+
+* 24 de noviembre de 2014, 17:20 - Cierre del Caso Número: 4740798181 - https://mail.google.com/mail/u/0/#inbox/149e3e41fdf28267[gi@lasallebga.edu.co]
+
+* Número de Referencia: 4740798181
+* Descripción del Problema: CTO 4H/ CO / P2000 L/ FAILED CONTROLED / 08:25 CST
+* Descripción del Producto: HP P2000 LFF Modular Smart Array Chassis
+* Número de Producto: AP838B
+* Número de Serie: 2S6304C340
 
 
 

@@ -16,7 +16,7 @@ n=&#241; N=&#209;
 
 * Dir: Av.Jimenez # 4-49 Of 513 Bogota - Colombia Tel: (1)7510713 - (1)7504480 - 3167811420
 
-* Se adquirio desde Bogotá el antivirus Kaspersky
+* Se adquirio desde Bogot&#225; el antivirus Kaspersky
 
 * Da soporte con vmware
 
@@ -26,7 +26,7 @@ MAIL 2014
 
 *  23 de octubre de 2014, 14:04 - implementacion de la herramienta antivirus kaspersky - https://mail.google.com/mail/u/0/#inbox/1493e335806ed7d3[gi@lasallebga.edu.co]
 
-*  15 de octubre de 2014, 10:44 - Licencia de renovación Kaspersky - Colsalle BGA - https://mail.google.com/mail/u/0/#inbox/149147b9a54b9ba8[gi@lasallebga.edu.co]
+*  15 de octubre de 2014, 10:44 - Licencia de renovaci&#243;n Kaspersky - Colsalle BGA - https://mail.google.com/mail/u/0/#inbox/149147b9a54b9ba8[gi@lasallebga.edu.co]
 
 MAIL RECIBOS 2013
 

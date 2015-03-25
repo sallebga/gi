@@ -14,13 +14,13 @@ ASIGNACION DE EQUIPOS OFICINA ...
 
 Cordial Saludo,
 
-El siguiente equipo se asignó a la oficina ...:
+El siguiente equipo se asign&#243; a la oficina ...:
 
 -
 
 -
 
-La anterior información para la actualización del inventario.
+La anterior informaci&#243;n para la actualizaci&#243;n del inventario.
 
 === ASIGNACION DE EQUIPOS
 
@@ -48,7 +48,7 @@ La anterior información para la actualización del inventario.
 
 * 16 de enero de 2013, 11:13 - https://mail.google.com/mail/u/0/?shva=1#apps/gc%40lasallebga.edu.co/13c44234dcfa3c3b[gi@lasallebga.edu.co]
 
-** La Impresora HP LaserJet M1212nf MFP Serial: CNG9DBD0JB se asignó a la oficina de la Rectoria.
+** La Impresora HP LaserJet M1212nf MFP Serial: CNG9DBD0JB se asign&#243; a la oficina de la Rectoria.
 
 
 

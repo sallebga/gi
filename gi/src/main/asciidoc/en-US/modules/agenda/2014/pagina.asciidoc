@@ -16,13 +16,13 @@ PENDIENTE, ENTREGADO, POR REVISAR,REVISADO,PUBLICADO
 
 Cordial Saludo,
 
-Le solicito el favor me colaboren con la revisión del texto del artículo anexo para evitar publicar en la página del Colegio errores de redacción y ortografía. Muchas Gracias
+Le solicito el favor me colaboren con la revisi&#243;n del texto del art&#237;culo anexo para evitar publicar en la p&#225;gina del Colegio errores de redacci&#243;n y ortograf&#237;a. Muchas Gracias
 
 === RECORDAR
 
 Cordial Saludo
 
-Para recordales la entrega del artículo. Muchas Gracias.
+Para recordales la entrega del art&#237;culo. Muchas Gracias.
 
 === RECURSOS
 
@@ -69,7 +69,7 @@ Bucaramanga, 23 de Mayo del 2012
 
 PARA:  JEFES DE DEPARTAMENTO, COORDINADORES, JEFES DE ALGUNOS PROCESOS
 
-ASUNTO:   ACTUALIZACI&#243;N DE LA PÁGINA DEL COLEGIO.  DPTO DE ESPAÑOL
+ASUNTO:   ACTUALIZACI&#243;N DE LA P&#193;GINA DEL COLEGIO.  DPTO DE ESPA&#209;OL
 
 Cordial saludo
 
@@ -97,7 +97,7 @@ Las noticias se deben entregar en un archivo en Word que cumpla las siguientes i
 
 Cordial Saludo
 
-Para recordales la entrega del artículo. Muchas Gracias.
+Para recordales la entrega del art&#237;culo. Muchas Gracias.
 
 === ARTICULOS DE LA PAGINA 2014
 
@@ -127,7 +127,7 @@ OCT 27
 
 * JUN 3
 
-** Publicación - http://www.lasallebga.edu.co/web/index.php/publicaciones/352-retroalimentacion-del-cliente[gi@lasallebga.edu.co]
+** Publicaci&#243;n - http://www.lasallebga.edu.co/web/index.php/publicaciones/352-retroalimentacion-del-cliente[gi@lasallebga.edu.co]
 
  AGO 4
 
@@ -143,11 +143,11 @@ OCT 27
 
 * JUN 9
 
-** Adelantó el artículo.
+** Adelant&#243; el art&#237;culo.
 
 * AGO 11
 
-** Adelantó el artículo.
+** Adelant&#243; el art&#237;culo.
 
 * SEP 22
 
@@ -251,7 +251,7 @@ JUL 14
 AGO 25
 OCT 6
 NOV 18
-==== ESPAÑOL
+==== ESPA&#209;OL
 JUL 21
 
 * http://www.lasallebga.edu.co/web/index.php/publicaciones/365-me-respeto-cuando-te-respeto[PUBLICADO]

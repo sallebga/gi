@@ -47,7 +47,6 @@ n=&#241; N=&#209;
 ... Cargar las notas finales: *[Acad&#233;mico administrador][Calificaciones][Cargar notas finales]*
     Se puede ejecutar varias veces y antes cierre acad&#233;mico.
     Esta opci&#243;n realiz&#225; el c&#225;lculo de la nota final de acuerdo al ICEC hay que solicitar la ejecuci&#243;n a Gnosoft.
-    PENDIENTE POR HABILITAR LA OPCION POR GNOSOFT 2014?
 
 ... Cierre acad&#233;mico autom&#225;tico: *[Acad&#233;mico administrador][Calificaciones][Cierre Acad&#233;mico Autom&#225;tico]*
     Define la promoci&#243;n y los pasa al siguiente grado.
@@ -66,7 +65,7 @@ n=&#241; N=&#209;
 
 .. *INFORMES:*
 
-... Actas de promoci&#243;n: *[Acad&#233;mico administrador][Consultas y reportes][Generar reportes][Cierre acad&#233;mico]* Actas de promoci&#243;n
+... Actas de promoción: *[Acad&#233;mico administrador][Consultas y reportes][Generar reportes][Cierre acad&#233;mico]* Actas de promoci&#243;n
 
 ... Listado de estudiantes no promovidos: *[Acad&#233;mico administrador][Consultas y reportes][Generar reportes][Cierre acad&#233;mico]* Listado de estudiantes no promovidos
 
@@ -75,6 +74,12 @@ n=&#241; N=&#209;
 ... Impresi&#243;n del libro final:  *[Acad&#233;mico administrador][Consolidados][Reporte Final] Tipo de reporte: Libro final*
 
 ... Impresi&#243;n del Certificado: *[Acad&#233;mico administrador][Consolidados][Reporte Final]* Tipo de reporte: Certificado Final
+
+... Impresi&#243;n del Certificado: *[Acad&#233;mico administrador][Consolidados][Reporte Final]* Tipo de reporte: Certificado Final
+
+... *[Acad&#233;mico administrador][Generar Reporte][Calificaciones][Reporte de Puestos y Promedios]*
+
+... *[Acad&#233;mico administrador][Generar Reporte][Calificaciones][Reporte Excelencia Acad&#233;mica]*
 
 
 .. *INFORMES PARA VALIDACIONES*
@@ -85,6 +90,18 @@ n=&#241; N=&#209;
 
 ... *[Acad&#233;mico administrador][Consolidados][Consultas y Reportes][Generar Boletines]*
 
-... *[Acad&#233;mico administrador][Consolidados][Consultas y Reportes][Generar Informe Final]*
 
-... *[Acad&#233;mico administrador][Consolidados][Consultas y Reportes][Reporte Final] - Libro final*
+. *INFORMES PARA LOS PADRES DE FAMILIA*
+
+* Boletin del 4 Periodo: *[Acad&#233;mico administrador][Consolidados][Consultas y Reportes][Generar Boletines]*
+  NO SE HABILITA PARA QUE EL PADRE LO DESCARGUE PARA LLEGUEN A LA CLAUSURA.
+
+* Impresi&#243;n del informe final: *[Acad&#233;mico administrador][Consolidados][Generar Informe Final]*
+  SE IMPRIME LOCALMENTE PARA ENTREGARLO A LOS PADRES DE FAMILIA
+
+
+. *SEGUIMIENTO*
+
+* 12 de noviembre de 2014, 13:44 - CIERRE ACADEMICO 2014 - https://mail.google.com/mail/u/1/#sent/149a552a9cb61a4c[gi@lasallebga.edu.co]
+
+* 12 de noviembre de 2014, 11:05 - CIERRE ACADEMICO DE GRADO UNDECIMO https://mail.google.com/mail/u/1/#sent/149a4c0c63f16262[gi@lasallebga.edu.co]

@@ -1,0 +1,31 @@
+[[gnosoft-ars]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== ICEC
+
+. RECALCULAR EL ICEC
+
+.. Recalcular notas de asignaturas para todos los periodos: *[Acad&#233;mico administrador][Calificaciones][Recalcular Calificaci&#243;n Asignatura]*
+
+.. Recalcular notas de &#225;reas para todos los periodos: *[Acad&#233;mico administrador][Calificaciones][Recalcular calificaci&#243;n &#225;reas]*
+   Este proceso se debe realizar de igual manera para el segundo,tercero,cuarto y  periodo FINAL, en el mismo orden que se realiz&#243; el primer periodo.
+
+.. Cargar las notas finales: *[Acad&#233;mico administrador][Calificaciones][Cargar notas finales]* Para actualizar las notas finales el Quinto Periodo.
+
+.. INFORMES PARA VERIFICAR EL RECALCULO:
+
+... PLANILLA DE CALIFICACIONES: *[Acad&#233;mico administrador][Consultas y reportes][Reportes y planillas][Generar planilla de Calificaciones]*
+... INFORME DE ESTANDARES NO EVIDENCIADOS: *[Acad&#233;mico administrador][Calificaciones][Estandares no evidenciados]*
+... INFORME ESTUDIANTES MISMO ESTANDAR PERDIDO: *[Acad&#233;mico administrador][Consultas y reportes][Generar reportes][CALIFICACIONES][Informe estudiantes mismo est&#225;ndar perdido]*
+... INFORME CONSOLIDADO CALIFICACIONES CURSO - Estad&#237;sticas por materia: *[Acad&#233;mico administrador][Consultas y reportes][Consolidados][Consolidado calificaci&#243;n por curso]*
+... INFORME CONSOLIDADO DE AREAS - Estad&#237;sticas por &#225;reas: *[Acad&#233;mico administrador][Consultas y reportes][Consolidados][Generar consolidado de areas]*
+... DESEMPE&#209;OS POR ASIGNATURA-Estad&#237;sticas gr&#225;ficas por materia: *[Acad&#233;mico administrador][Consultas y reportes][Reportes estad&#237;sticos][Rendimiento curso por asignatura]*
+    Para que salgan los cursos no acad&#233;micos (Optativas) se debe generar el reporte seleccionando el grado y no un curso.
+... RENDIMIENTO POR AREAS - Estad&#237;sticas gr&#225;ficas por &#225;rea: *[Acad&#233;mico administrador][Consultas y reportes][Reportes estad&#237;sticos][Rendimiento &#225;rea por curso]*

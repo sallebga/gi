@@ -14,21 +14,21 @@ n=&#241; N=&#209;
 
 * http://www.lasallebga.edu.co/sgc/gi/rsf/ - ROTULOS Y DEMAS
 
-* D:\GI\procesos\09-GI\AÑO\ARCHIVO - Plantillas y directrices.
+* D:\GI\procesos\09-GI\A&#209;O\ARCHIVO - Plantillas y directrices.
 
 * D:\naif\Dropbox\mvn-sites\archivo\src\site\apt\inactivo
 
-* D:\GI\procesos - Para cada proceso existe una carpeta AÑO\ARCHIVO con la información para la entrega del archivo inactivo.
+* D:\GI\procesos - Para cada proceso existe una carpeta A&#209;O\ARCHIVO con la informaci&#243;n para la entrega del archivo inactivo.
 
 * =CONCATENAR(F3;"-";H3;"-ARCHIVO(";K3;")";"-TRD(";I3;")")
 
-* Acción de Mejora No. 263 - gi@lasallebga.edu.co
+* Acci&#243;n de Mejora No. 263 - gi@lasallebga.edu.co
 
 * Acta de Calidad No. 014
 
-** El Jefe de Gestión de La Información propone fijar en el comité, la fecha de la entrega de los registros
-   de cada uno de los procesos al archivo inactivo, dejando como fecha límite de entrega el 25 de enero del 2013,
-   de igual forma se hace la observación que cada jefe no debe realizar entregas parciales de la documentación.
+** El Jefe de Gesti&#243;n de La Informaci&#243;n propone fijar en el comit&#233;, la fecha de la entrega de los registros
+   de cada uno de los procesos al archivo inactivo, dejando como fecha l&#237;mite de entrega el 25 de enero del 2013,
+   de igual forma se hace la observaci&#243;n que cada jefe no debe realizar entregas parciales de la documentaci&#243;n.
 
 * http://www.formulasoft.com/download.html - Herramienta para comparar archivos en Excel
 
@@ -54,19 +54,19 @@ n=&#241; N=&#209;
 
 ** Tipo: Seleccionar todo
 
-** Institución: Colegio, N.A
+** Instituci&#243;n: Colegio, N.A
 
 ** Proceso: Todos y un proceso.
 
 ** Imprimir el LMR del proceso.
 
-* Validar los LMR del año anterior vs LMR el año actual - D:\GI\procesos\proceso\año\ARCHIVO\validar
+* Validar los LMR del a&#241;o anterior vs LMR el a&#241;o actual - D:\GI\procesos\proceso\a&#241;o\ARCHIVO\validar
 
 ** Encontrar diferencias - LMR2012-descargado-20-11-2012.xls - LMRExcel.xls
 
 ** Actualizar el sistema ISO - naif
 
-* GE - Relación de los todos los registros y la forma como se deben ordenar. GE-FORMATOS-ORDENACION.xls
+* GE - Relaci&#243;n de los todos los registros y la forma como se deben ordenar. GE-FORMATOS-ORDENACION.xls
 
 * Diligenciar el formato F-GI-04
 
@@ -83,23 +83,28 @@ las DIRECTRICES PARA LA ENTREGA DE DOCUMENTOS AL ARCHIVO CENTRAL.
 
 Para facilitar dicha entrega anexo los siguientes archivos:
 
-* F-GI-04-GE-2012.doc: Con la relación de documentos a entregar al archivo central, en el cual se deben completar las columnas que
-  faltan  de acuerdo al número de carpetas que se vayan a entregar de cada documento.
+* F-GI-04-GE-2012.doc: Con la relaci&#243;n de documentos a entregar al archivo central, en el cual se deben completar las columnas que
+  faltan  de acuerdo al n&#250;mero de carpetas que se vayan a entregar de cada documento.
 
-* ROTULOS-GE-2012.txt: Con los rótulos que se deben utilizar para marcar las carpetas, igualmente falta
-  completar las fechas extremas, el número de carpetas y número de folios de acuerdo al número de carpetas que se vayan a entregar de cada documento.
+* ROTULOS-GE-2012.txt: Con los r&#243;tulos que se deben utilizar para marcar las carpetas, igualmente falta
+  completar las fechas extremas, el n&#250;mero de carpetas y n&#250;mero de folios de acuerdo al n&#250;mero de carpetas que se vayan a entregar de cada documento.
 
-* ROTULOS-BLANCO.doc: Un archivo en word que sirve como plantilla para elaborar los rótulos, de acuerdo
-  al archivo ROTULOS-GE-2012.txt del cual se debe copiar y pegar en dicha plantilla el rótulo(s) correspondiente.
+* ROTULOS-BLANCO.doc: Un archivo en word que sirve como plantilla para elaborar los r&#243;tulos, de acuerdo
+  al archivo ROTULOS-GE-2012.txt del cual se debe copiar y pegar en dicha plantilla el r&#243;tulo(s) correspondiente.
 
-* GE-FORMATOS-ORDENACION-2012.xls: Un archivo en el excel con la relación de todos los formatos y la forma
+* GE-FORMATOS-ORDENACION-2012.xls: Un archivo en el excel con la relaci&#243;n de todos los formatos y la forma
   como se deben ordenar para organizarlos en las carpetas.
 
 Es importante confrontar los documentos de acuerdo la listado maestro de registros.
 
-=== MAIL ENVIADOS DEL 2013
+=== LMR PARA LA ENTREGA DE DOCUMENTOS AL ARCHIVO CENTRAL
+
+* 14 de noviembre de 2014, 7:19 - LRM SEGUN GQ https://mail.google.com/mail/u/0/?shva=1#sent/149ae3ec0378ab40[gi@lasallebga.edu.co]
 
 *  20 de noviembre de 2013, 9:58 - LMR SEGUN GQ https://mail.google.com/mail/u/0/?shva=1#sent/14276056cc6b39c8[gi@lasallebga.edu.co]
+
+** ENTREGA DE DOCUMENTOS AL ARCHIVO CENTRAL 2014
+
 
 ** ENTREGA DE DOCUMENTOS AL ARCHIVO CENTRAL 2013
 
@@ -110,10 +115,10 @@ Es importante confrontar los documentos de acuerdo la listado maestro de registr
 *** GE - https://mail.google.com/mail/u/0/?shva=1#sent/1427ba4749eafb2c[gi@lasallebga.edu.co]
 
 *** GT - https://mail.google.com/mail/u/0/?shva=1#sent/1427ba83378aa4f0[gi@lasallebga.edu.co]
-         https://mail.google.com/mail/u/0/?shva=1#sent/1476dc2888d1965b[gi@lasallebga.edu.co] - Acción correctiva
+         https://mail.google.com/mail/u/0/?shva=1#sent/1476dc2888d1965b[gi@lasallebga.edu.co] - Acci&#243;n correctiva
 
 *** GF - https://mail.google.com/mail/u/0/?shva=1#sent/1427ba8b31654312[gi@lasallebga.edu.co]
-         https://mail.google.com/mail/u/0/?shva=1#sent/1476dbe55a837130[gi@lasallebga.edu.co] - Acción correctiva.
+         https://mail.google.com/mail/u/0/?shva=1#sent/1476dbe55a837130[gi@lasallebga.edu.co] - Acci&#243;n correctiva.
 
 *** GC - https://mail.google.com/mail/u/0/?shva=1#sent/1427ba941f7a74d3[gi@lasallebga.edu.co]
 
@@ -151,7 +156,7 @@ Es importante confrontar los documentos de acuerdo la listado maestro de registr
 
 * Definir y actualizar la estructura directorios para cada proceso para almacenar todos los documentos.
 
-* Exalumnos revisar la organización.
+* Exalumnos revisar la organizaci&#243;n.
 
 
 

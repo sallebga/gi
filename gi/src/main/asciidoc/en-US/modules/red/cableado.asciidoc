@@ -8,126 +8,126 @@ A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
 n=&#241; N=&#209;
 ////
 
-== Certificación de Cableado Estructurado
+== Certificaci&#243;n de Cableado Estructurado
 
 Para certificar el cableado estructuradohay que tener en cuenta:
 
-* Estándaresde Cableado
+* Est&#225;ndaresde Cableado
 
-* Normas de Certificación
+* Normas de Certificaci&#243;n
 
-* Parámetrosde Prueba
+* Par&#225;metrosde Prueba
 
 * Uso del Tester Certificador
 
 === Requerimientos obligatorios:
 
-* Cada enlace deberá ser testeado de acuerdo alas especificaciones definidas en elestándar TIA Cat6 (ANSI / TIA / EIA-568-B.2-1)
+* Cada enlace deber&#225; ser testeado de acuerdo alas especificaciones definidas en elest&#225;ndar TIA Cat6 (ANSI / TIA / EIA-568-B.2-1)
 
-* Los enlaces deberán ser testeados desde elgabinete de distribución intermedio (IDF) hasta la caja de pared en el área de trabajo
-  y deberán cumplir con las especificaciones definidas en el estándar TIA Cat6.3.
+* Los enlaces deber&#225;n ser testeados desde elgabinete de distribuci&#243;n intermedio (IDF) hasta la caja de pared en el &#225;rea de trabajo
+  y deber&#225;n cumplir con las especificaciones definidas en el est&#225;ndar TIA Cat6.3.
 
-* El 100% de los enlaces deberán ser testeados y pasar de acuerdo al parámetro 2.
+* El 100% de los enlaces deber&#225;n ser testeados y pasar de acuerdo al par&#225;metro 2.
 
-* Cualquier enlace defectuoso deberá sercorregido y re-testeado. El resultado final de los test se deberá incluir en la documentación del proceso.
+* Cualquier enlace defectuoso deber&#225; sercorregido y re-testeado. El resultado final de los test se deber&#225; incluir en la documentaci&#243;n del proceso.
 
-* Las pruebas deben ser llevadas a cabo por personal que acredite capacitación y posea la certificación correspondiente.
+* Las pruebas deben ser llevadas a cabo por personal que acredite capacitaci&#243;n y posea la certificaci&#243;n correspondiente.
 
-* El tester, adaptadores y terminadoresdeben cumplir con los requerimientosdel estándar TIA Cat6.
+* El tester, adaptadores y terminadoresdeben cumplir con los requerimientosdel est&#225;ndar TIA Cat6.
 
-* El tester debe cumplir con los periodos de calibración establecidos por su fabricante para asegurar que su precisión sea la especificada por el fabricante.
+* El tester debe cumplir con los periodos de calibraci&#243;n establecidos por su fabricante para asegurar que su precisi&#243;n sea la especificada por el fabricante.
 
-* Los cables y adaptadores del tester deben ser de alta calidad y no deben presentar ninguna señal de desgaste o deterioro.
+* Los cables y adaptadores del tester deben ser de alta calidad y no deben presentar ninguna se&#241;al de desgaste o deterioro.
 
-* La condición de éxito o falla de la prueba de un enlace está determinada por el éxito de todas las pruebas individuales sobre dicho enlace.
+* La condici&#243;n de &#233;xito o falla de la prueba de un enlace est&#225; determinada por el &#233;xito de todas las pruebas individuales sobre dicho enlace.
 
-* Un resultado de éxito o falla de cada test individual se determina comparando los valores medidos con los límites especificados para ese parámetro.
+* Un resultado de &#233;xito o falla de cada test individual se determina comparando los valores medidos con los l&#237;mites especificados para ese par&#225;metro.
 
 === Requerimientos Opcionales:
 
-* Se deberá invitar a un representante del cliente apresenciar el proceso de certificación. El representante deberá ser notificado de la fecha decomienzo y de 
-  fin del proceso cinco días hábiles antes de que las pruebas den inicio.
+* Se deber&#225; invitar a un representante del cliente apresenciar el proceso de certificaci&#243;n. El representante deber&#225; ser notificado de la fecha decomienzo y de 
+  fin del proceso cinco d&#237;as h&#225;biles antes de que las pruebas den inicio.
   
-* El representante seleccionará una muestra al azardel 5% de los enlaces. 
+* El representante seleccionar&#225; una muestra al azardel 5% de los enlaces. 
 
-* El representante testeará los enlaces de esa muestra y los resultados se almacenarán junto al resto de la documentación del proceso y se compararán con 
-  los resultados obtenidos en la prueba de campo. Si más del 2% dela muestra difiere en términos de éxito/falla, el contratista deberá realizar el testeo del
-  100% de las bocas bajo supervisión del cliente y el costo correrá por cuenta del contratista.
+* El representante testear&#225; los enlaces de esa muestra y los resultados se almacenar&#225;n junto al resto de la documentaci&#243;n del proceso y se comparar&#225;n con 
+  los resultados obtenidos en la prueba de campo. Si m&#225;s del 2% dela muestra difiere en t&#233;rminos de &#233;xito/falla, el contratista deber&#225; realizar el testeo del
+  100% de las bocas bajo supervisi&#243;n del cliente y el costo correr&#225; por cuenta del contratista.
   
 === Mapa de cableado
 
 La prueba de mapa de cableado prueba y presenta las conexionesde los hilos entre los extremos lejano y cercano del cable en los cuatro pares. 
 
-Se prueba la continuidad del blindaje si se seleccióna un tipo de cable blindado. Los pares que se prueban son aquellos que han sido definidos por la 
+Se prueba la continuidad del blindaje si se selecci&#243;na un tipo de cable blindado. Los pares que se prueban son aquellos que han sido definidos por la 
 norma de prueba seleccionada.
 
 === Longitud
 
 La prueba de longitud mide la longitud de cada cable de par trenzado probado. La longitud se presenta en metros o pies. La pantalla de resultados de longitud
-muestra la longitud, el límite y el resultado aceptado o rechazado para cada par de cables.
+muestra la longitud, el l&#237;mite y el resultado aceptado o rechazado para cada par de cables.
 
-Es común encontrar una diferencia entre 2 y 5 por ciento en la longitud medida entre pares trenzados.
+Es com&#250;n encontrar una diferencia entre 2 y 5 por ciento en la longitud medida entre pares trenzados.
 
 Esta diferencia es a causa de la diferencia en la cantidad de trenzados en los pares de cables
 
-=== Atenuación (InsertionLoss)
+=== Atenuaci&#243;n (InsertionLoss)
 
-La atenuación es originada por una pérdida de energía eléctrica en la resistencia del cable y por fuga de la energía a través del material aislante del cable. 
+La atenuaci&#243;n es originada por una p&#233;rdida de energ&#237;a el&#233;ctrica en la resistencia del cable y por fuga de la energ&#237;a a trav&#233;s del material aislante del cable. 
 
-Esta pérdida de energía se expresaen decibeles.
+Esta p&#233;rdida de energ&#237;a se expresaen decibeles.
 
-Los valores más bajos de la atenuación corresponden a un mejor rendimiento del cable.
+Los valores m&#225;s bajos de la atenuaci&#243;n corresponden a un mejor rendimiento del cable.
 
 === Interferencia e interferencia del extremo cercano(NEXT)
 
-La interferencia es una transmisión de señales indeseables de un par de cables a otro par cercano.
+La interferencia es una transmisi&#243;n de se&#241;ales indeseables de un par de cables a otro par cercano.
 
-De igual forma que el ruido de fuentes externas, la interferencia puede causar problemas de comunicación en las redes. 
+De igual forma que el ruido de fuentes externas, la interferencia puede causar problemas de comunicaci&#243;n en las redes. 
 
-De todas las características de la operación de cables de LAN, la interferencia es la que tiene el mayor efecto en el rendimiento de la red.
+De todas las caracter&#237;sticas de la operaci&#243;n de cables de LAN, la interferencia es la que tiene el mayor efecto en el rendimiento de la red.
 
-La herramienta de prueba mide la interferencia aplicando una señal de prueba aun par de cables y midiendo la amplitud de las señales de 
+La herramienta de prueba mide la interferencia aplicando una se&#241;al de prueba aun par de cables y midiendo la amplitud de las se&#241;ales de 
 interferencia que se reciben en el otro par de cables. 
 
-El valor de la interferencia se calcula como la diferencia de amplitud entre la señal de prueba y la señal de interferencia al medirse desde el mismo extremo 
+El valor de la interferencia se calcula como la diferencia de amplitud entre la se&#241;al de prueba y la se&#241;al de interferencia al medirse desde el mismo extremo 
 del cable. Esta diferencia se denomina interferencia del extremo cercano (NEXT) y se expresa en decibeles.
 
-Los valores más altos de la NEXT corresponden a menos interferencia y un mejor rendimiento del cable.
+Los valores m&#225;s altos de la NEXT corresponden a menos interferencia y un mejor rendimiento del cable.
 
-=== Pérdida de retorno (ReturnLoss)
+=== P&#233;rdida de retorno (ReturnLoss)
 
-La pérdida de retorno es la diferencia entre la potencia de la señal transmitida y la potencia de las reflexiones de la señal causadas por las variaciones 
+La p&#233;rdida de retorno es la diferencia entre la potencia de la se&#241;al transmitida y la potencia de las reflexiones de la se&#241;al causadas por las variaciones 
 en la impedancia del cable. 
 
-Un valor alto de pérdida de retorno significa que las impedancias son casi iguales, lo que da como resultado una gran diferencia entre las potencias de las 
-señales transmitidas y reflejadas.
+Un valor alto de p&#233;rdida de retorno significa que las impedancias son casi iguales, lo que da como resultado una gran diferencia entre las potencias de las 
+se&#241;ales transmitidas y reflejadas.
 
-Los cables con valores altos de pérdida de retorno son más eficientes para transmitir señales de LAN porque se pierde muy poco de la señal en reflexiones
+Los cables con valores altos de p&#233;rdida de retorno son m&#225;s eficientes para transmitir se&#241;ales de LAN porque se pierde muy poco de la se&#241;al en reflexiones
 
 === ACR
 
-La ACR (la razón de la atenuación a la interferencia) es la diferencia entre la NEXT en decibeles y la atenuaciónen decibeles. 
-El valor de la ACR indica cómo se compara la amplitud de las señales recibidas del extremo lejano del transmisor con la amplitud de la interferencia 
+La ACR (la raz&#243;n de la atenuaci&#243;n a la interferencia) es la diferencia entre la NEXT en decibeles y la atenuaci&#243;nen decibeles. 
+El valor de la ACR indica c&#243;mo se compara la amplitud de las se&#241;ales recibidas del extremo lejano del transmisor con la amplitud de la interferencia 
 producida por transmisiones del extremocercano.
 
-Un valor alto de ACR significa que las señal es recibidas son mucho más grandes que la interferencia.
+Un valor alto de ACR significa que las se&#241;al es recibidas son mucho m&#225;s grandes que la interferencia.
 
-En términos de la NEXT y de valores de atenuación, un valor alto de ACR corresponde a una NEXT alta y una atenuación baja.
+En t&#233;rminos de la NEXT y de valores de atenuaci&#243;n, un valor alto de ACR corresponde a una NEXT alta y una atenuaci&#243;n baja.
 
 === Retardo
 
-La velocidad nominal de propagación (NVP) es la velocidad de una señal por el cable relativa a la velocidad de la luz. 
+La velocidad nominal de propagaci&#243;n (NVP) es la velocidad de una se&#241;al por el cable relativa a la velocidad de la luz. 
 
-En el vacío, las señales eléctricas viajan a la velocidad de la luz. Enun cable, las señales viajan a una velocidad menor a la de la luz. 
+En el vac&#237;o, las se&#241;ales el&#233;ctricas viajan a la velocidad de la luz. Enun cable, las se&#241;ales viajan a una velocidad menor a la de la luz. 
 
-La velocidad de una señal eléctrica en un cable es por lo general entre el 60% y 80% de la velocidad de la luz.
+La velocidad de una se&#241;al el&#233;ctrica en un cable es por lo general entre el 60% y 80% de la velocidad de la luz.
 
-Si la NVP de un cable es demasiado lenta o el cable es demasiado largo, las señales se demoran y el sistema no puede detectar las colisiones 
+Si la NVP de un cable es demasiado lenta o el cable es demasiado largo, las se&#241;ales se demoran y el sistema no puede detectar las colisiones 
 lo suficientemente pronto para prevenir graves problemas en la red.
 
 === Sesgos del retardo
 
-Los sesgos del retardo son las diferencias en los retardos de propagación entre los retardosmás cortos y los retardos de los demás pares de cables.
+Los sesgos del retardo son las diferencias en los retardos de propagaci&#243;n entre los retardosm&#225;s cortos y los retardos de los dem&#225;s pares de cables.
 
 
 

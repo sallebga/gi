@@ -12,9 +12,9 @@ n=&#241; N=&#209;
 
 === MENSUALES
 
-gi.lasallebga@hotmail.com está disponible. - lasalle1
+gi.lasallebga@hotmail.com est&#225; disponible. - lasalle1
 
-* INFORME DE RESTAURANTE Y CAFETERIA ULTIMO DÍA DE CADA MES
+* INFORME DE RESTAURANTE Y CAFETERIA ULTIMO D&#205;A DE CADA MES
 
 * BOLETIN INFORMATIVO MENSUAL
 
@@ -62,7 +62,7 @@ gi.lasallebga@hotmail.com está disponible. - lasalle1
 
 * ELABORACION DE LOS CARNETS
 
-* <<ASIGNACION DE CURSOS A LOS ESTUDIANTES>> - [Académico administrador][Estructura Curricular][Calcular C&#211;digo a Estudiantes]
+* <<ASIGNACION DE CURSOS A LOS ESTUDIANTES>> - [Acad&#233;mico administrador][Estructura Curricular][Calcular C&#211;digo a Estudiantes]
 
 * HABILITACION DEL SISTEMA DE CAFETERIA
 
@@ -76,7 +76,7 @@ gi.lasallebga@hotmail.com está disponible. - lasalle1
 
 * HORARIO DE ATENCION A PADRES DE FAMILIA
 
-* HORARIO DE ACTIVIDADES EXTRA CURRICULARES - Publicado en la página del Colegio.
+* HORARIO DE ACTIVIDADES EXTRA CURRICULARES - Publicado en la p&#225;gina del Colegio.
 
 * GESTIONAR LOS GRUPOS DE ARTES,DIBUJO,MUSICA E INGLES
 
@@ -90,7 +90,7 @@ gi.lasallebga@hotmail.com está disponible. - lasalle1
 
 * IMPRESION DE LAS LISTAS DE CLASE DE LOS PROFESORES -> Imprime profesores??
 
-* ACTUALIZACION DE LAS FOTOS EN EL SISTEMA ACADEMICO - Requerimientos toma fotográfica. - gi@lasallebga.edu.co - gi@lasallebga.edu.co
+* ACTUALIZACION DE LAS FOTOS EN EL SISTEMA ACADEMICO - Requerimientos toma fotogr&#225;fica. - gi@lasallebga.edu.co - gi@lasallebga.edu.co
 
 * INFORME DE LAS CUENTAS DE USUARIOS PARA LOS PADRES DE FAMILIA. gi: https://mail.google.com/mail/?shva=1#inbox/1352fcd34cdc72e2
 

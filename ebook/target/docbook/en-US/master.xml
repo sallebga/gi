@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+
+<?asciidoc-numbered?>
+
+<book lang="en">
+  <bookinfo>
+    
+    <title>EBOOKS</title>
+    
+    
+    <date>2014-11-13</date>
+    
+    
+    
+    
+<!--<subtitle>Some subtitle</subtitle -->
+<!--
+<releaseinfo>4.0.0-SNAPSHOT</releaseinfo>
+<corpauthor>
+   <inlinemediaobject>
+      <imageobject>
+         <imagedata fileref="./images/hibernate_ogm_600px.png"
+                    format="PNG"
+                    scalefit="1"
+                    width="444"/>
+      </imageobject>
+      <textobject>
+         <phrase>Logo</phrase>
+      </textobject>
+   </inlinemediaobject>
+</corpauthor>
+
+<authorgroup xml:base="Author_Group.xml">
+   <author>
+      <firstname>Emmanuel</firstname>
+      <surname>Bernard</surname>
+      <affiliation>
+         <shortaffil>Red Hat</shortaffil>
+      </affiliation>
+   </author>
+   <author>
+      <firstname>Sanne</firstname>
+      <surname>Grinovero</surname>
+      <affiliation>
+         <shortaffil>Red Hat</shortaffil>
+      </affiliation>
+   </author>
+   <collab>
+     <collabname>Guillaume Scheibel</collabname>
+   </collab>
+</authorgroup>
+ -->
+
+<authorgroup xml:base="Author_Group.xml">
+   <author>
+      <firstname>GI</firstname>
+      <affiliation>
+         <shortaffil>Colegio La Salle Bucaramanga</shortaffil>
+      </affiliation>
+   </author>
+</authorgroup>
+    
+    
+
+  </bookinfo>
+<chapter id="gnosoft-ebooks">
+<title>LIBROS ELECTRONICOS</title>
+<orderedlist numeration="arabic">
+  
+    <listitem>
+      <simpara><emphasis role="strong">RECURSOS:</emphasis></simpara>
+      
+    </listitem>
+  
+</orderedlist>
+</chapter>
+</book>

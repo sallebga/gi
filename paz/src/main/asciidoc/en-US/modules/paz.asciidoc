@@ -29,6 +29,8 @@ Jefes de Dependencias de Paz y Salvo.
 * Por procedimiento se *DEBE* poner todos los estudiantes a Paz y Salvo y despu&#233;s registrar los estudiantes que presentan deudas. Para registrar todos 
 los estudiantes a Paz y Salvo se debe hacer clic en el cuadro marcado con el No.1 ubicado debajo de la dependencia.
 
+* Para el caso de los servicios de facturados de PENSION,RESTAURANTE,TRANSPORTE,etc para garantizar que el PAZ Y SALVO se refleje correctamente se DEBE.. PENDIENTE
+
 * A todos los estudiantes se le debe registrar si se encuenta al D&#237;a o Deuda.
 
 * Si un estudiante se pone al d&#237;a con la deuda registrada, se debe poner a Paz y Salvo en el sistema.

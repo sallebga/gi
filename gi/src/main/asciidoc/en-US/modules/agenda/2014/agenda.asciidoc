@@ -11,14 +11,14 @@ n=&#241; N=&#209;
 == SUGERENCIAS
 
 hola buenas tardes.
-pues la verdad es para sujerir que pues los niños tambien desean saber sus notas y pues la verdad hay algunos padres que no deja que pues los niños tenga su clave asi que pues entonces les recomiendo que pongan en el gnosoft de los niños los educando las notas, para ellos asi saber que van perdiendo y que no.
+pues la verdad es para sujerir que pues los ni&#241;os tambien desean saber sus notas y pues la verdad hay algunos padres que no deja que pues los ni&#241;os tenga su clave asi que pues entonces les recomiendo que pongan en el gnosoft de los ni&#241;os los educando las notas, para ellos asi saber que van perdiendo y que no.
  bueno gracias adios
 
-Cordial Saludo, señora ALBA CONSUELO AREVALO DURAN, su sugernecia se planteó a Gestión Educativa para su analisis Le agradezco su preocupación y quedo atento a atender cualquier inquietud. Muchas Gracias. Atentamente: Nelson Fernández Gómez. Gestión de la Información.
+Cordial Saludo, se&#241;ora ALBA CONSUELO AREVALO DURAN, su sugernecia se plante&#243; a Gesti&#243;n Educativa para su analisis Le agradezco su preocupaci&#243;n y quedo atento a atender cualquier inquietud. Muchas Gracias. Atentamente: Nelson Fern&#225;ndez G&#243;mez. Gesti&#243;n de la Informaci&#243;n.
 
 == GE
 
-** SUAREZ PINZON JORGE EDUARDO: Reporte Excelencia Académica -
+** SUAREZ PINZON JORGE EDUARDO: Reporte Excelencia Acad&#233;mica -
 
 == DAVID
 
@@ -59,7 +59,7 @@ RESTAURANTE
 
 214158 - GALEANO VASQUEZ REVISAR SI SE LE GENERO EL RECIBO DE MAYO
 
-MAC PARA EL SERVIDOR PARA LA HUELLA:F4CE46B9E518, ah ok al hacer el cambio de servidor, y ponerlo a trabajar sobre una nueva máquina virtual,
+MAC PARA EL SERVIDOR PARA LA HUELLA:F4CE46B9E518, ah ok al hacer el cambio de servidor, y ponerlo a trabajar sobre una nueva m&#225;quina virtual,
 con una mac diferente, no arranca el reconocimiento dactilar.
 
 USUARIOS PRUEBA PILOTO - https://mail.google.com/mail/u/0/#inbox/1474a5d2496134a4
@@ -101,11 +101,11 @@ conciliacion de febrero
 
 === ACTIVIDADES
 
-* Reunión Equipos de Comunicación - https://mail.google.com/mail/ca/u/0/#inbox/145dc275a6a1b787[gi@lasallebga.edu.co]
+* Reuni&#243;n Equipos de Comunicaci&#243;n - https://mail.google.com/mail/ca/u/0/#inbox/145dc275a6a1b787[gi@lasallebga.edu.co]
 
-* Próximas Actividades Secretaría de Educación Mayo 2014 - https://mail.google.com/mail/ca/u/0/#inbox/145dc88666ec8c3c[gi@lasallebga.edu.co]
+* Pr&#243;ximas Actividades Secretar&#237;a de Educaci&#243;n Mayo 2014 - https://mail.google.com/mail/ca/u/0/#inbox/145dc88666ec8c3c[gi@lasallebga.edu.co]
 
-* REUNIÓN VIRTUAL EL VIERNES 9 DE MAYO - 1:00 P:M - https://mail.google.com/mail/ca/u/0/#inbox/145dc9333e70fcfd[gi@lasallebga.edu.co]
+* REUNI&#211;N VIRTUAL EL VIERNES 9 DE MAYO - 1:00 P:M - https://mail.google.com/mail/ca/u/0/#inbox/145dc9333e70fcfd[gi@lasallebga.edu.co]
 
 * Carta de articulos para actualizar pagina - Cambio de banner
 
@@ -119,13 +119,13 @@ conciliacion de febrero
 
 * Archivo Inactivo
 
-* Auditoría Interna
+* Auditor&#237;a Interna
 
-* Modicación David
+* Modicaci&#243;n David
 
 * Modificaciones Centro
 
-* Modificación Ctg
+* Modificaci&#243;n Ctg
 
 * Fotos de alumnos
 
@@ -135,11 +135,11 @@ conciliacion de febrero
 
 * Interfaz de SIIGO
 
-* Facturación Gnosoft
+* Facturaci&#243;n Gnosoft
 
 * Definir el archivo de la estrucutra de las ARS
 
-* Validar los código de los estudiantes
+* Validar los c&#243;digo de los estudiantes
 
 * Dora albunes de fotos: 23,26,27
 
@@ -157,7 +157,7 @@ conciliacion de febrero
 
 * Revisar agenda GC - Revisar inventarios
 
-* Renovación Servicio de Soporte SonicWALL
+* Renovaci&#243;n Servicio de Soporte SonicWALL
 
 * Agregar el informe de cuentas de usuarios activo y inactivo
 
@@ -222,17 +222,17 @@ conciliacion de febrero
 
 * Caso Nol: 4721866026 SAN:HP2000 DISCO DURO 2TB - 6G DP 7.2K SAS MDL SPARE:605475-001
 
-César A. García Portilla.
+C&#233;sar A. Garc&#237;a Portilla.
 cesar-alejandro.garcia.portilla@hp.com
 Tel +52 (55) 5258 4600 ext. 6485
 Hewlett-Packard Company
-Prolongación Reforma 700
+Prolongaci&#243;n Reforma 700
 Lomas de Santa Fe
 01210
-México DF
+M&#233;xico DF
 
 
-* Cra 7 #99-53 Bogotá, (+571)6390000 - (+571)6390604 Garantía: 018000514746 2-2-2 Empresarial
+* Cra 7 #99-53 Bogot&#225;, (+571)6390000 - (+571)6390604 Garant&#237;a: 018000514746 2-2-2 Empresarial
 
 * Caso No. 4647556982
 
@@ -272,10 +272,10 @@ https://mail.google.com/mail/ca/u/0/?shva=1#apps/jairh%40lasalle.org.co/1439b21f
 
 * Requerimientos de Cartagena - https://mail.google.com/mail/u/0/?ui=2#inbox/144d6e36641b21ba[simavirtual@gmail.com]
 
-  Crear en la facturación un concepto de cobro gestión cartera, llamado "  GESTION COBRANZA" con el fin de cobrar a los deudores morosos
-  a partir de 30 días en mora por un valor del 5% del saldo en mora,
-  le solicito me informe si es posible la aplicación de dicho concepto en la facturación y a partir de cuando
-  se podría implementar, le agradezco su colaboración y a la espera de su respuesta
+  Crear en la facturaci&#243;n un concepto de cobro gesti&#243;n cartera, llamado "  GESTION COBRANZA" con el fin de cobrar a los deudores morosos
+  a partir de 30 d&#237;as en mora por un valor del 5% del saldo en mora,
+  le solicito me informe si es posible la aplicaci&#243;n de dicho concepto en la facturaci&#243;n y a partir de cuando
+  se podr&#237;a implementar, le agradezco su colaboraci&#243;n y a la espera de su respuesta
 
 * Certificados a archivo.
 
@@ -285,7 +285,7 @@ https://mail.google.com/mail/ca/u/0/?shva=1#apps/jairh%40lasalle.org.co/1439b21f
 
 ** SIMACART - INFORME DE DESCUENTOS Y RECARGOS DESCRIMINADO. OK
 
-** SIMAMATR/ACTUALIZAR/PROCEDENCIA - VERFICAR LA INFORMACION ALMACENA EN LOS COLEGIOS DE PROCEDENCIA - CONFIABLE Pendiente Explicación
+** SIMAMATR/ACTUALIZAR/PROCEDENCIA - VERFICAR LA INFORMACION ALMACENA EN LOS COLEGIOS DE PROCEDENCIA - CONFIABLE Pendiente Explicaci&#243;n
 
 ** Informe con nombre completos de los alumnnos de morosos y ayudas. - SIMACART - Cartera Actual - OK
 
@@ -319,15 +319,16 @@ https://mail.google.com/mail/ca/u/0/?shva=1#apps/jairh%40lasalle.org.co/1439b21f
                En contabilidad se hace la causacion de acuerdo a los informes del sima, asi mismos se hacen los descargos de cartera y coinciden contablemente
    los conceptos registrados segun los conceptos del sima, pero cuando se pide un informe de cartera del sima por conceptos son totalmente diferentes, la
    cartera general totalizada si cuadra sima vs contabilidad pero por conceptos (pension, ruta, cafeteria. Esta opcion se corrige con la interfaz contable.
-   CON LA INTERFAZ CONTABLE.
+   CON LA INTERFAZ CONTABLE. [ACTUALIZAR][DESCUENTOS Y RECARGOS][ACTIVIVAR INDIVIDUALES][F9][DESCUENTOS Y RECARGOS POR CONCEPTOS]
+   informes>>alumnos moros>>>relacion de morosos>>nov>>cursos>>por estudiante>>>no>>fecha de corte si>>
 
 * Requerimiento Cartagena - https://mail.google.com/mail/u/0/#inbox/144b74bf8980f985[nelsonfer1@gmail.com]
 
 Cordial saludo
 Con la presente me permito solicitarle,  su colaboración para crear en la facturación un concepto de cobro gestión cartera,
-con el fin de cobrar a los deudores morosos a partir de 30 días en mora por un valor del 5% del saldo en mora,
-le solicito me informe si es posible la aplicación de dicho concepto en la facturación y a partir de cuando se podría implementar,
-le agradezco su colaboración y a la espera de su respuesta
+con el fin de cobrar a los deudores morosos a partir de 30 d&#237;as en mora por un valor del 5% del saldo en mora,
+le solicito me informe si es posible la aplicaci&#243;n de dicho concepto en la facturaci&#243;n y a partir de cuando se podr&#237;a implementar,
+le agradezco su colaboraci&#243;n y a la espera de su respuesta
 
 NUEVOS DAVID 28/08/2014
 

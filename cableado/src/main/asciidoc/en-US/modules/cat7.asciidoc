@@ -1,0 +1,123 @@
+[[cableado-cat7]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== MATERIALES CABLEADO ESTRUCTURADO
+
+
+.MATERIALES BASICOS PARA PUNTO DE RED
+[options="header"]
+|===============================================================================================
+|VALOR    |DESCRIPCION                                                      |REFERENCIA        |
+|         |http://www.siemon.com/e-catalog/ECAT_GI_page.aspx?GI_ID=wa_ct-faceplates[Faceplate]                  |http://www.siemon.com/apps/Utilities/showImageDisplay.asp?showImage=/share/products05/wa_ct-faceplates_CT4-FP-XX_big.jpg[CT2-FP-02]         |
+|         |http://www.siemon.com/e-catalog/ECAT_GI_page.aspx?GI_ID=wa_tera-max-adapters-for-ct-faceplates[Adaptador Angular doble]    |http://www.siemon.com/apps/Utilities/showImageDisplay.asp?showImage=/share/products05/wa_tera-max-adapters-for-ct-faceplates_CTE-MXA-02-XX_big.jpg[CTE-MXA-02-02]     |
+|         |Caja Realzadora                                                  |                  |
+|         |Elementos de Fijaci&#243;n: Chazos, tornillos, velcros, cintas        |                  |
+|===============================================================================================
+
+.MATERIALES JACKS Y PATCH CORD CATEGORIA 6A
+[options="header"]
+|======================================================================
+|VALOR    |DESCRIPCION                             |REFERENCIA        |
+|         |Jack Sencillo puesto de trabajo 6A      |                  |
+|         |Jack Sencillo Herraje Patch Panel 6A    |                  |
+|         |Patch Cord 3 mts puesto de trabajo 6A   |                  |
+|         |Patch Cord 1 mts Patch Panel 6A         |                  |
+|======================================================================
+
+.CERTIFICACION DEL PUNTO EN CAT 6A Y MARQUILLAS
+[options="header"]
+|=====================================================================================
+|VALOR    |DESCRIPCION                                            |REFERENCIA        |
+|         |Certificaci&#243;n del Punto en Categor&#237;a 6A                |                  |
+|         |2 Marquillas Patch Cord 1 mts Patch Panel              |                  |
+|         |1 Marquilla para el faceplate                          |                  |
+|         |1 Marquilla marcado del cable que llega al Patch Panel |                  |
+|=====================================================================================
+
+.MATERIALES JACKS Y PATCH CORDS CATEGORIA 7A
+[options="header"]
+|======================================================================
+|VALOR    |DESCRIPCION                             |REFERENCIA        |
+|         |Jack Sencillo puesto de trabajo 7A      |                  |
+|         |Jack Sencillo Herraje Patch Panel 7A    |                  |
+|         |Patch Cord 3 mts puesto de trabajo 7A   |                  |
+|         |Patch Cord 1 mts Patch Panel 7A         |                  |
+|======================================================================
+
+.CERTIFICACION DEL PUNTO EN CAT 7A Y MARQUILLAS
+[options="header"]
+|=====================================================================================
+|VALOR    |DESCRIPCION                                            |REFERENCIA        |
+|         |Certificaci&#243;n del Punto en Categor&#237;a 7A                |                  |
+|         |2 Marquillas Patch Cord 1 mts Patch Panel              |                  |
+|         |1 Marquilla para el faceplate                          |                  |
+|         |1 Marquilla marcado del cable que llega al Patch Panel |                  |
+|=====================================================================================
+
+.COSTOS PUNTO DE RED EN CATEGORIA 6A
+[options="header"]
+|=======================================================
+|DESCRIPCION                                   |VALOR  |
+|MATERIALES BASICOS                            |       |
+|MATERIALES JACKS Y PATCH CORD CATEGORIA 6A    |       |
+|CERTIFICACION DEL PUNTO EN CAT 6A Y MARQUILLAS|       |
+|=======================================================
+
+.COSTOS PUNTO DE RED EN CATEGORIA 7A
+[options="header"]
+|========================================================
+|DESCRIPCION                                   |VALOR   |
+|MATERIALES BASICOS                            |        |
+|MATERIALES JACKS Y PATCH CORDS CATEGORIA 7A   |        |
+|CERTIFICACION DEL PUNTO EN CAT 7A Y MARQUILLAS|        |
+|========================================================
+
+.CABLE Y OTROS MATERIALES
+[options="header"]
+|======================================================================
+|VALOR    |DESCRIPCION                             |REFERENCIA        |
+|         |http://www.siemon.com/e-catalog/ECAT_GI_page.aspx?GI_ID=cable_tera-1000-mhz-cable-international[Carrete de Cable Cat 7a 305 mts violeta ls0h]     |http://www.siemon.com/apps/Utilities/showImageDisplay.asp?showImage=/share/products05/cable_tera-1000-mhz-cable-international_9T7L4-E10_big.jpg[9T7L4-E10]         |
+|         |http://www.siemon.com/e-catalog/ECAT_GI_page.aspx?GI_ID=wa_max-outlet-blanks-and-doors#part_numbers[MAX BLANK,WHITE,10/BAG]                  |http://www.siemon.com/apps/Utilities/showImageDisplay.asp?showImage=/share/products05/wa_max-outlet-blanks-and-doors_MX-BL-XX_big.jpg[MX-BL-02]          |
+|         |ICON,CONT,BULK,100/BAB,WHITE,ZMAX       |                  |
+|         |CANALETA PLASTICA                       |                  |
+|         |CANALETA MT EXTERIOR                    |                  |
+|======================================================================
+
+
+.MANO DE OBRA HABILITACION 100% DE LOS PUNTOS DE RED.
+[options="header"]
+|==========================================================================================
+|DESCRIPCION                                                                     |VALOR   |
+|HABILITACION DEL 100% DEL PUNTO DE RED EN CAT 6A O 7A:                          |        |
+|- INSTALAR LA CANALETA EN LOS PUNTOS QUE SE REQUIERAN                           |        |
+|- INSTALAR EL CABLE,SONDEAR DONDE SEA NECESARIO                                 |        |
+|- INSTALAR EL PUNTO DE DATOS CAJA,FACEPLATE,ADAPTADORES                         |        |
+|- CONECTORIZAR PUNTO DE RED EN CAT 6A O 7A                                      |        |
+|- TRAMITAR Y ENTREGAR LA GARANTIA DE SIEMON                                     |        |
+|- COLOCAR LAS MARQUILLAS                                                        |        |
+|- ORGANIZAR LOS RACKS                                                           |        |
+|- PREVEER LOS IMPREVISTOS PARA GARANTIZAR LA HABILITACION 100% DEL PUNTO DE RED |        |
+|==========================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

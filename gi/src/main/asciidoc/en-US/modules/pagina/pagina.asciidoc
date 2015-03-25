@@ -26,9 +26,9 @@ n=&#241; N=&#209;
 <ul>
     <li><span style="color: #ff0000;"><a href="images/procesos/GD/INDICACIONES-SEMANALES.pdf" target="_blank"><span style="color: #ff0000;">INDICACIONES SEMANALES</span></a></span></li>
     <li><a href="index.php/publicaciones/256-circulares-externas">Correspondencia</a></li>
-    <li><a href="images/procesos/GD/cronograma/cronograma.pdf" target="_blank">Año 2013</a></li>
+    <li><a href="images/procesos/GD/cronograma/cronograma.pdf" target="_blank">A&#241;o 2013</a></li>
     <li><a href="images/procesos/GE/cronograma/horarioclase.pdf" target="_blank">Horario de Clase 2014</a></li>
-    <li><a href="images/procesos/GE/cronograma/HorarioAtencionPadres.pdf" target="_blank">Horario de Atención a Padres</a></li>
+    <li><a href="images/procesos/GE/cronograma/HorarioAtencionPadres.pdf" target="_blank">Horario de Atenci&#243;n a Padres</a></li>
     <li><a href="images/procesos/GE/cronograma/HorarioEvaluaciones.pdf" target="_blank">Horario de Evaluaciones</a></li>
 </ul>
 ----
@@ -38,12 +38,29 @@ n=&#241; N=&#209;
 ----
 <ul>
     <li><span style="color: #ff0000;"><a href="images/procesos/GD/INDICACIONES-SEMANALES.pdf" target="_blank"><span style="color: #ff0000;">INDICACIONES SEMANALES</span></a></span></li>
-    <li><a href="images/procesos/GD/cronograma/cronograma.pdf" target="_blank">Año 2014</a></li>
+    <li><a href="images/procesos/GD/cronograma/cronograma.pdf" target="_blank">A&#241;o 2015</a></li>
     <li><a href="images/procesos/GE/cronograma/horarioclase.pdf" target="_blank">Horario de Clase 2014</a></li>
 </ul>
 ----
 
+.actual 2014
+[source, console]
+----
+<ul>
+    <li><span style="color: #ff0000;"><a href="images/procesos/GD/INDICACIONES-SEMANALES.pdf" target="_blank"><span style="color: #ff0000;">INDICACIONES SEMANALES</span></a></span></li>
+    <li><a href="images/procesos/GD/cronograma/cronograma.pdf" target="_blank">Año 2014</a></li>
+    <li><a href="images/procesos/GE/cronograma/horarioclase.pdf" target="_blank">Horario de Clase 2014</a></li>
+    <li><a href="images/procesos/GE/cronograma/HorarioAtencionPadres.pdf" target="_blank">Horario de Atención a Padres</a></li>
+</ul>
+----
 
-
+.actual 2015
+[source, console]
+----
+<ul>
+    <li><span style="color: #ff0000;"><a href="images/procesos/GD/INDICACIONES-SEMANALES.pdf" target="_blank"><span style="color: #ff0000;">INDICACIONES SEMANALES</span></a></span></li>
+    <li><a href="images/procesos/GE/cronograma/2015/PLANLECTOR-2015.pdf" target="_blank">PLAN LECTOR 2015</a></li>
+</ul>
+----
 
 

@@ -1,0 +1,344 @@
+[[agenda]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== VARIOS
+
+* nvalero - fmc158ceni
+
+
+
+
+== SUGERENCIAS
+
+hola buenas tardes.
+pues la verdad es para sujerir que pues los niños tambien desean saber sus notas y pues la verdad hay algunos padres que no deja que pues los niños tenga su clave asi que pues entonces les recomiendo que pongan en el gnosoft de los niños los educando las notas, para ellos asi saber que van perdiendo y que no.
+ bueno gracias adios
+
+Cordial Saludo, señores ALBA CONSUELO AREVALO DURAN, su sugernecia se plante&#243; a Gesti&#243;n Educativa para su analisis Le agradezco su preocupaci&#243;n y quedo atento a atender cualquier inquietud. Muchas Gracias. Atentamente: Nelson Fern&#225;ndez G&#243;mez. Gesti&#243;n de la Informaci&#243;n.
+
+== GE
+
+** SUAREZ PINZON JORGE EDUARDO: Reporte Excelencia Acad&#233;mica -
+
+== DAVID
+
+211212-0901-7 - BOSSA - 2013
+INFORME:ESTADISTICA/POR ESTUDIANTE/JUICIOS VALORATIVOS/BTO/PERIODO:5/NOTAS NUMERICAS:Si
+
+
+== MUSICA
+
+https://play.spotify.com/search/Classic%20Remixes
+
+== DATACREDITO
+
+-  Juan Esteban Alzate Aislant - 213127 - 2013
+
+== PROFESORES
+
+
+1094879068 - dmarulanda - k0tci3
+1094879068 - NUEVO
+
+1053774734 - CARLOS ANDRES GIRALDO OLIVEROS - cagiraldo - fij0vm
+8679323 - CARLOS EDUARDO VERGEL CASTILLA - cvergel - 15jrmw
+
+== AGENDA DEL 2014
+
+213207 - MARIA MARGARITA LOZANO VAZQUEZ VERIFICAR EL RECIBO DE MAY SEGUN LA MAMA PAGO
+Reclamo: 213127 - 0001-2 Verificar DataCredito - 2013 - FECHA DE CORTE:2014-01-31 - C.C.63532905
+Reclamo: GARCIA FRANCO ALBERTO RUIZ C.C.4191532
+
+211095 BLANCO VARGAS JUAN SE BORRO EL RECIBO DE ABRIL
+
+RECIBOS DE ABRIL DE PENSION
+
+211051 NO SE FACTURO ABRIL SE FACTURO MAYO CON UN RECARGO DE ABRIL.
+
+RESTAURANTE
+
+214158 - GALEANO VASQUEZ REVISAR SI SE LE GENERO EL RECIBO DE MAYO
+
+MAC PARA EL SERVIDOR PARA LA HUELLA:F4CE46B9E518, ah ok al hacer el cambio de servidor, y ponerlo a trabajar sobre una nueva m&#225;quina virtual,
+con una mac diferente, no arranca el reconocimiento dactilar.
+
+USUARIOS PRUEBA PILOTO - https://mail.google.com/mail/u/0/#inbox/1474a5d2496134a4
+
+* Prueba Piloto Saber11° por computador - https://mail.google.com/mail/u/0/#inbox/14744f1883245dd1[gi@lasallebga.edu.co]
+
+
+POR FAVOR CONFIRMAR EL RECIBIDO DE ESTE CORREO. MUCHAS GRACIAS.
+
+FAVOR CONTESTAR EL CORREO CON EL VISTO BUENO. Muchas Gracias.
+
+FAVOR CONTESTAR PARA CONFIRMAR EL RECIBIDO DE ESTE CORREO. MUCHAS GRACIAS.
+
+
+=== DAVID
+
+* DataCredito presentacion centro - Requerimiento:copia - datos
+
+* Archivo Historia academcia.
+
+* Avisor
+
+
+=== GNOSOFT
+
+* JAR:213141 - 1601 -  SERRANO MANCILLA MARCO ANDRES
+
+* PRI:213093 - 0501 -  ZAFRA OTERO FELIPE
+
+* BTO:213235 - 1103 -  MARIA GUADALUPE
+
+conciliacion de febrero
+
+* Matricula Dian - https://mail.google.com/mail/u/0/#inbox/14599c4cea5150bf
+
+* conciliacion feb pension https://mail.google.com/mail/u/0/#apps/cartera%40lasalle.org.co/1459a52374cecf7a[gi@lasallebga.edu.co]
+
+* conciliacion de trans y resta https://mail.google.com/mail/u/0/#inbox/1459a4d368453a63 - [gi@lasallebga.edu.co]
+
+=== ACTIVIDADES
+
+* Reuni&#243;n Equipos de Comunicaci&#243;n - https://mail.google.com/mail/ca/u/0/#inbox/145dc275a6a1b787[gi@lasallebga.edu.co]
+
+* Pr&#243;ximas Actividades Secretar&#237;a de Educaci&#243;n Mayo 2014 - https://mail.google.com/mail/ca/u/0/#inbox/145dc88666ec8c3c[gi@lasallebga.edu.co]
+
+* REUNI&#211;N VIRTUAL EL VIERNES 9 DE MAYO - 1:00 P:M - https://mail.google.com/mail/ca/u/0/#inbox/145dc9333e70fcfd[gi@lasallebga.edu.co]
+
+* Carta de articulos para actualizar pagina - Cambio de banner
+
+* Voz IP
+
+* Canal de Internet - Vlan
+
+* Validar el Datacredito
+
+* Reporte de mantenimientos de los equipos
+
+* Archivo Inactivo
+
+* Auditor&#237;a Interna
+
+* Modicaci&#243;n David
+
+* Modificaciones Centro
+
+* Modificaci&#243;n Ctg
+
+* Fotos de alumnos
+
+* Generar DataCredito
+
+* Verificar estudiantes por matricular
+
+* Interfaz de SIIGO
+
+* Facturaci&#243;n Gnosoft
+
+* Definir el archivo de la estrucutra de las ARS
+
+* Validar los c&#243;digo de los estudiantes
+
+* Dora albunes de fotos: 23,26,27
+
+* Copia de seguridad del distrito
+
+* Alerta del disco SAN 192.168.1.148 user:manage pwd:!manage
+
+* si sr, con la nueva ip no tengo acceso al servidor ssh, parece que no habilitaron el puerto 22 y el 18080
+
+* Defenir Titulares y coordinadores
+
+* Revisar calificaciones y boletines
+
+* Listado de Jefes de proceso.
+
+* Revisar agenda GC - Revisar inventarios
+
+* Renovaci&#243;n Servicio de Soporte SonicWALL
+
+* Agregar el informe de cuentas de usuarios activo y inactivo
+
+** 11 de febrero de 2014, 11:55 - ACCESO A GNOSOFT DOCENTES NUEVOS - https://mail.google.com/mail/u/0/?shva=1#inbox/14421dfa7053d2b5[gi@lasallebga.edu.co]
+
+** Verificar los correos de los docentes
+
+* Archivo digital inquitud de GT
+
+* Titulares y coordinadores
+
+* Pruebas del saber - Gnosoft
+
+* Equipo de Restaurante
+
+* Comite de Calidad
+
+* Estructura Academica
+
+** Definir bien los pasos
+
+* Organizar cajas bodega y archivo inactivo, carpetas
+
+* Fotos bibliotecas
+
+* Directorio Coordinadores
+
+* SIMACART
+
+** Trasladar la opción de SITUACION DEL CLIENTE DE MOFICACION PARA EL SIMATOOL
+
+** Crear un extracto general de todos los años.
+
+** MODIFICAR LOS CODIGOS DEL EXTRACTO DEL MES DE DIC
+
+** [CARTERA ACTUAL][F9][INFORME DE LOS MOROSOS] Padres o acudiente No
+
+*** MODIFICACIOM: Los nombres de los estudiantes que salgan completo y en las Becas
+
+* SIMAASIS XML-206-05: Compilar
+
+* Digitalizar el archivo.
+
+=== ACTIVIDADES REALIZADAS
+
+* Fotos de Gnosoft
+
+* Copias de Seguridad procura.
+
+* Reporte de las novedades de los equipos
+
+* Vatia con las salas.
+
+* Informe de la Dian
+
+** 27 de febrero de 2014, 17:05 - Solicitud https://mail.google.com/mail/u/0/#inbox/14475618e9a1f2bf[gi@lasallebga.edu.co]
+
+* INV.VERIFICAR - https://mail.google.com/mail/u/0/?shva=1#apps/gc/143a163f302c2da7
+
+* RELACION SWICTH SEGUN INVENTARIOS - https://mail.google.com/mail/u/0/?shva=1#apps/gc/143a11cfaf9969d8
+
+
+* Caso Nol: 4721866026 SAN:HP2000 DISCO DURO 2TB - 6G DP 7.2K SAS MDL SPARE:605475-001
+
+C&#233;sar A. Garc&#237;a Portilla.
+cesar-alejandro.garcia.portilla@hp.com
+Tel +52 (55) 5258 4600 ext. 6485
+Hewlett-Packard Company
+Prolongaci&#243;n Reforma 700
+Lomas de Santa Fe
+01210
+M&#233;xico DF
+
+
+* Cra 7 #99-53 Bogot&#225;, (+571)6390000 - (+571)6390604 Garant&#237;a: 018000514746 2-2-2 Empresarial
+
+* Caso No. 4647556982
+
+=== NOVEDADES DE EQUIPOS
+
+GI A RESTAURANTE
+HP Compaq dc5800 SFF PC, Intel Core 2 Quad Q8400, RAM 4GB, DD 300GB SERIAL:MXJ003047Y	INVENTARIO:21502822
+Monitor LCD HP L1710 de 17' SERIAL:3CQ9325SDR	INVENTARIO:21502823
+
+
+AUX DE GESTION EDUCATIVA A ARTES
+HP Compac Pro 4300 SFF PC, Intel Core I5, RAM 4GB, DD 500GB SERIAL:MXL3200LY9
+MONITOR: Monitor LCD HP LV1911 de 19' SERIAL:6CM3081JRD
+
+ASIGNADOS NUEVOS
+HP Compac Pro 4300 SFF PC, Intel Core I5, RAM 4GB, DD 500GB SERIAL:MXL3200LYX
+MONITOR: Monitor LCD HP LV1911 de 19' SERIAL:6CM31004TB
+
+
+
+-----------
+212057 - 0301 - GOMEZ VANEGAS THOMAS ESTEBAN - FONDO NACIONAL DEL AHORRO DORA VANEGAS CEL:310-3072823 - PRIMEROS DIAS DE MARZO
+RESTAURANTE NO PAGO
+TRANSPORTE PAGO
+
+=== AGENDA DE PROGRAMACION
+
+* 16 de enero de 2014, 7:58 - Ejempolos - Interfaz SIIGO - https://mail.google.com/mail/ca/u/0/?shva=1#apps/jairh%40lasalle.org.co/1439b21f4c0e7598[gi@lasallebga.edu.co]
+
+* 25 de noviembre de 2013, 9:32 - Archivo de Interfase de Terceros - https://mail.google.com/mail/ca/u/0/?shva=1#inbox/1428facf293d5998
+
+* 18 de noviembre de 2013, 16:01 - Video conferencia - SIMA SIIGO - https://mail.google.com/mail/ca/u/0/?shva=1#apps/contabilidad%40lasalle.org.co/1426d04c3cb1c4b6
+
+* 1 de octubre de 2013, 14:16 - Fwd: Estructura Archivos Planos Interfase SIIGO - https://mail.google.com/mail/ca/u/0/?shva=1#apps/contabilidad%40lasalle.org.co/1417572d7b199e66[gi@lasallebga.edu.co]
+
+https://mail.google.com/mail/ca/u/0/?shva=1#apps/jairh%40lasalle.org.co/1439b21f4c0e7598
+
+* Requerimientos de Cartagena - https://mail.google.com/mail/u/0/?ui=2#inbox/144d6e36641b21ba[simavirtual@gmail.com]
+
+  Crear en la facturaci&#243;n un concepto de cobro gesti&#243;n cartera, llamado "  GESTION COBRANZA" con el fin de cobrar a los deudores morosos
+  a partir de 30 d&#237;as en mora por un valor del 5% del saldo en mora,
+  le solicito me informe si es posible la aplicaci&#243;n de dicho concepto en la facturaci&#243;n y a partir de cuando
+  se podr&#237;a implementar, le agradezco su colaboraci&#243;n y a la espera de su respuesta
+
+* Certificados a archivo.
+
+* Habilitar el sitema SEAM-ISO
+
+* Requerimientos DAVID:
+
+** SIMACART - INFORME DE DESCUENTOS Y RECARGOS DESCRIMINADO. OK
+
+** SIMAMATR/ACTUALIZAR/PROCEDENCIA - VERFICAR LA INFORMACION ALMACENA EN LOS COLEGIOS DE PROCEDENCIA - CONFIABLE Pendiente Explicaci&#243;n
+
+** Informe con nombre completos de los alumnnos de morosos y ayudas. - SIMACART - Cartera Actual - OK
+
+** Datacredito - Revisar porque se totea en unos casos - PRESENTACION CENTRO -  PENDIENTE
+
+** Copia de seguridad con ant para implementar. OK
+
+* 12 de mayo de 2014, 7:47 - Carta Requerimientos Centro - https://mail.google.com/mail/u/0/?ui=2#search/davargasr%40hotmail.com/145f079d6116365f[simavirtual@gmail.com]
+
+** Carta 12 de Marzo.
+
+** Informe de Transporte de Estudiantes, codigo, apellidos,nombres,grado,No.de Ruta,Concepto de la Ruta si es media o Completa. OK
+
+** Informe de Cartera por Edades mas conceptos individuales OK
+
+*** SIMACART. Sale en un solo recibo de simacart con pension,transporte,restaurante. Tomar datos de prueba. OK
+
+** Informe de facturación de matricula por concepto de: valor matricula, material de enseñanza y extemporaneo con sus respectivos descuentos por matricular
+   de honor 100% y ayudas. Puede ser el de la DIAN tomorlo como base. HABILITAR DESCUENTOS Y RECARGOS PARA LA CAUSACION. PENDIENTE
+
+*** La matricula se consigna en la misma cuenta de pensiones caso de la presentacion.
+
+** Informe mensual de estudiantes que no van almorzar por codigo y grado, nombre y apellidos. SIMACAFE PENDIENTE YA ESTAN LOS DATOS
+
+** Informe de Terceros (DIAN) discriminados por conceptos y grupo familiar. YA
+
+** Informe de grupo familiares del grado mayor a menor. Esta en SIMACART - CONSULTAS/FAMILIAS DEL COLEGIO OK
+
+** Informe de verificacion en la cual los recaudos por cada concepto sean acorde a la facturacion.
+   Explicacion:
+               En contabilidad se hace la causacion de acuerdo a los informes del sima, asi mismos se hacen los descargos de cartera y coinciden contablemente
+   los conceptos registrados segun los conceptos del sima, pero cuando se pide un informe de cartera del sima por conceptos son totalmente diferentes, la
+   cartera general totalizada si cuadra sima vs contabilidad pero por conceptos (pension, ruta, cafeteria. Esta opcion se corrige con la interfaz contable.
+   CON LA INTERFAZ CONTABLE. [ACTUALIZAR][DESCUENTOS Y RECARGOS][ACTIVIVAR INDIVIDUALES][F9][DESCUENTOS Y RECARGOS POR CONCEPTOS]
+   informes>>alumnos moros>>>relacion de morosos>>nov>>cursos>>por estudiante>>>no>>fecha de corte si>>
+
+* Requerimiento Cartagena - https://mail.google.com/mail/u/0/#inbox/144b74bf8980f985[nelsonfer1@gmail.com]
+
+Cordial saludo
+Con la presente me permito solicitarle,  su colaboración para crear en la facturación un concepto de cobro gestión cartera,
+con el fin de cobrar a los deudores morosos a partir de 30 d&#237;as en mora por un valor del 5% del saldo en mora,
+le solicito me informe si es posible la aplicaci&#243;n de dicho concepto en la facturaci&#243;n y a partir de cuando se podr&#237;a implementar,
+le agradezco su colaboraci&#243;n y a la espera de su respuesta
+
+NUEVOS DAVID 28/08/2014
+
+COLSALLE
+
+* CALCULA - QUINTO PERIODO - FALTAN DATOS APROXIMACION PENDIENTE.

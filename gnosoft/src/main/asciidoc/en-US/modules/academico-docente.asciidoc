@@ -43,7 +43,7 @@ una ventana en la cual se debe digitar:
 * Para grabar se presiona el bot&#243;n [Agregar]
 
 * Para eliminar la observaci&#243;n se presiona el bot&#243;n [Quitar]
-
+  
 * Para abandonar sin realizar ning&#250;n cambio se presiona del bot&#243;n [Cerrar]
 
 * Para perder el est&#225;ndar se requiere de 2 observaciones negativas

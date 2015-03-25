@@ -1,5 +1,10 @@
 = GNOSOFT
 
+include::modules/actividades-generales.asciidoc[]
+include::modules/cada-periodo.asciidoc[]
+include::modules/academico-docente.asciidoc[]
+include::modules/informes.asciidoc[]
+include::modules/grabar-fotos.asciidoc[]
 include::modules/ars.asciidoc[]
 include::modules/casos.asciidoc[]
 include::modules/eleciones.asciidoc[]
@@ -7,6 +12,7 @@ include::modules/fijar-grupos.asciidoc[]
 include::modules/gnosoft.asciidoc[]
 include::modules/maticular-anteriores.asciidoc[]
 include::modules/prematriculas.asciidoc[]
+include::modules/matriculas.asciidoc[]
 include::modules/requerimientos.asciidoc[]
 include::modules/roles-procesos.asciidoc[]
 include::modules/validar-sima.asciidoc[]

@@ -28,13 +28,13 @@ n=&#241; N=&#209;
 
 * *1.4 FECHA DE CORTE*
 
-** Corresponde a la fecha en que se reporta a DataCrédito los estados de cuenta.
+** Corresponde a la fecha en que se reporta a DataCr&#233;dito los estados de cuenta.
 
-** Se toma la fecha de fin de mes de acuerdo al año(cAnoUsr), mes(cMesIni) y el sistema calcula el día de fin del mes
+** Se toma la fecha de fin de mes de acuerdo al a&#241;o(cAnoUsr), mes(cMesIni) y el sistema calcula el d&#237;a de fin del mes
 
 * *1.5 AMPLIACION MILENIO*
 
-** Constante: M: Indica que el año de las fechas viene reportado en cuatro digitos.
+** Constante: M: Indica que el a&#241;o de las fechas viene reportado en cuatro digitos.
 
 * *1.6 INDICADOR DE VALORES EN MILES*
 
@@ -42,7 +42,7 @@ n=&#241; N=&#209;
 
 * *1.7 TIPO DE ENTREGA*
 
-** Constante: T : Si el maestro es completo y corresponde a la actualización total del mes debe venir codificada una T
+** Constante: T : Si el maestro es completo y corresponde a la actualizaci&#243;n total del mes debe venir codificada una T
 
 * *1.8 FECHA DE INICIO REPORTE*
 
@@ -86,17 +86,17 @@ n=&#241; N=&#209;
 
 ** Se toma el mes inicial del primer recibo facturado
 
-** Se toma el año del reporte
+** Se toma el a&#241;o del reporte
 
-** Se toma como constante el día 01 del mes
+** Se toma como constante el d&#237;a 01 del mes
 
 * *2.7 FECHA DE VENCIMIENTO*
 
-** Se toma el mes final de la facturacion: SimaCart:[UTILIDADES][CONFIGURACION DEL AÑO]MES FINAL DE FACTURACION
+** Se toma el mes final de la facturacion: SimaCart:[UTILIDADES][CONFIGURACION DEL A&#209;O]MES FINAL DE FACTURACION
 
-** Se toma el año del reporte
+** Se toma el a&#241;o del reporte
 
-** Se toma como constante el día 30 del mes
+** Se toma como constante el d&#237;a 30 del mes
 
 * *2.8 RESPONSABLE O CALIDAD DE DEUDOR*
 
@@ -140,7 +140,7 @@ n=&#241; N=&#209;
 
 * *2.18 ESTADO DE LA CUENTA*
 
-** REP->cNovedaRep == '01' => 01 Al día
+** REP->cNovedaRep == '01' => 01 Al d&#237;a
 
 ** REP->cNovedaRep == '05' => 03 Pago Total
 
@@ -152,11 +152,11 @@ n=&#241; N=&#209;
 
 * *2.20 ESTADO DEL PLASTICO*
 
-** Constante: 0 : Aplica sólo para tarjeta de crédito
+** Constante: 0 : Aplica s&#243;lo para tarjeta de cr&#233;dito
 
 * *2.21 FECHA ESTADO DEL PLASTICO*
 
-** Constante: 00000000 : Aplica sólo para tarjeta de crédito
+** Constante: 00000000 : Aplica s&#243;lo para tarjeta de cr&#233;dito
 
 * *2.22 ADJECTIVO*
 
@@ -168,15 +168,15 @@ n=&#241; N=&#209;
 
 * *2.24 CLASE TARJETA*
 
-** Constante: 0 : Aplica sólo para tarjeta de crédito
+** Constante: 0 : Aplica s&#243;lo para tarjeta de cr&#233;dito
 
 * *2.25 FRANQUICIA*
 
-** Constante: 0 : Aplica sólo para tarjeta de crédito
+** Constante: 0 : Aplica s&#243;lo para tarjeta de cr&#233;dito
 
 * *2.26 NOMBRE MARCA PRIVADA*
 
-** REPL(' ',30) : Sólo aplica si el campo de Franquicia se reportó la codificación
+** REPL(' ',30) : S&#243;lo aplica si el campo de Franquicia se report&#243; la codificaci&#243;n
 
 * *2.27 TIPO DE MONEDA*
 
@@ -188,11 +188,11 @@ n=&#241; N=&#209;
 
 * *2.29 CALIFICACION*
 
-** Se reporta: A,B,C,D de acuerdo a la función novedad(..)
+** Se reporta: A,B,C,D de acuerdo a la funci&#243;n novedad(..)
 
 * *2.30 PROBABILIDAD DE INCUMPLIMIENTO*
 
-** Constante: 000 : Sólo aplica para las entidades vigiladas por la Superintendencia Financiera de Colombia
+** Constante: 000 : S&#243;lo aplica para las entidades vigiladas por la Superintendencia Financiera de Colombia
 
 * *2.31 EDAD DE MORA*
 
@@ -232,11 +232,11 @@ n=&#241; N=&#209;
 
 * *2.40 CLAUSULA DE PERMANENCIA*
 
-** Constante: 000 : Aplica sólo para obligaciones del sector real
+** Constante: 000 : Aplica s&#243;lo para obligaciones del sector real
 
 * *2.41 FECHA CLAUSULA DE PERMANCENCIA*
 
-** Constante: 00000000 :  Aplica sólo para obligaciones del sector real
+** Constante: 00000000 :  Aplica s&#243;lo para obligaciones del sector real
 
 * *2.42 FECHA LIMITE DE PAGO*
 
@@ -335,7 +335,7 @@ n=&#241; N=&#209;
 
 * *3.2 FECHA DE PROCESO*
 
-** aFecHoy[3]+aFecHoy[1]+aFecHoy[2] - Corresponde a la fecha en que se procesa la información que será enviada a DataCredito
+** aFecHoy[3]+aFecHoy[1]+aFecHoy[2] - Corresponde a la fecha en que se procesa la informaci&#243;n que ser&#225; enviada a DataCredito
 
 * *3.3 NUMERO DE REGISTROS*
 

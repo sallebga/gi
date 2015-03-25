@@ -8,16 +8,16 @@ A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
 n=&#241; N=&#209;
 ////
 
-== VERIFICACIÓN COPIA DE SEGURIDAD ANUAL QUE SE ENVIA A LA SECRETARIA DE EDUCACION
+== VERIFICACI&#211;N COPIA DE SEGURIDAD ANUAL QUE SE ENVIA A LA SECRETARIA DE EDUCACION
 
 * 21 de mayo de 2013 14:29 - COLEGIO LA SALLE BUCARAMANGA - DVD COPIA DE SEGURIDAD DEL 2012 - https://mail.google.com/mail/u/0/?shva=1#sent/13ec891b91488483[gi@lasallebga.edu.co]
 
 * 4 de julio de 2012 11:23 - COLEGIO LA SALLE BUCARAMANGA - DVD COPIA DE SEGURIDAD DEL 2011 - https://mail.google.com/mail/u/0/?shva=1#apps/calidadsed%40lasalle.org.co/13852cd9049d2490[gi@lasallebga.edu.co] -
 
 
-== VERIFICACIÓN COPIAS DE SEGURIDAD POR DEPENDENCIAS
+== VERIFICACI&#211;N COPIAS DE SEGURIDAD POR DEPENDENCIAS
 
-* 3 de junio de 2013 11:08 - COPIA DE SEGURIDAD DE CADA ÁREA HASTA EL SEGUNDO PERIODO DEL AÑO -  Enviada por Asesoría Académica. - https://mail.google.com/mail/ca/u/0/?shva=1#inbox/13f3e4b2ad14c1e4[gi@lasallebga.edu.co]
+* 3 de junio de 2013 11:08 - COPIA DE SEGURIDAD DE CADA &#193;REA HASTA EL SEGUNDO PERIODO DEL A&#209;O -  Enviada por Asesor&#237;a Acad&#233;mica. - https://mail.google.com/mail/ca/u/0/?shva=1#inbox/13f3e4b2ad14c1e4[gi@lasallebga.edu.co]
 
 
 == COPIA DE SEGURIDAD BOGOTA
@@ -26,13 +26,13 @@ n=&#241; N=&#209;
 
 * sima
 
-Conexión a Escritorio remoto: Server2
+Conexi&#243;n a Escritorio remoto: Server2
 E:\simabak\2014
 Archivo comprimido mas reciente
 
 * mspc
 
-** Conexión a Escritorio remoto: servschool
+** Conexi&#243;n a Escritorio remoto: servschool
 
 ** Copia de la Base de datos - SQL Server Management Studio
 
@@ -40,22 +40,22 @@ General:
  Base de datos:mspc
  [Click][Derecho][Tareas][Copia de Seguridad]
  [Agregar]
- D:\BackupMspc\año\mspc.bak
+ D:\BackupMspc\a&#241;o\mspc.bak
 
 Opciones:
 [Aceptar] - Realiza la copia de seguridad.
 
 Copiar la copia de la base de datos: mspc.bak al directorio de la copia
 
-** Copia de la aplicación Web
+** Copia de la aplicaci&#243;n Web
 
 Directorio: C:\Program Files\Apache Software Foundation\Tomcat 5.5\webapps\mspc.war
-Copiar al directorio de la copia: D:\BackupMspc\año
+Copiar al directorio de la copia: D:\BackupMspc\a&#241;o
 Recoger la copia
 
-Copia del directorio de las imagenes de la aplicación
+Copia del directorio de las imagenes de la aplicaci&#243;n
 Directorio: C:\Program Files\Apache Software Foundation\Tomcat 5.5\webapps\mspc\userfiles
-Copiar al directorio de la copia: D:\BackupMspc\año
+Copiar al directorio de la copia: D:\BackupMspc\a&#241;o
 Recoger la copia
 
 gnosoft
@@ -68,15 +68,15 @@ gnosoft
                                                                   COLEGIO LA SALLE
                                                                   CALLE 67 # 24-24
                                                                   BUCARAMANGA
-                                                                  GESTÓN DE LA INFORMACIÓN
+                                                                  GEST&#211;N DE LA INFORMACI&#211;N
 
 
 SECRETARIA DE EDUCACION
 DIAGONAL 46 # 19-28
-BOGOTÁ D.C
+BOGOT&#193; D.C
 GLORIA E ROZO GALVIS
-Asistente Gestión de la Calidad
-SECRETARIA DE EDUCACIÓN
+Asistente Gesti&#243;n de la Calidad
+SECRETARIA DE EDUCACI&#211;N
 
 === INTRANET
 
@@ -100,19 +100,19 @@ SECRETARIA DE EDUCACIÓN
 
 ** Tipo: Seleccionar todo
 
-** Institución: Colegio, N.A
+** Instituci&#243;n: Colegio, N.A
 
 ** Proceso: Todos y un proceso.
 
 ** Imprimir el LMR del proceso.
 
-* Validar los LMR del año anterior vs LMR el año actual - D:\GI\procesos\proceso\año\ARCHIVO\validar
+* Validar los LMR del a&#241;o anterior vs LMR el a&#241;o actual - D:\GI\procesos\proceso\a&#241;o\ARCHIVO\validar
 
 ** Encontrar diferencias - LMR2012-descargado-20-11-2012.xls - LMRExcel.xls
 
 ** Actualizar el sistema ISO - naif
 
-* GE - Relación de los todos los registros y la forma como se deben ordenar. GE-FORMATOS-ORDENACION.xls
+* GE - Relaci&#243;n de los todos los registros y la forma como se deben ordenar. GE-FORMATOS-ORDENACION.xls
 
 * Diligenciar el formato F-GI-04
 
@@ -129,16 +129,16 @@ las DIRECTRICES PARA LA ENTREGA DE DOCUMENTOS AL ARCHIVO CENTRAL.
 
 Para facilitar dicha entrega anexo los siguientes archivos:
 
-* F-GI-04-GE-2012.doc: Con la relación de documentos a entregar al archivo central, en el cual se deben completar las columnas que
-  faltan  de acuerdo al número de carpetas que se vayan a entregar de cada documento.
+* F-GI-04-GE-2012.doc: Con la relaci&#243;n de documentos a entregar al archivo central, en el cual se deben completar las columnas que
+  faltan  de acuerdo al n&#250;mero de carpetas que se vayan a entregar de cada documento.
 
-* ROTULOS-GE-2012.txt: Con los rótulos que se deben utilizar para marcar las carpetas, igualmente falta
-  completar las fechas extremas, el número de carpetas y número de folios de acuerdo al número de carpetas que se vayan a entregar de cada documento.
+* ROTULOS-GE-2012.txt: Con los r&#243;tulos que se deben utilizar para marcar las carpetas, igualmente falta
+  completar las fechas extremas, el n&#250;mero de carpetas y n&#250;mero de folios de acuerdo al n&#250;mero de carpetas que se vayan a entregar de cada documento.
 
-* ROTULOS-BLANCO.doc: Un archivo en word que sirve como plantilla para elaborar los rótulos, de acuerdo
-  al archivo ROTULOS-GE-2012.txt del cual se debe copiar y pegar en dicha plantilla el rótulo(s) correspondiente.
+* ROTULOS-BLANCO.doc: Un archivo en word que sirve como plantilla para elaborar los r&#243;tulos, de acuerdo
+  al archivo ROTULOS-GE-2012.txt del cual se debe copiar y pegar en dicha plantilla el r&#243;tulo(s) correspondiente.
 
-* GE-FORMATOS-ORDENACION-2012.xls: Un archivo en el excel con la relación de todos los formatos y la forma
+* GE-FORMATOS-ORDENACION-2012.xls: Un archivo en el excel con la relaci&#243;n de todos los formatos y la forma
   como se deben ordenar para organizarlos en las carpetas.
 
 Es importante confrontar los documentos de acuerdo la listado maestro de registros.
@@ -195,7 +195,7 @@ Es importante confrontar los documentos de acuerdo la listado maestro de registr
 
 * Definir y actualizar la estructura directorios para cada proceso para almacenar todos los documentos.
 
-* Exalumnos revisar la organización.
+* Exalumnos revisar la organizaci&#243;n.
 
 
 

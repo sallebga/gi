@@ -14,14 +14,16 @@ Para desmontar el disco externo, cuando lo vayan a quitar deben ejecutar como us
 
 La ip es 192.168.1.241: la carpeta se llama gnosoft.bak para probar la carpeta compartida, el usuario es academico - pw:sbga56%&
 
-MAC PARA EL SERVIDOR PARA LA HUELLA:F4CE46B9E518, ah ok al hacer el cambio de servidor, y ponerlo a trabajar sobre una nueva máquina virtual,
+MAC PARA EL SERVIDOR PARA LA HUELLA:F4CE46B9E518, ah ok al hacer el cambio de servidor, y ponerlo a trabajar sobre una nueva m&#225;quina virtual,
 con una mac diferente, no arranca el reconocimiento dactilar.
 
-Buenos días Ing. Para comentarle, necesitamos acceder al servidor para configurar unos reportes del Centro Administrador de Datos, del
+Buenos d&#237;as Ing. Para comentarle, necesitamos acceder al servidor para configurar unos reportes del Centro Administrador de Datos, del
 Distrito Lasallista, pero como el servidor maneja otro firewall, no nos ha sido posible, entonces le solicitamos el favor de admitir el puerto
-5432:tcp, para nosotros poder acceder a través de ese puerto. Gracias.
+5432:tcp, para nosotros poder acceder a trav&#233;s de ese puerto. Gracias.
 
 winbox:172.31.72.7 - salle - salle14*
+
+http://192.168.100.2
 
 == VLAN
 
@@ -64,9 +66,9 @@ winbox:172.31.72.7 - salle - salle14*
 
 ** http://192.168.100.3/[http://192.168.100.61:VMware HPServer1 - SIMA-Intranet]
 
-*** Dirección IP: 192.168.100.3
+*** Direcci&#243;n IP: 192.168.100.3
 
-*** Máscara de Subred: 255.255.255.0
+*** M&#225;scara de Subred: 255.255.255.0
 
 *** Puerta de enlace predeterminada: 192.168.100.1
 
@@ -178,7 +180,7 @@ winbox:172.31.72.7 - salle - salle14*
 |R1-SW1-20|              |SISTEMAS            |
 |R1-SW1-21|              |SISTEMAS            |
 |R1-SW1-22|              |SISTEMAS            |
-|R1-SW1-23|X0-SONICW-LAN |TRUNK               | https://mail.google.com/mail/u/0/#inbox/14880312147c9442 - [ACTION REQUIRED - Información de su cuenta de SonicWALL] - PMYBKUQO
+|R1-SW1-23|X0-SONICW-LAN |TRUNK               | https://mail.google.com/mail/u/0/#inbox/14880312147c9442 - [ACTION REQUIRED - Informaci&#243;n de su cuenta de SonicWALL] - PMYBKUQO
 |R1-SW1-24|X1-MICROT-WAN |NO VLAN             |
 |R1-SW1-25|X2-SONICW-WAFI|TRUNK               |
 |R1-SW1-26|DVR-VIDEO     |VIDEO-IP            |
@@ -969,7 +971,7 @@ winbox:172.31.72.7 - salle - salle14*
 |R10-SW1-07|CIENCIAS      |DOCENTES            |
 |R10-SW1-08|MATEMATICAS   |DOCENTES            |
 |R10-SW1-09|SOCIALES      |DOCENTES            |
-|R10-SW1-10|ESPAÑOL       |DOCENTES            |
+|R10-SW1-10|ESPA&#209;OL       |DOCENTES            |
 |R10-SW1-11|              |DOCENTES            |
 |R10-SW1-12|EDUFISICA     |DOCENTES            |
 |R10-SW1-13|ARTES1        |DOCENTES            |
@@ -1033,7 +1035,7 @@ winbox:172.31.72.7 - salle - salle14*
 |R10PP2-07-SW-XX|CIENCIAS    |
 |R10PP2-08-SW-XX|MATEMATICAS |
 |R10PP2-09-SW-XX|SOCIALES    |
-|R10PP2-10-SW-XX|ESPAÑOL     |
+|R10PP2-10-SW-XX|ESPA&#209;OL     |
 |R10PP2-11-SW-XX|            |
 |R10PP2-12-SW-XX|EDUFISICA   |
 |R10PP2-13-SW-XX|ARTES1      |

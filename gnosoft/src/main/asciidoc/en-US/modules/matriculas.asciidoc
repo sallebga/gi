@@ -1,0 +1,64 @@
+[[gnosoft-matriculas]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== RECURSOS
+
+* http://192.168.100.250:8088/crm-rc2/Contenidos.java?contenidosId=15&contenidosFrom=TiposContenidos&tiposContenidosId=2&cid=14[MATRICULAS]
+
+* http://192.168.100.250:8088/crm-rc2/Agendas.java?agendasId=164[MATRICULAS ACADEMICAS]
+
+== MATRICULAS
+
+. *IMPRESION HOJA DE MATRICULA:*
+
+* *[Acad&#233;mico administrador][Consultas y reportes][Actas y constancias][Generar hoja de matr&#237;cula masiva]*
+** *A&#241;o Lectivo:* Verificar el a&#241;o electivo. Es el a&#241;o de las inscripciones. SE DEBE CHEQUEAR LA OPCION INCLUIR NO MATRICULADOS
+** *Tipo de Estudiante - Nuevo:* El estudiante nuevo que ya ha sido matriculado
+** *Tipo de Estudiante - Antiguo:* Antiguos matriculados
+** *Tipo de Estudiante - Admitido:* Estudiante que no ha sido matr&#237;culado
+** *Selecionar los grados*[Generar]
+** NOTA: Se debe ejecutar las siguentes opciones previamente:
+*** Las fechas de matriculas del a&#241;o anterior deben estar cerradas y las del a&#241;o siguiente activas.
+*** *[Acad&#233;mico administrador][Estructura Curricular][Gestionar A&#241;o Lectivo]*
+*** *[Acad&#233;mico administrador][Herramientas][Actualizar tipo estudiantes][Convertir Estudiantes Nuevos Matriculados en ANTIGUOS]*
+*** Esta opci&#243;n debe ser ejecutada antes de admitir cualquier estudiante para el a&#241;o siguiente
+
+ah no que pena
+[8:09:13 a. m.] Cliente Gnosoft: acabo de generar para prejardin y segundo y me salen bien
+[8:09:29 a. m.] Cliente Gnosoft: intente de nuevo a&#241;o 2015 incluir no matriculados tipo antiguo y los grados
+[8:09:57 a. m.] Cliente Gnosoft: no puede sacar con todos los tipos al tiempo debe ser por tipo
+
+. *ROL AUXILIAR-AM-MATRICULAS*
+
+** [Academico administrador][Matriculas]
+*** Matricular Estudiante
+*** Gestionar Contratantes/ Codeudores
+
+. *USUARIOS AUXILIARES PARA LA MATRICULA*
+
+* 9999990001 - a1 - a2
+* 9999990002 - a2 - a1
+* 9999990003 - a3 - a4
+* 9999990004 - a4 - a3
+* 9999990006 - a5 - a4
+* 9999990007 - a6 - a5
+* 9999990008 - a7 - a6
+* 9999990009 - a8 - a7
+
+. MATRICULA GNOSOFT
+
+* *[Academico administrador][Matr&#237;cula][Gestionar Fechas de Matr&#237;cula]*
+* *[Academico administrador][Matr&#237;cula][Matricular Estudiante]* Seleccionar el a&#241;o electivo
+* *[Academico administrador][Matr&#237;cula][Matricular Estudiante][Gestionar Contratantes/ Codeudores]* Seleccionar el a&#241;o electivo
+
+hola buenas tardes.
+pues la verdad es para sujerir que pues los ni&#241;os tambien desean saber sus notas y pues la verdad hay algunos padres que no deja que pues los ni&#241;os tenga su clave asi que pues entonces les recomiendo que pongan en el gnosoft de los ni&#241;os los educando las notas, para ellos asi saber que van perdiendo y que no.
+ bueno gracias adios
+

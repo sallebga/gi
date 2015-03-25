@@ -1,0 +1,21 @@
+[[gnosoft-ebooks]]
+
+////
+a=&#225; e=&#233; i=&#237; o=&#243; u=&#250;
+
+A=&#193; E=&#201; I=&#205; O=&#211; U=&#218;
+
+n=&#241; N=&#209;
+////
+
+== LIBROS ELECTRONICOS
+
+. *RECURSOS:*
+
+* http://calibre-ebook.com/download[http://calibre-ebook.com/download]
+
+* http://www.valentinatruneanu.com/como-convertir-a-epub-un-documento-de-word/[C&#243;mo convertir a ePub un documento de Word]
+
+* http://www.valentinatruneanu.com/conversion-de-doc-a-mobi/[C&#243;mo preparar un archivo para su conversi&#243;n de DOC a MOBI]
+
+Right Now (Na Na)

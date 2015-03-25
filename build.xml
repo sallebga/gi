@@ -27,6 +27,7 @@
     <delete dir="gi\target" failonerror="no"/>
     <delete dir="paz\target" failonerror="no"/>
     <delete dir="gnosoft\target" failonerror="no"/>
+    <delete dir="cableado\target" failonerror="no"/>    
   </target>
 
 </project>
