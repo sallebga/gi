@@ -32,10 +32,6 @@ Jefes de Proceso.
 
 * Cualquier novedad o cambio que se genere en el Listado Maestro de Registros y las Tablas de Retenci&#243;n Documental se deben tener presente.
 
-* Se debe aplicar las actividades de control de los registros detalladas en el numeral 7.2 del
-  http://www.lasalle.org.co/downloads/documentos/PR-GQ-01v2.pdf[PR-GQ-02 PROCEDIMIENTO DE CONTROL DE DOCUMENTOS Y REGISTROS DEL SGC]
-  del proceso de Gesti&#243;n de la calidad.
-
 ==== CRITERIOS PARA LA ORGANIZACI&#211;N DE LAS CARPETAS
 
 Al momento de abrir una carpeta y conformar un expediente deben tener en cuenta los siguientes criterios:
