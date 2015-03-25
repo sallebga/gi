@@ -1,3 +1,0 @@
-= GI - REDES
-
-include::modules/items/racks.asciidoc[]

@@ -24,10 +24,12 @@
   <target name="del" description="Initialize the build">
     <delete dir="archivo\target" failonerror="no"/>
     <delete dir="auditoria\target" failonerror="no"/>
+    <delete dir="cableado\target" failonerror="no"/>
+    <delete dir="ebook\target" failonerror="no"/>
     <delete dir="gi\target" failonerror="no"/>
-    <delete dir="paz\target" failonerror="no"/>
     <delete dir="gnosoft\target" failonerror="no"/>
-    <delete dir="cableado\target" failonerror="no"/>    
+    <delete dir="paz\target" failonerror="no"/>
+    <delete dir="redes\target" failonerror="no"/>    
   </target>
 
 </project>
